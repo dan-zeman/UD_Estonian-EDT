@@ -48,3 +48,9 @@ data available to the research community.
 * Eckhard Bick, Heli Uibo, Kaili Müürisep. 2004.
   [Arborest – a VISL-Style Treebank Derived from an Estonian Constraint Grammar Corpus](http://beta.visl.sdu.dk/pdf/Bick_Uibo_Muurisep_TLT04.pdf).
   In: *Proceedings of Treebanks and Linguistic Theories,* Tübingen, Germany.
+
+
+Documentation status: stub
+Data source: unknown
+Data available since: UD v1.2
+License:
