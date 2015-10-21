@@ -5,8 +5,11 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>1315</sentences><tokens>9491</tokens></total>
+    <total><sentences>1315</sentences><tokens>9491</tokens><words>9491</words><fused>0</fused></total>
   </size>
+  <lemmas unique="3627" /><!-- ., --, tema+0, Peeter+0, ja+0, ole+0, liiguta+s, mööda+0, mina+0, üle+0, poole+0, mees+0, ole+i, eesti+0, tõuka+s -->
+  <forms unique="3763" /><!-- ., ,, ta, Peeter, ja, liigutas, on, mööda, poole, üle, oli, ', Eesti, tõukas, viskus -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="15">
     <tag name="ADJ">480</tag><!-- suur+0, viimane+0, tugev+0, kogu+0, noor+0, parem+0, suur+st, valge+d, hingetu+ks, must+0 -->
