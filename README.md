@@ -49,8 +49,10 @@ data available to the research community.
   [Arborest – a VISL-Style Treebank Derived from an Estonian Constraint Grammar Corpus](http://beta.visl.sdu.dk/pdf/Bick_Uibo_Muurisep_TLT04.pdf).
   In: *Proceedings of Treebanks and Linguistic Theories,* Tübingen, Germany.
 
-
+=== Machine-readable metadata =================================================
 Documentation status: stub
-Data source: unknown
+Data source: automatic
 Data available since: UD v1.2
-License:
+License: CC BY-NC-SA 3.0
+Genre: fiction spoken misc
+===============================================================================
