@@ -4,15 +4,9 @@ This treebank is generated semiautomatically from Estonian Dependency Treebank.
 
 ## Estonian Dependency Treebank
 
-[EDT] https://github.com/EstSyntax/EstUD
-is a new treebank released by the University of Tartu in 2014. Its authors are working on its
-conversion to Universal Dependencies. Once it is ready, it will probably replace the Arborest
-dataset here.
-
-## Acknowledgments
-
-We wish to thank the authors of the Arborest treebank for their effort and for making the
-data available to the research community.
+[EDT] (https://github.com/EstSyntax/EstUD)
+is a new treebank released by the University of Tartu in 2014. 
+The older version of Estonian UD treebank needs relabeling and will be available in the next release.
 
 ## References
 
@@ -27,6 +21,6 @@ Documentation status: stub
 Data source: semi-automatic
 Data available since: UD v1.3
 License: CC BY-NC-SA 3.0
-Genre: fiction news misc
+Genre: fiction news nonfiction
 Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina
 ===============================================================================
