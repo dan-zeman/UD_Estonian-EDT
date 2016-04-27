@@ -1413,7 +1413,7 @@
 #sent_id ilu_kivirahk_116
 #
 1	Jälle	jälle	ADV	D	_	4	advmod	_	_
-2	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	dobj	_	_
+2	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	4	dobj	_	_
 3	istuma	istuma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	xcomp	_	_
 4	sättinud	sättima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	6	advcl	_	_
 5	,	,	PUNCT	Z	_	6	punct	_	_
@@ -2151,7 +2151,7 @@
 1	"	"	PUNCT	Z	_	3	punct	_	_
 2	Ära	ära	AUX	V	Mood=Imp|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	neg	_	_
 3	sega	segama	VERB	V	Connegative=Yes|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	dobj	_	_
+4	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	3	dobj	_	_
 5	vahele	vahele	ADV	D	_	3	compound:prt	_	_
 6	!	!	PUNCT	Z	_	3	punct	_	_
 
@@ -2797,7 +2797,7 @@
 2	Mina	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 3	pole	olema	AUX	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
 4	sind	sina	PRON	P	Case=Par|Number=Sing|Person=2|PronType=Prs	7	dobj	_	_
-5	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	7	nmod	_	_
+5	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	7	nmod	_	_
 6	pojaks	poeg	NOUN	S	Case=Tra|Number=Sing	7	xcomp	_	_
 7	soovinud	soovima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 8	!	!	PUNCT	Z	_	7	punct	_	_
@@ -3229,7 +3229,7 @@
 13	lõpuni	lõpp	NOUN	S	Case=Ter|Number=Sing	14	nmod	_	_
 14	sõi	sööma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 15	,	,	PUNCT	Z	_	19	punct	_	_
-16	endal	ise	PRON	P	Case=Ade|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	19	nmod	_	_
+16	endal	ise	PRON	P	Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes	19	nmod	_	_
 17	ees	ees	ADV	D	_	19	advmod	_	_
 18	valulik	valulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 19	ilme	ilme	NOUN	S	Case=Nom|Number=Sing	14	dep	_	_
@@ -3301,7 +3301,7 @@
 4	vaikides	vaikima	VERB	V	VerbForm=Ger	2	advcl	_	_
 5	,	,	PUNCT	Z	_	2	punct	_	_
 6	valas	valama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-7	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	6	nmod	_	_
+7	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	6	nmod	_	_
 8	teed	tee	NOUN	S	Case=Par|Number=Sing	6	dobj	_	_
 9	ja	ja	CONJ	J	_	2	cc	_	_
 10	jõi	jooma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -3767,7 +3767,7 @@
 12	jõllitas	jõllitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 13	ringi	ringi	ADV	D	_	12	compound:prt	_	_
 14	,	,	PUNCT	Z	_	2	punct	_	_
-15	endal	ise	PRON	P	Case=Ade|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	19	nmod	_	_
+15	endal	ise	PRON	P	Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes	19	nmod	_	_
 16	pea	pea	NOUN	S	Case=Nom|Number=Sing	19	nsubj:cop	_	_
 17	alles	alles	ADV	D	_	19	advmod	_	_
 18	unest	uni	NOUN	S	Case=Ela|Number=Sing	19	nmod	_	_
@@ -4922,7 +4922,7 @@
 23	,	,	PUNCT	Z	_	25	punct	_	_
 24	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	25	nsubj	_	_
 25	neelab	neelama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	acl:relcl	_	_
-26	endasse	ise	PRON	P	Case=Ill|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	25	nmod	_	_
+26	endasse	ise	PRON	P	Case=Ill|Number=Sing|PronType=Prs|Reflex=Yes	25	nmod	_	_
 27	ka	ka	ADV	D	_	29	advmod	_	_
 28	ratsude	ratsu	NOUN	S	Case=Gen|Number=Plur	29	nmod	_	_
 29	jalad	jalg	NOUN	S	Case=Nom|Number=Plur	25	dobj	_	_
@@ -6729,12 +6729,12 @@
 24	lautol	lauto	NOUN	S	Case=Ade|Number=Sing	23	nmod	_	_
 25	kummalist	kummaline	ADJ	A	Case=Par|Degree=Pos|Number=Sing	32	amod	_	_
 26	,	,	PUNCT	Z	_	25	punct	_	_
-27	rahustavat	rahusta=v	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	conj	_	_
+27	rahustavat	rahusta=v	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	conj	_	_
 28	ja	ja	CONJ	J	_	25	cc	_	_
 29	nagu	nagu	SCONJ	J	_	31	mark	_	_
 30	isegi	isegi	ADV	D	_	31	advmod	_	_
-31	uinutavat	uinuta=v	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	conj	_	_
-32	viit	viis	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	23	dobj	_	_
+31	uinutavat	uinuta=v	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	25	conj	_	_
+32	viit	viis	NOUN	S	Case=Par|Number=Sing	23	dobj	_	_
 33	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_kivirahk_527
@@ -7451,7 +7451,7 @@
 4	tahan	tahtma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	homme	homme	ADV	D	_	4	advmod	_	_
 6	ka	ka	ADV	D	_	4	advmod	_	_
-7	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	nmod	_	_
+7	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	4	nmod	_	_
 8	ühte	üks	NUM	N	Case=Par|Number=Sing|NumForm=Letter|NumType=Card	9	nummod	_	_
 9	muna	muna	NOUN	S	Case=Par|Number=Sing	4	dobj	_	_
 10	!	!	PUNCT	Z	_	4	punct	_	_
@@ -7964,7 +7964,7 @@
 3	meenutasid	meenutama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	_
 5	kõik	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	4	det	_	_
-6	endile	ise	PRON	P	Case=All|Degree=Pos|Number=Plur|Poss=Yes|Reflex=Yes	3	nmod	_	_
+6	endile	ise	PRON	P	Case=All|Number=Plur|PronType=Prs|Reflex=Yes	3	nmod	_	_
 7	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
 8	teekonna	teekond	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 9	püha	püha	ADJ	A	Case=Par|Degree=Pos|Number=Sing	10	amod	_	_
@@ -8295,7 +8295,7 @@
 9	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	11	nmod:poss	_	_
 10	kareda	kare	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	_
 11	naha	nahk	NOUN	S	Case=Gen|Number=Sing	8	dobj	_	_
-12	enesele	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	8	nmod	_	_
+12	enesele	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
 13	kuueks	kuub	NOUN	S	Case=Tra|Number=Sing	8	xcomp	_	_
 14	ja	ja	CONJ	J	_	2	cc	_	_
 15	rändan	rändama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -8449,7 +8449,7 @@
 5	ja	ja	CONJ	J	_	4	cc	_	_
 6	Püha	püha	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	Graali	Graal	PROPN	S	Case=Gen|Number=Sing	9	dobj	_	_
-8	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	nmod	_	_
+8	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	9	nmod	_	_
 9	võitma	võitma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	conj	_	_
 10	.	.	PUNCT	Z	_	4	punct	_	_
 
@@ -8772,7 +8772,7 @@
 #
 1	Kellele	kes	PRON	P	Case=All|Number=Sing|PronType=Int,Rel	4	nmod	_	_
 2	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-3	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	dobj	_	_
+3	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	4	dobj	_	_
 4	hoiab	hoidma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	?	?	PUNCT	Z	_	4	punct	_	_
 
@@ -9834,7 +9834,7 @@
 #sent_id ilu_indrikson_15
 #
 1	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	0	root	_	_
-2	parata	parata	X	X	_	1	advmod	_	_
+2	parata	parata	ADV	D	_	1	advmod	_	_
 3	.	.	PUNCT	Z	_	1	punct	_	_
 
 #sent_id ilu_indrikson_16
@@ -11038,7 +11038,7 @@
 1	Nagu	nagu	SCONJ	J	_	5	mark	_	_
 2	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
 3	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
-4	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	5	nmod	_	_
+4	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	5	nmod	_	_
 5	lubanud	lubama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	10	advcl	_	_
 6	,	,	PUNCT	Z	_	5	punct	_	_
 7	nii	nii	ADV	D	_	10	advmod	_	_
@@ -11995,7 +11995,7 @@
 #sent_id ilu_indrikson_243
 #
 1	Muutus	muutuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	iseendaks	ise_enese	PRON	P	Case=Tra|Degree=Pos|Number=Sing|Reflex=Yes	1	nmod	_	_
+2	iseendaks	ise_enese	PRON	P	Case=Tra|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	1	nmod	_	_
 3	.	.	PUNCT	Z	_	1	punct	_	_
 
 #sent_id ilu_indrikson_244
@@ -12144,7 +12144,7 @@
 4	:	:	PUNCT	Z	_	2	punct	_	_
 5	rahast	raha	NOUN	S	Case=Ela|Number=Sing	7	nmod	_	_
 6	raha	raha	NOUN	S	Case=Par|Number=Sing	7	dobj	_	_
-7	teha	tegema	VERB	V	VerbForm=Inf	3	acl	_	_
+7	teha	tegema	VERB	V	VerbForm=Inf	2	acl	_	_
 8	,	,	PUNCT	Z	_	7	punct	_	_
 9	kolmes	kolm	NUM	N	Case=Ine|Number=Sing|NumForm=Letter|NumType=Card	10	nummod	_	_
 10	võõrkeeles	võõr_keel	NOUN	S	Case=Ine|Number=Sing	11	nmod	_	_
@@ -12965,7 +12965,7 @@
 1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	6	nsubj:cop	_	_
 2	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
 3	sulle	sina	PRON	P	Case=All|Number=Sing|Person=2|PronType=Prs	6	nmod	_	_
-4	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	det	_	_
+4	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	3	det	_	_
 5	ka	ka	ADV	D	_	4	advmod	_	_
 6	kasulik	kasulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 7	:	:	PUNCT	Z	_	10	punct	_	_
@@ -13372,7 +13372,7 @@
 5	andekas	andekas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	conj	_	_
 6	ja	ja	CONJ	J	_	3	cc	_	_
 7	arvas	arvama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
-8	endast	ise	PRON	P	Case=Ela|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	7	nmod	_	_
+8	endast	ise	PRON	P	Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes	7	nmod	_	_
 9	liiga	liiga	ADV	D	_	10	advmod	_	_
 10	palju	palju	ADV	D	_	7	advmod	_	_
 11	.	.	PUNCT	Z	_	3	punct	_	_
@@ -14155,7 +14155,7 @@
 8	,	,	PUNCT	Z	_	4	punct	_	_
 9	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	10	neg	_	_
 10	leia	leidma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
-11	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	10	nmod	_	_
+11	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	10	nmod	_	_
 12	vist	vist	ADV	D	_	10	advmod	_	_
 13	õiget	õige	ADJ	A	Case=Par|Degree=Pos|Number=Sing	14	amod	_	_
 14	paika	paik	NOUN	S	Case=Par|Number=Sing	10	dobj	_	_
@@ -14196,7 +14196,7 @@
 12	küsis	küsima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	parataxis	_	_
 13	nüüd	nüüd	ADV	D	_	12	advmod	_	_
 14	ka	ka	ADV	D	_	19	advmod	_	_
-15	enesest	ise	PRON	P	Case=Ela|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	18	nmod	_	_
+15	enesest	ise	PRON	P	Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes	18	nmod	_	_
 16	väga	väga	ADV	D	_	18	advmod	_	_
 17	lugu	lugu	NOUN	S	Case=Par|Number=Sing	18	dobj	_	_
 18	pidav	pidav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	_
@@ -14859,8 +14859,8 @@
 4	kunst	kunst	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
 5	–	-	PUNCT	Z	_	4	punct	_	_
 6	taies	taies	NOUN	S	Case=Nom|Number=Sing	4	appos	_	_
-7	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	8	appos	_	_
-8	bensiinijaam	bensiini_jaam	NOUN	S	Case=Nom|Number=Sing	6	appos	_	_
+7	pluss	pluss	NOUN	S	Case=Nom|Number=Sing	8	dep	_	_
+8	bensiinijaam	bensiini_jaam	NOUN	S	Case=Nom|Number=Sing	6	dep	_	_
 9	.	.	PUNCT	Z	_	4	punct	_	_
 
 #sent_id ilu_ruben_174
@@ -15800,7 +15800,7 @@
 5	nii	nii	ADV	D	_	3	cc:preconj	_	_
 6	nagu	nagu	SCONJ	J	_	10	cc:preconj	_	_
 7	seitse	seitse	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	10	nsubj	_	_
-8	isegi	ise	PRON	P	Case=Nom|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	7	det	_	_
+8	isegi	ise	PRON	P	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	7	det	_	_
 9	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
 10	helendanud	helendama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	3	advcl	_	_
 11	sel	see	PRON	P	Case=Ade|Number=Sing|PronType=Dem	12	det	_	_
@@ -17509,7 +17509,7 @@
 
 #sent_id ilu_kanep_204
 #
-1	Endast	ise	PRON	P	Case=Ela|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	0	root	_	_
+1	Endast	ise	PRON	P	Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes	0	root	_	_
 2	.	.	PUNCT	Z	_	1	punct	_	_
 
 #sent_id ilu_kanep_205
@@ -18135,7 +18135,7 @@
 1	Mõistsin	mõistma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	,	,	PUNCT	Z	_	8	punct	_	_
 3	et	et	SCONJ	J	_	8	mark	_	_
-4	üle	üle	ADP	K	AdpType=Prep	6	case	_	_
+4	üle	üle	ADP	K	AdpType=Prep	5	case	_	_
 5	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	6	nummod	_	_
 6	piibu	piip	NOUN	S	Case=Gen|Number=Sing	9	dobj	_	_
 7	ei	ei	AUX	V	Mood=Cnd|Negative=Neg|VerbForm=Fin	8	neg	_	_
@@ -19931,7 +19931,7 @@
 4	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	saan	saama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
 6	kohe	kohe	ADV	D	_	5	advmod	_	_
-7	peksa	peksa	X	X	_	5	compound:prt	_	_
+7	peksa	peksa	ADV	D	_	5	compound:prt	_	_
 8	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_kanep_478
@@ -23654,7 +23654,7 @@
 7	aga	aga	CONJ	J	_	4	cc	_	_
 8	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	11	nsubj	_	_
 9	sulle	sina	PRON	P	Case=All|Number=Sing|Person=2|PronType=Prs	11	nmod	_	_
-10	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	det	_	_
+10	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	9	det	_	_
 11	meeldiks	meeldima	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
 12	?	?	PUNCT	Z	_	4	punct	_	_
 13	"	"	PUNCT	Z	_	4	punct	_	_
@@ -24343,7 +24343,7 @@
 #
 1	"	"	PUNCT	Z	_	2	punct	_	_
 2	Anna	andma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	andeks	andeks	X	X	_	2	advmod	_	_
+3	andeks	andeks	ADV	D	_	2	advmod	_	_
 4	,	,	PUNCT	Z	_	2	punct	_	_
 5	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
 6	tõesti	tõesti	ADV	D	_	8	advmod	_	_
@@ -24743,7 +24743,7 @@
 5	ette	ette	ADV	D	_	2	compound:prt	_	_
 6	,	,	PUNCT	Z	_	8	punct	_	_
 7	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	nmod	_	_
-8	parata	parata	X	X	_	2	advmod	_	_
+8	parata	parata	ADV	D	_	2	advmod	_	_
 9	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_kanep_1025
@@ -25448,7 +25448,7 @@
 41	siis	siis	ADV	D	_	45	advmod	_	_
 42	kuidas	kuidas	ADV	D	_	45	mark	_	_
 43	sul	sina	PRON	P	Case=Ade|Number=Sing|Person=2|PronType=Prs	45	nmod	_	_
-44	endal	ise	PRON	P	Case=Ade|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	43	det	_	_
+44	endal	ise	PRON	P	Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes	43	det	_	_
 45	läheb	minema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	38	advcl	_	_
 46	?	?	PUNCT	Z	_	6	punct	_	_
 47	"	"	PUNCT	Z	_	6	punct	_	_
@@ -26366,7 +26366,7 @@
 7	noormees	noor_mees	NOUN	S	Case=Nom|Number=Sing	3	conj	_	_
 8	,	,	PUNCT	Z	_	12	punct	_	_
 9	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	12	nsubj	_	_
-10	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	12	dobj	_	_
+10	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	12	dobj	_	_
 11	kättpidi	kätt_pidi	ADV	D	_	12	advmod	_	_
 12	tutvustas	tutvustama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	acl:relcl	_	_
 13	.	.	PUNCT	Z	_	2	punct	_	_
@@ -26462,7 +26462,7 @@
 1	"	"	PUNCT	Z	_	8	punct	_	_
 2	Kas	kas	ADV	D	_	8	advmod	_	_
 3	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	8	nsubj	_	_
-4	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	8	nmod	_	_
+4	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
 5	uut	uus	ADJ	A	Case=Par|Degree=Pos|Number=Sing	6	amod	_	_
 6	nime	nimi	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
 7	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	8	neg	_	_
@@ -26763,7 +26763,7 @@
 #sent_id ilu_maailm_51
 #
 1	Keerasin	keerama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	1	dobj	_	_
+2	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	1	dobj	_	_
 3	tekkidesse	tekk	NOUN	S	Case=Ill|Number=Plur	1	nmod	_	_
 4	.	.	PUNCT	Z	_	1	punct	_	_
 
@@ -27191,7 +27191,7 @@
 6	võimalikult	võimalikult	ADV	D	_	7	advmod	_	_
 7	kiiresti	kiiresti	ADV	D	_	8	advmod	_	_
 8	leiaks	leidma	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
-9	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	8	nmod	_	_
+9	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
 10	mõne	mõni	ADJ	P	Case=Gen|Number=Sing	11	amod	_	_
 11	teise	teine	PRON	P	Case=Gen|Number=Sing|PronType=Dem	12	det	_	_
 12	varjualuse	varju_alune	NOUN	S	Case=Gen|Number=Sing	8	dobj	_	_
@@ -27233,7 +27233,7 @@
 1	"	"	PUNCT	Z	_	3	punct	_	_
 2	Ära	ära	AUX	V	Mood=Imp|Negative=Neg|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	neg	_	_
 3	pane	panema	VERB	V	Connegative=Yes|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-4	tähele	tähele	X	X	_	3	compound:prt	_	_
+4	tähele	tähele	ADV	D	_	3	compound:prt	_	_
 5	.	.	PUNCT	Z	_	3	punct	_	_
 
 #sent_id ilu_maailm_104
@@ -27580,7 +27580,7 @@
 #sent_id ilu_maailm_136
 #
 1	Olin	olema	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	5	aux	_	_
-2	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	5	dobj	_	_
+2	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	5	dobj	_	_
 3	töölt	töö	NOUN	S	Case=Abl|Number=Sing	5	nmod	_	_
 4	lahti	lahti	ADV	D	_	5	compound:prt	_	_
 5	võtnud	võtma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
@@ -28848,7 +28848,7 @@
 7	-	-	PUNCT	Z	_	12	punct	_	_
 8	suitsetamisega	suitsetamine	NOUN	S	Case=Com|Number=Sing	6	nmod	_	_
 9	-	-	PUNCT	Z	_	12	punct	_	_
-10	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	11	dobj	_	_
+10	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	11	dobj	_	_
 11	tõestada	tõestama	VERB	V	VerbForm=Inf	12	xcomp	_	_
 12	tahan	tahtma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	16	advcl	_	_
 13	,	,	PUNCT	Z	_	14	punct	_	_
@@ -29067,14 +29067,14 @@
 2	pani	panema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	_
 4	pilku	pilk	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
-5	tähele	tähele	X	X	_	2	advmod	_	_
+5	tähele	tähele	ADV	D	_	2	advmod	_	_
 6	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_maailm_277
 #
 1	"	"	PUNCT	Z	_	2	punct	_	_
 2	Ostsin	ostma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	nmod	_	_
+3	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
 4	mööblit	mööbel	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
 5	.	.	PUNCT	Z	_	2	punct	_	_
 
@@ -29309,7 +29309,7 @@
 #sent_id ilu_maailm_301
 #
 1	Kui	kui	SCONJ	J	_	4	mark	_	_
-2	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	nmod	_	_
+2	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	4	nmod	_	_
 3	saia	sai	NOUN	S	Case=Par|Number=Sing	4	dobj	_	_
 4	lõikasin	lõikama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
 5	,	,	PUNCT	Z	_	4	punct	_	_
@@ -29322,7 +29322,7 @@
 #sent_id ilu_maailm_302
 #
 1	Lõikasin	lõikama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	1	nmod	_	_
+2	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	1	nmod	_	_
 3	kogemata	kogemata	ADV	D	_	1	advmod	_	_
 4	üsna	üsna	ADV	D	_	5	advmod	_	_
 5	valusalt	valusalt	ADV	D	_	1	advmod	_	_
@@ -30324,7 +30324,7 @@
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	täiesti	täiesti	ADV	D	_	2	advmod	_	_
-4	endast	ise	PRON	P	Case=Ela|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	nmod	_	_
+4	endast	ise	PRON	P	Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
 5	väljas	väljas	ADV	D	_	2	advmod	_	_
 6	.	.	PUNCT	Z	_	2	punct	_	_
 7	"	"	PUNCT	Z	_	2	punct	_	_
@@ -30702,7 +30702,7 @@
 
 #sent_id ilu_maailm_445
 #
-1	Ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	dobj	_	_
+1	Ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	2	dobj	_	_
 2	pestes	pesema	VERB	V	VerbForm=Ger	3	advcl	_	_
 3	meenus	meenuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	,	,	PUNCT	Z	_	7	punct	_	_
@@ -31922,7 +31922,7 @@
 10	purjus	purjus	ADJ	A	Degree=Pos	4	acl:relcl	_	_
 11	kui	kui	SCONJ	J	_	12	mark	_	_
 12	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	10	advcl	_	_
-13	isegi	ise	PRON	P	Case=Nom|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	12	det	_	_
+13	isegi	ise	PRON	P	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	12	det	_	_
 14	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_maailm_561
@@ -32092,24 +32092,24 @@
 #sent_id ilu_maailm_575
 #
 1	Andsin	andma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-2	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	1	nmod	_	_
+2	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	1	nmod	_	_
 3	vaikimisi	vaikimisi	ADV	D	_	1	advmod	_	_
 4	korraldusi	korraldus	NOUN	S	Case=Par|Number=Plur	1	dobj	_	_
 5	:	:	PUNCT	Z	_	1	punct	_	_
 6	esimene	esimene	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	7	amod	_	_
 7	liigutus	liigutus	NOUN	S	Case=Nom|Number=Sing	1	parataxis	_	_
 8	-	-	PUNCT	Z	_	1	punct	_	_
-9	kittel	kittel	NOUN	S	Case=Nom|Number=Sing	7	appos	_	_
+9	kittel	kittel	NOUN	S	Case=Nom|Number=Sing	7	dep	_	_
 10	selga	selg	NOUN	S	Case=Add|Number=Sing	9	nmod	_	_
 11	,	,	PUNCT	Z	_	7	punct	_	_
 12	teine	teine	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	7	conj	_	_
 13	-	-	PUNCT	Z	_	1	punct	_	_
 14	kella	kell	NOUN	S	Case=Par|Number=Sing	15	dobj	_	_
-15	vaadata	vaatama	VERB	V	VerbForm=Inf	12	acl	_	_
+15	vaadata	vaatama	VERB	V	VerbForm=Inf	12	dep	_	_
 16	,	,	PUNCT	Z	_	7	punct	_	_
 17	kolmas	kolmas	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	7	conj	_	_
 18	-	-	PUNCT	Z	_	1	punct	_	_
-19	spiraal	spiraal	NOUN	S	Case=Nom|Number=Sing	17	appos	_	_
+19	spiraal	spiraal	NOUN	S	Case=Nom|Number=Sing	17	dep	_	_
 20	teekannu	tee_kann	NOUN	S	Case=Add|Number=Sing	19	nmod	_	_
 21	.	.	PUNCT	Z	_	1	punct	_	_
 
@@ -32625,7 +32625,7 @@
 #
 1	"	"	PUNCT	Z	_	2	punct	_	_
 2	Anna	andma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	andeks	andeks	X	X	_	2	advmod	_	_
+3	andeks	andeks	ADV	D	_	2	advmod	_	_
 4	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_maailm_638
@@ -32921,7 +32921,7 @@
 10	näe	nägema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	dep	_	_
 11	,	,	PUNCT	Z	_	15	punct	_	_
 12	et	et	SCONJ	J	_	15	mark	_	_
-13	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	15	dobj	_	_
+13	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	15	dobj	_	_
 14	füüsikateaduskonda	füüsika_teaduskond	NOUN	S	Case=Add|Number=Sing	15	nmod	_	_
 15	taastada	taastama	VERB	V	VerbForm=Inf	10	dep	_	_
 16	.	.	PUNCT	Z	_	2	punct	_	_
@@ -34845,13 +34845,13 @@
 11	1870.	1870.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	12	amod	_	_
 12	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	8	nmod	_	_
 13	saksa	saksa	ADJ	G	_	14	amod	_	_
-14	geograaf	geo_graaf	NOUN	S	Case=Nom|Number=Sing	17	appos	_	_
-15	Ferdinand	Ferdinand	PROPN	S	Case=Nom|Number=Sing	16	nmod	_	_
-16	von	von	NOUN	S	Case=Nom|Number=Sing	17	case	_	_
-17	Richthofen	Richthofen	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+14	geograaf	geo_graaf	NOUN	S	Case=Nom|Number=Sing	15	appos	_	_
+15	Ferdinand	Ferdinand	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+16	von	von	NOUN	S	Case=Nom|Number=Sing	15	name	_	_
+17	Richthofen	Richthofen	PROPN	S	Case=Nom|Number=Sing	15	name	_	_
 18	,	,	PUNCT	Z	_	20	punct	_	_
 19	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	20	nsubj	_	_
-20	kaardistas	kaardistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	acl:relcl	_	_
+20	kaardistas	kaardistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	_
 21	arheoloogide	arheoloog	NOUN	S	Case=Gen|Number=Plur	23	nmod	_	_
 22	poolt	poolt	ADP	K	AdpType=Post	21	case	_	_
 23	väljakaevatud	välja_kaeva=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	24	acl	_	_
@@ -34946,7 +34946,7 @@
 20	,	,	PUNCT	Z	_	22	punct	_	_
 21	et	et	SCONJ	J	_	22	mark	_	_
 22	rajada	rajama	VERB	V	VerbForm=Inf	13	dep	_	_
-23	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	22	nmod	_	_
+23	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	22	nmod	_	_
 24	pääs	pääs	NOUN	S	Case=Nom|Number=Sing	22	dobj	_	_
 25	soojade	soe	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	26	amod	_	_
 26	veteni	vesi	NOUN	S	Case=Ter|Number=Plur	24	nmod	_	_
@@ -35473,7 +35473,7 @@
 8	reisikaaslasele	reisi_kaaslane	NOUN	S	Case=All|Number=Sing	5	nmod	_	_
 9	ning	ning	CONJ	J	_	1	cc	_	_
 10	lasksid	laskma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	1	conj	_	_
-11	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	12	dobj	_	_
+11	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	12	dobj	_	_
 12	pildistada	pildistama	VERB	V	VerbForm=Inf	10	xcomp	_	_
 13	.	.	PUNCT	Z	_	1	punct	_	_
 
@@ -37003,7 +37003,7 @@
 13	lubab	lubama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	conj	_	_
 14	teise	teine	PRON	P	Case=Gen|Number=Sing|PronType=Dem	15	det	_	_
 15	inimese	inimene	NOUN	S	Case=Gen|Number=Sing	13	dobj	_	_
-16	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	13	nmod	_	_
+16	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	13	nmod	_	_
 17	väga	väga	ADV	D	_	18	advmod	_	_
 18	lähedale	lähedale	ADV	D	_	13	advmod	_	_
 19	,	,	PUNCT	Z	_	23	punct	_	_
@@ -37419,7 +37419,7 @@
 21	pane	panema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	16	acl:relcl	_	_
 22	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	23	det	_	_
 23	veendumuses	veendumus	NOUN	S	Case=Ine|Number=Sing	21	nmod	_	_
-24	tähele	tähele	X	X	_	21	advmod	_	_
+24	tähele	tähele	ADV	D	_	21	advmod	_	_
 25	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_remsu_234
@@ -37647,7 +37647,7 @@
 18	venelased	venelane	NOUN	S	Case=Nom|Number=Plur	5	parataxis	_	_
 19	,	,	PUNCT	Z	_	18	punct	_	_
 20	aga	aga	CONJ	J	_	18	cc	_	_
-21	pärit	pärit	X	X	_	22	advmod	_	_
+21	pärit	pärit	ADV	D	_	22	advmod	_	_
 22	Almatõst	Almatõ	PROPN	S	Case=Ela|Number=Sing	18	conj	_	_
 23	,	,	PUNCT	Z	_	26	punct	_	_
 24	Kasahstani	Kasahstan	PROPN	S	Case=Gen|Number=Sing	26	nmod	_	_
@@ -37662,7 +37662,7 @@
 #
 1	Noormehed	noor_mees	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
 2	lubasid	lubama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	nmod	_	_
+3	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
 4	irvitamist	irvita=mine	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
 5	Kasahstani	Kasahstan	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
 6	iseseisvuse	ise_seisvus	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
@@ -38238,7 +38238,7 @@
 2	venekeelne	vene_keelne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
 3	tšai	tšai	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	pärit	pärit	X	X	_	4	advmod	_	_
+5	pärit	pärit	ADV	D	_	4	advmod	_	_
 6	hiina	hiina	ADJ	G	_	7	amod	_	_
 7	keelest	keel	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	_
 8	,	,	PUNCT	Z	_	12	punct	_	_
@@ -38261,7 +38261,7 @@
 #
 1	Euroopa	Euroopa	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	laenas	laenama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	nmod	_	_
+3	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
 4	lõunahiinakeelse	lõunahiina_keelne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	8	amod	_	_
 5	,	,	PUNCT	Z	_	6	punct	_	_
 6	Venemaa	Vene_maa	PROPN	S	Case=Nom|Number=Sing	2	advcl	_	_
@@ -38528,7 +38528,7 @@
 2	,	,	PUNCT	Z	_	4	punct	_	_
 3	et	et	SCONJ	J	_	4	mark	_	_
 4	esitasin	esitama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	1	ccomp	_	_
-5	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	nmod	_	_
+5	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	4	nmod	_	_
 6	juba	juba	ADV	D	_	7	advmod	_	_
 7	toona	toona	ADV	D	_	4	advmod	_	_
 8	küsimuse	küsimus	NOUN	S	Case=Gen|Number=Sing	4	dobj	_	_
@@ -38564,7 +38564,7 @@
 11	,	,	PUNCT	Z	_	15	punct	_	_
 12	et	et	SCONJ	J	_	15	mark	_	_
 13	tal	tema	PRON	P	Case=Ade|Number=Sing|Person=3|PronType=Prs	15	nmod	_	_
-14	endal	ise	PRON	P	Case=Ade|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	13	det	_	_
+14	endal	ise	PRON	P	Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes	13	det	_	_
 15	jätkuks	jätkuma	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl	_	_
 16	jõudu	jõud	NOUN	S	Case=Par|Number=Sing	15	nsubj	_	_
 17	pääsemiseks	pääsemine	NOUN	S	Case=Tra|Number=Sing	15	nmod	_	_
@@ -38621,7 +38621,7 @@
 7	inimese	inimene	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 8	vastutuse	vastutus	NOUN	S	Case=Gen|Number=Sing	5	conj	_	_
 9	ainult	ainult	ADV	D	_	10	advmod	_	_
-10	iseenda	ise_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|Reflex=Yes	8	nmod	_	_
+10	iseenda	ise_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	8	nmod	_	_
 11	eest	eest	ADP	K	AdpType=Post	10	case	_	_
 12	,	,	PUNCT	Z	_	3	punct	_	_
 13	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	14	nsubj	_	_
@@ -38639,7 +38639,7 @@
 5	,	,	PUNCT	Z	_	3	punct	_	_
 6	taunib	taunima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 7	pagemist	page=mine	NOUN	S	Case=Par|Number=Sing	6	dobj	_	_
-8	iseenda	ise_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|Reflex=Yes	9	nmod	_	_
+8	iseenda	ise_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	9	nmod	_	_
 9	päästmise	päästmine	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
 10	nimel	nimel	ADP	K	AdpType=Post	9	case	_	_
 11	.	.	PUNCT	Z	_	6	punct	_	_
@@ -38826,7 +38826,7 @@
 7	meesterahva	meeste_rahvas	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
 8	ja	ja	CONJ	J	_	2	cc	_	_
 9	sättis	sättima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
-10	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	dobj	_	_
+10	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	9	dobj	_	_
 11	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	9	nmod	_	_
 12	kõrvale	kõrvale	ADP	K	AdpType=Post	11	case	_	_
 13	.	.	PUNCT	Z	_	2	punct	_	_
@@ -39025,7 +39025,7 @@
 3	mees	mees	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
 4	elu	elu	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
 5	käest	käest	ADP	K	AdpType=Post	4	case	_	_
-6	peksa	peksa	X	X	_	7	advmod	_	_
+6	peksa	peksa	ADV	D	_	7	advmod	_	_
 7	saanud	saama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
 8	ja	ja	CONJ	J	_	7	cc	_	_
 9	samas	samas	ADV	D	_	13	advmod	_	_
@@ -39230,7 +39230,7 @@
 2	Oi	oi	INTJ	I	_	4	discourse	_	_
 3	,	,	PUNCT	Z	_	4	punct	_	_
 4	andke	andma	VERB	V	Mood=Imp|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	andeks	andeks	X	X	_	4	advmod	_	_
+5	andeks	andeks	ADV	D	_	4	advmod	_	_
 6	!	!	PUNCT	Z	_	4	punct	_	_
 
 #sent_id ilu_vilep_44
@@ -39471,7 +39471,7 @@
 #
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	näpistas	näpistama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	dobj	_	_
+3	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	2	dobj	_	_
 4	käsivarrest	käsi_vars	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
 5	,	,	PUNCT	Z	_	2	punct	_	_
 6	raputas	raputama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
@@ -40312,7 +40312,7 @@
 9	tuletas	tuletama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	parataxis	_	_
 10	too	too	PRON	P	Case=Nom|Number=Sing|PronType=Dem	11	det	_	_
 11	koht	koht	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
-12	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	dobj	_	_
+12	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	9	dobj	_	_
 13	korinaga	korin	NOUN	S	Case=Com|Number=Sing	9	nmod	_	_
 14	meelde	meel	NOUN	S	Case=Add|Number=Sing	9	nmod	_	_
 15	ja	ja	CONJ	J	_	9	cc	_	_
@@ -41079,7 +41079,7 @@
 17	soe	soe	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	19	amod	_	_
 18	alasti	alasti	ADJ	A	Degree=Pos	19	amod	_	_
 19	keha	keha	NOUN	S	Case=Nom|Number=Sing	24	nsubj	_	_
-20	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	24	dobj	_	_
+20	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	24	dobj	_	_
 21	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	24	nmod	_	_
 22	vastu	vastu	ADP	K	AdpType=Post	21	case	_	_
 23	lusika-asendisse	lusika-asend	NOUN	S	Case=Ill|Number=Sing	24	nmod	_	_
@@ -41191,7 +41191,7 @@
 12	,	,	PUNCT	Z	_	5	punct	_	_
 13	mismoodi	mis_moodi	ADV	D	_	17	advmod	_	_
 14	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
-15	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	17	dobj	_	_
+15	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	17	dobj	_	_
 16	siis	siis	ADV	D	_	17	advmod	_	_
 17	nimetama	nimetama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	0	root	_	_
 18	pean	pidama	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	aux	_	_
@@ -41573,7 +41573,7 @@
 13	poolsosinal	pool_sosinal	ADV	D	_	11	advmod	_	_
 14	ja	ja	CONJ	J	_	11	cc	_	_
 15	keeras	keerama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	conj	_	_
-16	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	15	dobj	_	_
+16	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	15	dobj	_	_
 17	selili	selili	ADV	D	_	15	compound:prt	_	_
 18	.	.	PUNCT	Z	_	6	punct	_	_
 
@@ -42054,7 +42054,7 @@
 
 #sent_id ilu_vilep_288
 #
-1	Eneselegi	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	nmod	_	_
+1	Eneselegi	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	2	nmod	_	_
 2	ootamatult	ootamatult	ADV	D	_	3	advmod	_	_
 3	vastas	vastama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Jan	Jan	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
@@ -42376,7 +42376,7 @@
 18	ja	ja	CONJ	J	_	15	cc	_	_
 19	kättemaksuiha	kätte_maksu_iha	NOUN	S	Case=Gen|Number=Sing	15	conj	_	_
 20	üle	üle	ADP	K	AdpType=Post	15	case	_	_
-21	iseendas	ise_enese	PRON	P	Case=Ine|Degree=Pos|Number=Sing|Reflex=Yes	14	nmod	_	_
+21	iseendas	ise_enese	PRON	P	Case=Ine|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	14	nmod	_	_
 22	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id ilu_vilep_321
@@ -42459,7 +42459,7 @@
 #
 1	Leht	leht	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	pärit	pärit	X	X	_	2	advmod	_	_
+3	pärit	pärit	ADV	D	_	2	advmod	_	_
 4	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	_
 5	päevikust	päevik	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
 6	.	.	PUNCT	Z	_	2	punct	_	_
@@ -42695,7 +42695,7 @@
 14	tundis	tundma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 15	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	_
 16	toas	tuba	NOUN	S	Case=Ine|Number=Sing	14	nmod	_	_
-17	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	14	dobj	_	_
+17	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	14	dobj	_	_
 18	koduselt	koduselt	ADV	D	_	14	advmod	_	_
 19	.	.	PUNCT	Z	_	14	punct	_	_
 
@@ -43247,7 +43247,7 @@
 8	koos	koos	ADV	D	_	2	compound:prt	_	_
 9	,	,	PUNCT	Z	_	2	punct	_	_
 10	valetad	valetama	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	_
-11	iseendale	ise_enese	PRON	P	Case=All|Degree=Pos|Number=Sing|Reflex=Yes	10	nmod	_	_
+11	iseendale	ise_enese	PRON	P	Case=All|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	10	nmod	_	_
 12	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	13	det	_	_
 13	võimekust	võimekus	NOUN	S	Case=Par|Number=Sing	10	dobj	_	_
 14	,	,	PUNCT	Z	_	2	punct	_	_
@@ -44031,7 +44031,7 @@
 2	Sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 3	küsisid	küsima	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ju	ju	ADV	D	_	3	advmod	_	_
-5	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	nmod	_	_
+5	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	_
 6	vaba	vaba	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	päeva	päev	NOUN	S	Case=Gen|Number=Sing	3	dobj	_	_
 8	!	!	PUNCT	Z	_	3	punct	_	_
@@ -45956,7 +45956,7 @@
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	6	nsubj:cop	_	_
 2	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	3	neg	_	_
 3	olnud	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	6	cop	_	_
-4	endas	ise	PRON	P	Case=Ine|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	6	nmod	_	_
+4	endas	ise	PRON	P	Case=Ine|Number=Sing|PronType=Prs|Reflex=Yes	6	nmod	_	_
 5	sugugi	sugugi	ADV	D	_	6	advmod	_	_
 6	kindel	kindel	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 7	.	.	PUNCT	Z	_	6	punct	_	_
@@ -46311,7 +46311,7 @@
 2	kord	kord	NOUN	S	Case=Nom|Number=Sing	3	nmod	_	_
 3	võtan	võtma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	dobj	_	_
-5	endaga	ise	PRON	P	Case=Com|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	nmod	_	_
+5	endaga	ise	PRON	P	Case=Com|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	_
 6	kaasa	kaasa	ADV	D	_	3	compound:prt	_	_
 7	!	!	PUNCT	Z	_	3	punct	_	_
 

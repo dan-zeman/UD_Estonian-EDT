@@ -1890,7 +1890,7 @@
 8	kuid	kuid	CONJ	J	_	2	cc	_	_
 9	juhtunu	juhtunu	NOUN	S	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	12	nsubj:cop	_	_
 10	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
-11	isegi	ise	PRON	P	Case=Nom|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	det	_	_
+11	isegi	ise	PRON	P	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	9	det	_	_
 12	liig	liig	NOUN	S	Case=Nom|Number=Sing	2	conj	_	_
 13	.	.	PUNCT	Z	_	2	punct	_	_
 
@@ -2495,7 +2495,7 @@
 1	Tegelikult	tegelikult	ADV	D	_	2	advmod	_	_
 2	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	tal	tema	PRON	P	Case=Ade|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
-4	endal	ise	PRON	P	Case=Ade|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	det	_	_
+4	endal	ise	PRON	P	Case=Ade|Number=Sing|PronType=Prs|Reflex=Yes	3	det	_	_
 5	võrdlemisi	võrdlemisi	ADV	D	_	6	advmod	_	_
 6	nüri	nüri	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
 7	ilme	ilme	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
@@ -2841,7 +2841,7 @@
 5	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	sain	saama	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	_	_
 7	äsja	äsja	ADV	D	_	6	advmod	_	_
-8	peksa	peksa	X	X	_	6	compound:prt	_	_
+8	peksa	peksa	ADV	D	_	6	compound:prt	_	_
 9	!	!	PUNCT	Z	_	2	punct	_	_
 10	"	"	PUNCT	Z	_	2	punct	_	_
 
@@ -3775,7 +3775,7 @@
 1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	3	neg	_	_
 3	rääkinud	rääkima	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-4	endast	ise	PRON	P	Case=Ela|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	3	nmod	_	_
+4	endast	ise	PRON	P	Case=Ela|Number=Sing|PronType=Prs|Reflex=Yes	3	nmod	_	_
 5	.	.	PUNCT	Z	_	3	punct	_	_
 
 #sent_id ilu_maailm_250
@@ -4590,7 +4590,7 @@
 7	inimesi	inimene	NOUN	S	Case=Par|Number=Plur	3	dobj	_	_
 8	,	,	PUNCT	Z	_	7	punct	_	_
 9	peamiselt	peamiselt	ADV	D	_	10	advmod	_	_
-10	iseennast	ise_enese	PRON	P	Case=Par|Degree=Pos|Number=Sing|Reflex=Yes	7	conj	_	_
+10	iseennast	ise_enese	PRON	P	Case=Par|Degree=Pos|Number=Sing|PronType=Prs|Reflex=Yes	7	conj	_	_
 11	.	.	PUNCT	Z	_	3	punct	_	_
 
 #sent_id ilu_remsu_130
@@ -5004,7 +5004,7 @@
 #
 1	"	"	PUNCT	Z	_	2	punct	_	_
 2	Poo	pooma	VERB	V	Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ennast	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	2	dobj	_	_
+3	ennast	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	2	dobj	_	_
 4	üles	üles	ADV	D	_	2	compound:prt	_	_
 5	,	,	PUNCT	Z	_	7	punct	_	_
 6	kui	kui	SCONJ	J	_	7	mark	_	_
@@ -5561,7 +5561,7 @@
 #
 1	Mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	2	dobj	_	_
 2	teha	tegema	VERB	V	VerbForm=Inf	0	root	_	_
-3	omaenda	oma_enese	PRON	P	Case=Gen|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	4	nmod	_	_
+3	omaenda	oma_enese	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	4	nmod	_	_
 4	kurjuse	kurjus	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
 5	ja	ja	CONJ	J	_	4	cc	_	_
 6	headusega	headus	NOUN	S	Case=Com|Number=Sing	4	conj	_	_
@@ -5605,7 +5605,7 @@
 14	--	--	PUNCT	Z	Hyph=Yes	19	punct	_	_
 15	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	19	nsubj	_	_
 16	teda	tema	PRON	P	Case=Par|Number=Sing|Person=3|PronType=Prs	19	dobj	_	_
-17	ennastki	ise	PRON	P	Case=Par|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	16	det	_	_
+17	ennastki	ise	PRON	P	Case=Par|Number=Sing|PronType=Prs|Reflex=Yes	16	det	_	_
 18	imestama	imestama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	19	xcomp	_	_
 19	pani	panema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
 20	--	--	PUNCT	Z	Hyph=Yes	19	punct	_	_
@@ -6016,7 +6016,7 @@
 2	Sina	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
 3	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	suuda	suutma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-5	endale	ise	PRON	P	Case=All|Degree=Pos|Number=Sing|Poss=Yes|Reflex=Yes	9	nmod	_	_
+5	endale	ise	PRON	P	Case=All|Number=Sing|PronType=Prs|Reflex=Yes	9	nmod	_	_
 6	isegi	isegi	ADV	D	_	7	advmod	_	_
 7	sokke	sokk	NOUN	S	Case=Par|Number=Plur	9	dobj	_	_
 8	jalga	jalg	NOUN	S	Case=Add|Number=Sing	9	nmod	_	_
