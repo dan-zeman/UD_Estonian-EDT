@@ -53,7 +53,7 @@
     <feat name="Degree" value="Pos" upos="ADJ,ADV,PRON">13376</feat><!-- kogu, hea, suur, võimalik, uue, raske, uus, suure, vana, selge -->
     <feat name="Degree" value="Sup" upos="ADJ">227</feat><!-- suurim, parim, suurima, parimaks, Tuntuimad, parima, parimad, suurimad, suurimaid, suurimaks -->
     <feat name="Foreign" value="Yes" upos="ADV,X">41</feat><!-- tõ, Proopusk, jesh, stupai, ?, Ili, Opjat, Pjaanitsa, Prosniiss, Spatt -->
-    <feat name="Hyph" value="Yes" upos="ADJ,ADP,ADV,NOUN,NUM,PROPN,PUNCT,SYM">265</feat><!-- teadus-, kesk-, liha-, lõuna-, ida-, kodu-, majandus-, alg-, era- -->
+    <feat name="Hyph" value="Yes" upos="ADJ,ADP,ADV,NOUN,NUM,PROPN,PUNCT,SYM">265</feat><!-- --, teadus-, kesk-, liha-, lõuna-, ida-, kodu-, majandus-, alg-, era- -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">1359</feat><!-- oleks, peaks, ei, võiks, tuleks, poleks, saaks, peaksid, võiksid, tahaks -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">511</feat><!-- vaata, olgu, tule, ära, kuule, ole, mine, näe, pane, võta -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">26112</feat><!-- on, ei, oli, pole, ole, võib, olid, saab, tuleb, ütles -->
@@ -74,7 +74,7 @@
     <feat name="PronType" value="Ind" upos="ADJ,NUM,PRON">1107</feat><!-- midagi, keegi, mitu, mingi, paljud, mingit, muud, mingeid, muu, mingil -->
     <feat name="PronType" value="Int" upos="ADJ">1</feat><!-- millised -->
     <feat name="PronType" value="Int,Rel" upos="ADJ,PRON">2222</feat><!-- mis, kes, mida, mille, kelle, millest, millega, kellele, keda, milles -->
-    <feat name="PronType" value="Prs" upos="PRON">6969</feat><!-- ta, oma, ma, tema, nad, meie, sa, me, minu, nende -->
+    <feat name="PronType" value="Prs" upos="PRON">6970</feat><!-- ta, oma, ma, tema, nad, meie, sa, me, minu, nende -->
     <feat name="PronType" value="Rcp" upos="PRON">13</feat><!-- teineteist, teineteisele, teineteisest, teineteise, teineteises -->
     <feat name="PronType" value="Rel" upos="ADJ">87</feat><!-- milline, millised, millist, millise, milliseid, kumb, milliste, milliseks, millisesse, kumba -->
     <feat name="PronType" value="Tot" upos="NOUN,PRON">550</feat><!-- kõik, kõiki, kõike, kõigi, kõigile, kõigil, kõigis, kõikide, kõige, kõigele -->
@@ -100,17 +100,17 @@
     <dep name="appos">1391</dep>
     <dep name="aux">3753</dep>
     <dep name="auxpass">6</dep>
-    <dep name="case">4219</dep>
+    <dep name="case">4218</dep>
     <dep name="cc">7874</dep>
     <dep name="cc:preconj">266</dep>
     <dep name="ccomp">1142</dep>
-    <dep name="compound">347</dep>
+    <dep name="compound">348</dep>
     <dep name="compound:prt">2554</dep>
-    <dep name="conj">10398</dep>
+    <dep name="conj">10399</dep>
     <dep name="cop">3294</dep>
     <dep name="csubj">619</dep>
     <dep name="csubj:cop">285</dep>
-    <dep name="dep">1942</dep>
+    <dep name="dep">1943</dep>
     <dep name="det">3079</dep>
     <dep name="discourse">247</dep>
     <dep name="dobj">10722</dep>
@@ -121,10 +121,10 @@
     <dep name="neg">2166</dep>
     <dep name="nmod">35672</dep>
     <dep name="nmod:poss">855</dep>
-    <dep name="nsubj">15597</dep>
+    <dep name="nsubj">15594</dep>
     <dep name="nsubj:cop">2854</dep>
     <dep name="nummod">3064</dep>
-    <dep name="parataxis">2185</dep>
+    <dep name="parataxis">2186</dep>
     <dep name="punct">36817</dep>
     <dep name="root">16388</dep>
     <dep name="vocative">90</dep>
