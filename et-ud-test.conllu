@@ -2361,7 +2361,7 @@
 
 #sent_id aja_luup200106_370
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	14	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	14	parataxis	_	_
 2	:	:	PUNCT	Z	_	8	punct	_	_
 3	Praeguses	praegune	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	4	amod	_	_
 4	valitsuses	valitsus	NOUN	S	Case=Ine|Number=Sing	14	nmod	_	_
@@ -2440,7 +2440,7 @@
 
 #sent_id aja_luup200106_420
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	21	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	21	parataxis	_	_
 2	:	:	PUNCT	Z	_	12	punct	_	_
 3	Kui	kui	SCONJ	J	_	12	mark	_	_
 4	teistes	teine	PRON	P	Case=Ine|Number=Plur|PronType=Dem	5	det	_	_
@@ -2547,7 +2547,7 @@
 
 #sent_id aja_luup200106_480
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	nsubj	_	_
 4	võtab	võtma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -2557,7 +2557,7 @@
 
 #sent_id aja_luup200106_490
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	9	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	9	parataxis	_	_
 2	:	:	PUNCT	Z	_	9	punct	_	_
 3	Siiamaani	siia_maani	ADV	D	_	9	advmod	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
@@ -4227,10 +4227,10 @@
 1	Ungarlastel	ungarlane	NOUN	S	Case=Ade|Number=Plur	2	nmod	_	_
 2	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	keskmiselt	keskmiselt	ADV	D	_	2	advmod	_	_
-4	7	7	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nsubj	_	_
+4	7	7	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
 5	,	,	PUNCT	Z	_	7	punct	_	_
 6	hispaanlastel	hispaanlane	NOUN	S	Case=Ade|Number=Plur	8	nmod	_	_
-7	6	6	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	_
+7	6	6	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	4	conj	_	_
 8	partnerit	partner	NOUN	S	Case=Par|Number=Sing	2	nsubj	_	_
 9	.	.	PUNCT	Z	_	2	punct	_	_
 

@@ -953,8 +953,8 @@
 8	polnud	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Past|VerbForm=Fin|Voice=Act	3	conj	_	_
 9	,	,	PUNCT	Z	_	10	punct	_	_
 10	viis	viis	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	11	nummod	_	_
-11	tüdrukut	tüdruk	NOUN	S	Case=Par|Number=Sing	8	nsubj	_	_
-12	kasvamas	kasvama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	11	xcomp	_	_
+11	tüdrukut	tüdruk	NOUN	S	Case=Par|Number=Sing	12	nsubj	_	_
+12	kasvamas	kasvama	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	3	conj	_	_
 13	.	.	PUNCT	Z	_	3	punct	_	_
 
 #sent_id aja_luup200009_91
@@ -2290,7 +2290,7 @@
 4	üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
 5	siia	siia	ADV	D	_	2	advmod	_	_
 6	,	,	PUNCT	Z	_	7	punct	_	_
-7	teine	teine	PRON	P	Case=Nom|Number=Sing|PronType=Dem	2	nsubj	_	_
+7	teine	teine	PRON	P	Case=Nom|Number=Sing|PronType=Dem	2	conj	_	_
 8	teise	teine	PRON	P	Case=Add|Number=Sing|PronType=Dem	9	det	_	_
 9	kanti	kant	NOUN	S	Case=Add|Number=Sing	7	nmod	_	_
 10	,	,	PUNCT	Z	_	7	punct	_	_
@@ -7148,7 +7148,7 @@
 9	üha	üha	ADV	D	_	10	advmod	_	_
 10	julmemaks	julmem	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	7	xcomp	_	_
 11	,	,	PUNCT	Z	_	12	punct	_	_
-12	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	7	nsubj	_	_
+12	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	7	conj	_	_
 13	omakorda	oma_korda	ADV	D	_	12	advmod	_	_
 14	aga	aga	ADV	D	_	12	advmod	_	_
 15	partisanisõja	partisani_sõda	NOUN	S	Case=Gen|Number=Sing	12	dobj	_	_
@@ -8163,7 +8163,7 @@
 #
 1	Putin	Putin	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	kasutab	kasutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
-3	ise	ise	PRON	P	Case=Nom|Number=Sing	1	nmod	_	_
+3	ise	ise	PRON	P	Case=Nom|Number=Sing|Poss=Yes|Reflex=Yes	1	nmod	_	_
 4	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	5	det	_	_
 5	süsteemi	süsteem	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
 6	ja	ja	CONJ	J	_	2	cc	_	_
@@ -13681,7 +13681,7 @@
 2	Tegelikult	tegelikult	ADV	D	_	11	advmod	_	_
 3	,	,	PUNCT	Z	_	11	punct	_	_
 4	kallid	kallis	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
-5	kaimud	kaim	NOUN	S	Case=Nom|Number=Plur	11	nsubj	_	_
+5	kaimud	kaim	NOUN	S	Case=Nom|Number=Plur	11	vocative	_	_
 6	,	,	PUNCT	Z	_	11	punct	_	_
 7	on	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	cop	_	_
 8	nende	see	PRON	P	Case=Gen|Number=Plur|PronType=Dem	9	det	_	_
@@ -16049,12 +16049,12 @@
 
 #sent_id aja_luup200106_167
 #
-1	Paljud	palju	PRON	P	Case=Nom|Number=Plur|PronType=Ind	3	nsubj	_	_
+1	Paljud	palju	PRON	P	Case=Nom|Number=Plur|PronType=Ind	3	nsubj:cop	_	_
 2	neist	tema	PRON	P	Case=Ela|Number=Plur|Person=3|PronType=Prs	1	nmod	_	_
-3	on	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	on	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
 4	rahvusvahelise	rahvus_vaheline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	5	amod	_	_
 5	haardega	haare	NOUN	S	Case=Com|Number=Sing	6	nmod	_	_
-6	tegelased	tegelane	NOUN	S	Case=Nom|Number=Plur	3	nsubj	_	_
+6	tegelased	tegelane	NOUN	S	Case=Nom|Number=Plur	0	root	_	_
 7	,	,	PUNCT	Z	_	11	punct	_	_
 8	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	11	nsubj	_	_
 9	muu	muu	ADJ	P	Case=Gen|Number=Sing|PronType=Ind	11	amod	_	_
@@ -18504,7 +18504,7 @@
 #sent_id aja_luup200106_352
 #
 1	Igor	Igor	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Gräzin	Gräzin	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
+2	Gräzin	Gräzin	PROPN	S	Case=Nom|Number=Sing	13	parataxis	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	_
 4	IG	IG	NOUN	Y	Abbr=Yes	2	nmod	_	_
 5	)	)	PUNCT	Z	_	4	punct	_	_
@@ -18515,7 +18515,7 @@
 10	Eesti	Eesti	PROPN	S	Case=Nom|Number=Sing	13	nsubj	_	_
 11	ELi	EL	NOUN	Y	Abbr=Yes|Case=Add|Number=Sing	13	nmod	_	_
 12	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	13	neg	_	_
-13	astu	astuma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+13	astu	astuma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 14	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id aja_luup200106_353
@@ -18532,13 +18532,13 @@
 #sent_id aja_luup200106_354
 #
 1	Valdo	Valdo	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Randpere	Rand_pere	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
+2	Randpere	Rand_pere	PROPN	S	Case=Nom|Number=Sing	8	parataxis	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	_
 4	VR	VR	NOUN	Y	Abbr=Yes	2	nmod	_	_
 5	)	)	PUNCT	Z	_	4	punct	_	_
 6	:	:	PUNCT	Z	_	8	punct	_	_
 7	Mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	8	dobj	_	_
-8	häirib	häirima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	_
+8	häirib	häirima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	,	,	PUNCT	Z	_	12	punct	_	_
 10	et	et	SCONJ	J	_	12	mark	_	_
 11	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	12	dobj	_	_
@@ -18631,7 +18631,7 @@
 
 #sent_id aja_luup200106_362
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	6	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Euroopa	Euroopa	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	Liidu	liit	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -18660,7 +18660,7 @@
 
 #sent_id aja_luup200106_364
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	5	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 4	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	5	neg	_	_
@@ -18815,7 +18815,7 @@
 
 #sent_id aja_luup200106_374
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Kiiruse	kiirus	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	küsimus	küsimus	NOUN	S	Case=Nom|Number=Sing	6	dobj	_	_
@@ -19183,7 +19183,7 @@
 
 #sent_id aja_luup200106_401
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Iirimaa	Iiri_maa	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	sai	saama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -19238,7 +19238,7 @@
 
 #sent_id aja_luup200106_404
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Iirlased	iirlane	NOUN	S	Case=Nom|Number=Plur	6	nsubj	_	_
 4	pidevalt	pidevalt	ADV	D	_	6	advmod	_	_
@@ -19251,7 +19251,7 @@
 1	Meil	mina	PRON	P	Case=Ade|Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
 2	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	nii	nii	ADV	D	_	4	advmod	_	_
-4	palju	palju	ADV	D	_	2	nsubj	_	_
+4	palju	palju	ADV	D	_	10	advmod	_	_
 5	prantsuse	prantsuse	ADJ	G	_	8	amod	_	_
 6	ja	ja	CONJ	J	_	5	cc	_	_
 7	inglise	inglise	ADJ	G	_	5	conj	_	_
@@ -19261,7 +19261,7 @@
 11	,	,	PUNCT	Z	_	13	punct	_	_
 12	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	13	nsubj	_	_
 13	hakkaks	hakkama	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	10	acl:relcl	_	_
-14	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	nmod:poss	_	_
+14	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	15	nmod	_	_
 15	asju	asi	NOUN	S	Case=Par|Number=Plur	13	dobj	_	_
 16	kaitsma	kaitsma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	13	xcomp	_	_
 17	.	.	PUNCT	Z	_	2	punct	_	_
@@ -19289,7 +19289,7 @@
 
 #sent_id aja_luup200106_408
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	5	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Ideaalne	ideaalne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	stsenaarium	stsenaarium	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -19311,7 +19311,7 @@
 
 #sent_id aja_luup200106_411
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	8	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	8	parataxis	_	_
 2	:	:	PUNCT	Z	_	8	punct	_	_
 3	Kümne	kümme	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	4	nummod	_	_
 4	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
@@ -19327,7 +19327,7 @@
 
 #sent_id aja_luup200106_412
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	On	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
 4	alatu	alatu	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
@@ -19344,7 +19344,7 @@
 
 #sent_id aja_luup200106_414
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	4	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Rootsi	Rootsi	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -19400,7 +19400,7 @@
 
 #sent_id aja_luup200106_417
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	6	nsubj:cop	_	_
 4	oleks	olema	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
@@ -19444,24 +19444,24 @@
 3	kõik	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	4	det	_	_
 4	hinnad	hind	NOUN	S	Case=Nom|Number=Plur	1	nsubj	_	_
 5	,	,	PUNCT	Z	_	6	punct	_	_
-6	suhkur	suhkur	NOUN	S	Case=Nom|Number=Sing	1	nsubj	_	_
+6	suhkur	suhkur	NOUN	S	Case=Nom|Number=Sing	1	conj	_	_
 7	mitu	mitu	PRON	P	Case=Nom|Number=Sing|PronType=Ind	8	advmod:quant	_	_
 8	korda	kord	NOUN	S	Case=Par|Number=Sing	6	nmod	_	_
 9	,	,	PUNCT	Z	_	6	punct	_	_
-10	kütus	kütus	NOUN	S	Case=Nom|Number=Sing	6	conj	_	_
+10	kütus	kütus	NOUN	S	Case=Nom|Number=Sing	1	conj	_	_
 11	aktsiisi	aktsiis	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 12	võrra	võrra	ADP	K	AdpType=Post	11	case	_	_
-13	-	-	PUNCT	Z	_	21	punct	_	_
+13	-	-	PUNCT	Z	_	10	punct	_	_
 14	paar	paar	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	15	nummod	_	_
-15	krooni	kroon	NOUN	S	Case=Par|Number=Sing	10	nmod	_	_
-16	liitrilt	liiter	NOUN	S	Case=Abl|Number=Sing	14	nmod	_	_
+15	krooni	kroon	NOUN	S	Case=Par|Number=Sing	11	nmod	_	_
+16	liitrilt	liiter	NOUN	S	Case=Abl|Number=Sing	15	nmod	_	_
 17	,	,	PUNCT	Z	_	19	punct	_	_
-18	sigarettidel	sigaret	NOUN	S	Case=Ade|Number=Plur	21	nmod	_	_
-19	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	cop	_	_
-20	miinimumnõue	miinimum_nõue	NOUN	S	Case=Nom|Number=Sing	21	nsubj:cop	_	_
-21	57%	57%	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	10	parataxis	_	_
+18	sigarettidel	sigaret	NOUN	S	Case=Ade|Number=Plur	19	nmod	_	_
+19	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	_
+20	miinimumnõue	miinimum_nõue	NOUN	S	Case=Nom|Number=Sing	19	nsubj	_	_
+21	57%	57%	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	22	nummod	_	_
 22	paki	pakk	NOUN	S	Case=Gen|Number=Sing	23	nmod	_	_
-23	hinnast	hind	NOUN	S	Case=Ela|Number=Sing	21	nmod	_	_
+23	hinnast	hind	NOUN	S	Case=Ela|Number=Sing	20	nmod	_	_
 24	.	.	PUNCT	Z	_	1	punct	_	_
 
 #sent_id aja_luup200106_423
@@ -19604,7 +19604,7 @@
 
 #sent_id aja_luup200106_433
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	5	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Tegelikult	Tegelik	PROPN	S	Case=Abl|Number=Sing	5	nmod	_	_
 4	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
@@ -19621,7 +19621,7 @@
 
 #sent_id aja_luup200106_434
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Euroopa	Euroopa	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	Liitu	liit	NOUN	S	Case=Add|Number=Sing	5	nmod	_	_
@@ -19636,7 +19636,7 @@
 
 #sent_id aja_luup200106_435
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Ära	ära	AUX	V	Mood=Imp|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	neg	_	_
 4	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	dobj	_	_
@@ -19658,7 +19658,7 @@
 
 #sent_id aja_luup200106_437
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Kõik	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	4	nsubj	_	_
 4	taotlevad	taotlema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -19701,7 +19701,7 @@
 
 #sent_id aja_luup200106_441
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Mõnes	mõni	ADJ	P	Case=Ine|Number=Sing	5	amod	_	_
 4	Saaremaa	Saare_maa	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
@@ -19783,7 +19783,7 @@
 
 #sent_id aja_luup200106_447
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Mitte	mitte	ADV	D	Negative=Neg	4	advmod	_	_
 4	ainult	ainult	ADV	D	_	0	root	_	_
@@ -19824,19 +19824,19 @@
 
 #sent_id aja_luup200106_451
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	0	root	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	8	parataxis	_	_
 2	:	:	PUNCT	Z	_	1	punct	_	_
 3	Partei	partei	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	Keskkomitee	kesk_komitee	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
 5	ja	ja	CONJ	J	_	4	cc	_	_
 6	Ministrite	minister	NOUN	S	Case=Gen|Number=Plur	7	nmod	_	_
 7	Nõukogu	nõu_kogu	NOUN	S	Case=Gen|Number=Sing	4	conj	_	_
-8	ühismäärusi	ühis_määrus	NOUN	S	Case=Par|Number=Plur	1	parataxis	_	_
+8	ühismäärusi	ühis_määrus	NOUN	S	Case=Par|Number=Plur	0	root	_	_
 9	.	.	PUNCT	Z	_	1	punct	_	_
 
 #sent_id aja_luup200106_452
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	5	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Kuni	kuni	ADV	D	_	4	advmod	_	_
 4	miljard	miljard	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	5	nummod	_	_
@@ -19867,7 +19867,7 @@
 7	kroonini	kroon	NOUN	S	Case=Ter|Number=Sing	3	nmod	_	_
 8	,	,	PUNCT	Z	_	10	punct	_	_
 9	maksimaalne	maksimaalne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	10	amod	_	_
-10	lagi	lagi	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+10	lagi	lagi	NOUN	S	Case=Nom|Number=Sing	3	conj	_	_
 11	,	,	PUNCT	Z	_	16	punct	_	_
 12	kui	kui	SCONJ	J	_	16	mark	_	_
 13	kõik	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	14	det	_	_
@@ -19911,16 +19911,16 @@
 13	,	,	PUNCT	Z	_	16	punct	_	_
 14	lisaks	lisa	NOUN	S	Case=Tra|Number=Sing	16	nmod	_	_
 15	seaduste	seadus	NOUN	S	Case=Gen|Number=Plur	16	nmod	_	_
-16	harmoniseerimine	harmoniseeri=mine	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+16	harmoniseerimine	harmoniseeri=mine	NOUN	S	Case=Nom|Number=Sing	4	conj	_	_
 17	,	,	PUNCT	Z	_	16	punct	_	_
-18	veterinaarnõuded	veterinaar_nõue	NOUN	S	Case=Nom|Number=Plur	16	conj	_	_
+18	veterinaarnõuded	veterinaar_nõue	NOUN	S	Case=Nom|Number=Plur	4	conj	_	_
 19	,	,	PUNCT	Z	_	16	punct	_	_
-20	standardid	standard	NOUN	S	Case=Nom|Number=Plur	16	conj	_	_
+20	standardid	standard	NOUN	S	Case=Nom|Number=Plur	4	conj	_	_
 21	...	...	PUNCT	Z	_	4	punct	_	_
 
 #sent_id aja_luup200106_457
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	9	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	9	parataxis	_	_
 2	:	:	PUNCT	Z	_	9	punct	_	_
 3	Halli	hall	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	tsooni	tsoon	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -19933,7 +19933,7 @@
 
 #sent_id aja_luup200106_458
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	5	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Esialgu	esi_algu	ADV	D	_	5	advmod	_	_
 4	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
@@ -19955,7 +19955,7 @@
 
 #sent_id aja_luup200106_461
 #
-1	IG	IG	NOUN	Y	Abbr=Yes	14	list	_	_
+1	IG	IG	NOUN	Y	Abbr=Yes	14	parataxis	_	_
 2	:	:	PUNCT	Z	_	12	punct	_	_
 3	Jeltsini	Jeltsin	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	julgeolekunõunik	julge_oleku_nõunik	NOUN	S	Case=Nom|Number=Sing	6	appos	_	_
@@ -20048,7 +20048,7 @@
 
 #sent_id aja_luup200106_467
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	5	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	5	nmod	_	_
 4	kohta	kohta	ADP	K	AdpType=Post	3	case	_	_
@@ -20063,7 +20063,7 @@
 
 #sent_id aja_luup200106_468
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Praegu	praegu	ADV	D	_	4	advmod	_	_
 4	köetakse	kütma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
@@ -20129,7 +20129,7 @@
 
 #sent_id aja_luup200106_473
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Eesti	Eesti	PROPN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
 4	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
@@ -20152,7 +20152,7 @@
 
 #sent_id aja_luup200106_474
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Kriteeriumiks	kriteerium	NOUN	S	Case=Tra|Number=Sing	6	xcomp	_	_
 4	ei	ei	AUX	V	Mood=Cnd|Negative=Neg|VerbForm=Fin	5	neg	_	_
@@ -20237,7 +20237,7 @@
 
 #sent_id aja_luup200106_481
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	10	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	10	parataxis	_	_
 2	:	:	PUNCT	Z	_	10	punct	_	_
 3	Viimase	viimane	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	seitsme	seitse	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	5	nummod	_	_
@@ -20398,7 +20398,7 @@
 
 #sent_id aja_luup200106_488
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	6	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Tänane	tänane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	EL	EL	NOUN	Y	Abbr=Yes	6	nsubj:cop	_	_
@@ -20478,10 +20478,10 @@
 11	,	,	PUNCT	Z	_	14	punct	_	_
 12	Saksamaal	Saksa_maa	PROPN	S	Case=Ade|Number=Sing	14	nmod	_	_
 13	aga	aga	ADV	D	_	14	advmod	_	_
-14	depressioon	depressioon	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+14	depressioon	depressioon	NOUN	S	Case=Nom|Number=Sing	8	conj	_	_
 15	,	,	PUNCT	Z	_	14	punct	_	_
 16	ühes	üks	PRON	P	Case=Ine|Number=Sing|PronType=Dem	17	nmod	_	_
-17	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	14	conj	_	_
+17	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
 18	vaja	vaja	ADV	D	_	17	compound:prt	_	_
 19	inflatsiooni	inflatsioon	NOUN	S	Case=Par|Number=Sing	20	dobj	_	_
 20	pidurdada	pidurdama	VERB	V	VerbForm=Inf	17	csubj	_	_
@@ -20492,7 +20492,7 @@
 
 #sent_id aja_luup200106_493
 #
-1	IR	IR	NOUN	Y	Abbr=Yes	4	list	_	_
+1	IR	IR	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Friedman	Friedman	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	ütleb	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -20585,7 +20585,7 @@
 
 #sent_id aja_luup200106_497
 #
-1	VR	VR	NOUN	Y	Abbr=Yes	10	list	_	_
+1	VR	VR	NOUN	Y	Abbr=Yes	10	parataxis	_	_
 2	:	:	PUNCT	Z	_	10	punct	_	_
 3	Euro	euro	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 4	kõige	kõige	ADV	D	_	5	advmod	_	_
@@ -21876,7 +21876,7 @@
 #sent_id aja_luup200106_592
 #
 1	Mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	2	nmod	_	_
-2	aeg	aeg	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+2	aeg	aeg	NOUN	S	Case=Nom|Number=Sing	8	parataxis	_	_
 3	edasi	edasi	ADV	D	_	2	advmod	_	_
 4	,	,	PUNCT	Z	_	12	punct	_	_
 5	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	6	nmod	_	_
@@ -23836,7 +23836,7 @@
 10	Laari	Laar	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
 11	loosungile	loosung	NOUN	S	Case=All|Number=Sing	7	nmod	_	_
 12	“	“	PUNCT	Z	_	13	punct	_	_
-13	Plats	plats	NOUN	S	Case=Nom|Number=Sing	11	nsubj	_	_
+13	Plats	plats	NOUN	S	Case=Nom|Number=Sing	11	appos	_	_
 14	puhtaks	puhas	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	13	xcomp	_	_
 15	!	!	PUNCT	Z	_	2	punct	_	_
 16	”	”	PUNCT	Z	_	2	punct	_	_
@@ -24093,7 +24093,7 @@
 #sent_id aja_luup200106_751
 #
 1	Andres	Andres	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Keevallik	Keev_allik	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+2	Keevallik	Keev_allik	PROPN	S	Case=Nom|Number=Sing	9	parataxis	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	_
 4	AK	AK	NOUN	Y	Abbr=Yes	2	nmod	_	_
 5	)	)	PUNCT	Z	_	4	punct	_	_
@@ -24225,7 +24225,7 @@
 #sent_id aja_luup200106_758
 #
 1	Mart	Mart	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Susi	Susi	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+2	Susi	Susi	PROPN	S	Case=Nom|Number=Sing	8	parataxis	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	_
 4	MS	MS	NOUN	Y	Abbr=Yes	2	nmod	_	_
 5	)	)	PUNCT	Z	_	4	punct	_	_
@@ -24279,7 +24279,7 @@
 
 #sent_id aja_luup200106_763
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	14	nsubj:cop	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	14	parataxis	_	_
 2	:	:	PUNCT	Z	_	14	punct	_	_
 3	Akadeemilise	akadeemiline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
 4	ja	ja	CONJ	J	_	3	cc	_	_
@@ -24367,7 +24367,7 @@
 
 #sent_id aja_luup200106_768
 #
-1	MS	MS	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	MS	MS	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Kutseharidus	Kutse_haridus	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	seab	seadma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24416,7 +24416,7 @@
 
 #sent_id aja_luup200106_772
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	7	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	7	parataxis	_	_
 2	:	:	PUNCT	Z	_	7	punct	_	_
 3	Iseenesest	ise_enesest	ADV	D	_	7	advmod	_	_
 4	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	5	neg	_	_
@@ -24504,7 +24504,7 @@
 
 #sent_id aja_luup200106_776
 #
-1	MS	MS	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	MS	MS	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Riik	riik	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
 4	võiks	võima	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
@@ -24558,7 +24558,7 @@
 
 #sent_id aja_luup200106_778
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Avalik-õiguslike	avalik-õiguslik	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
 4	ülikoolide	üli_kool	NOUN	S	Case=Gen|Number=Plur	5	nmod	_	_
@@ -24620,7 +24620,7 @@
 
 #sent_id aja_luup200106_784
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Erakoolid	era_kool	NOUN	S	Case=Nom|Number=Plur	4	nsubj	_	_
 4	võtavad	võtma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24737,7 +24737,7 @@
 
 #sent_id aja_luup200106_792
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Eesti	Eesti	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
 4	elab	elama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -24812,7 +24812,7 @@
 
 #sent_id aja_luup200106_796
 #
-1	MS	MS	NOUN	Y	Abbr=Yes	8	nsubj	_	_
+1	MS	MS	NOUN	Y	Abbr=Yes	8	parataxis	_	_
 2	:	:	PUNCT	Z	_	8	punct	_	_
 3	Mingil	mingi	ADJ	P	Case=Ade|Number=Sing|PronType=Ind	4	amod	_	_
 4	hetkel	hetk	NOUN	S	Case=Ade|Number=Sing	8	nmod	_	_
@@ -24892,7 +24892,7 @@
 
 #sent_id aja_luup200106_801
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	7	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	7	parataxis	_	_
 2	:	:	PUNCT	Z	_	7	punct	_	_
 3	Ülikooliseadus	ülikooli_seadus	NOUN	S	Case=Nom|Number=Sing	7	nsubj:cop	_	_
 4	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
@@ -25001,7 +25001,7 @@
 
 #sent_id aja_luup200106_807
 #
-1	MS	MS	NOUN	Y	Abbr=Yes	7	nsubj	_	_
+1	MS	MS	NOUN	Y	Abbr=Yes	7	parataxis	_	_
 2	:	:	PUNCT	Z	_	7	punct	_	_
 3	Ega	ega	ADV	D	Negative=Neg	7	advmod	_	_
 4	kõik	kõik	PRON	P	Case=Nom|Number=Plur|PronType=Tot	5	det	_	_
@@ -25124,7 +25124,7 @@
 
 #sent_id aja_luup200106_815
 #
-1	AK	AK	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	AK	AK	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Kahjuks	kahjuks	ADV	D	_	6	advmod	_	_
 4	pole	olema	AUX	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
@@ -25194,7 +25194,7 @@
 
 #sent_id aja_luup200106_821
 #
-1	MS	MS	NOUN	Y	Abbr=Yes	5	nsubj	_	_
+1	MS	MS	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Korrastumine	korrastu=mine	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
 4	peaks	pidama	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
@@ -25425,7 +25425,7 @@
 #sent_id aja_luup200106_835
 #
 1	Mati	Mati	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Heidmets	Heidmets	PROPN	S	Case=Nom|Number=Sing	14	nsubj	_	_
+2	Heidmets	Heidmets	PROPN	S	Case=Nom|Number=Sing	14	parataxis	_	_
 3	,	,	PUNCT	Z	_	6	punct	_	_
 4	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	Pedagoogikaülikooli	pedagoogika_üli_kool	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -25445,7 +25445,7 @@
 #sent_id aja_luup200106_836
 #
 1	Henn	Henn	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Elmet	Elmet	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+2	Elmet	Elmet	PROPN	S	Case=Nom|Number=Sing	7	parataxis	_	_
 3	,	,	PUNCT	Z	_	5	punct	_	_
 4	põllumajandusülikooli	põllu_majandus_üli_kool	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	rektor	rektor	NOUN	S	Case=Nom|Number=Sing	2	appos	_	_
@@ -25505,7 +25505,7 @@
 #sent_id aja_luup200106_843
 #
 1	Olav	Olav	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Aarna	Aarna	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+2	Aarna	Aarna	PROPN	S	Case=Nom|Number=Sing	8	parataxis	_	_
 3	,	,	PUNCT	Z	_	6	punct	_	_
 4	Kõrgema	kõrgem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	5	amod	_	_
 5	Kommertskooli	kommerts_kool	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -25529,7 +25529,7 @@
 
 #sent_id aja_luup200106_844
 #
-1	KT	KT	NOUN	Y	Abbr=Yes	7	nsubj	_	_
+1	KT	KT	NOUN	Y	Abbr=Yes	7	parataxis	_	_
 2	:	:	PUNCT	Z	_	7	punct	_	_
 3	Suurte	suur	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	4	amod	_	_
 4	ülikoolide	üli_kool	NOUN	S	Case=Gen|Number=Plur	5	nmod	_	_
@@ -25556,7 +25556,7 @@
 
 #sent_id aja_luup200106_846
 #
-1	ML	ML	NOUN	Y	Abbr=Yes	12	nsubj	_	_
+1	ML	ML	NOUN	Y	Abbr=Yes	12	parataxis	_	_
 2	:	:	PUNCT	Z	_	12	punct	_	_
 3	Haridusministeeriumi	haridus_ministeerium	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	eelnõu	eel_nõu	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
@@ -25594,7 +25594,7 @@
 
 #sent_id aja_luup200106_848
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Kümne	kümme	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	4	nummod	_	_
 4	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -25642,7 +25642,7 @@
 
 #sent_id aja_luup200106_854
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	5	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Analoogiline	analoogiline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
 4	protsess	protsess	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
@@ -25655,7 +25655,7 @@
 
 #sent_id aja_luup200106_855
 #
-1	KT	KT	NOUN	Y	Abbr=Yes	3	nsubj	_	_
+1	KT	KT	NOUN	Y	Abbr=Yes	3	parataxis	_	_
 2	:	:	PUNCT	Z	_	3	punct	_	_
 3	Sellistele	selline	ADJ	P	Case=All|Number=Plur|PronType=Dem	0	root	_	_
 4	,	,	PUNCT	Z	_	6	punct	_	_
@@ -25731,7 +25731,7 @@
 
 #sent_id aja_luup200106_861
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	7	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	7	parataxis	_	_
 2	:	:	PUNCT	Z	_	7	punct	_	_
 3	Nii	nii	ADV	D	_	4	cc:preconj	_	_
 4	õigus-	õigus	NOUN	S	Case=Nom|Hyph=Yes|Number=Sing	7	nsubj	_	_
@@ -25745,7 +25745,7 @@
 
 #sent_id aja_luup200106_862
 #
-1	HE	HE	NOUN	Y	Abbr=Yes	11	nsubj	_	_
+1	HE	HE	NOUN	Y	Abbr=Yes	11	parataxis	_	_
 2	:	:	PUNCT	Z	_	11	punct	_	_
 3	Ka	ka	ADV	D	_	4	advmod	_	_
 4	osa	osa	NOUN	S	Case=Nom|Number=Sing	11	nsubj:cop	_	_
@@ -25790,7 +25790,7 @@
 
 #sent_id aja_luup200106_864
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	29	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	29	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Kui	kui	SCONJ	J	_	6	mark	_	_
 4	ülikool	üli_kool	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
@@ -25835,7 +25835,7 @@
 
 #sent_id aja_luup200106_865
 #
-1	KT	KT	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	KT	KT	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -25856,14 +25856,14 @@
 
 #sent_id aja_luup200106_867
 #
-1	ML	ML	NOUN	Y	Abbr=Yes	3	nsubj	_	_
+1	ML	ML	NOUN	Y	Abbr=Yes	3	parataxis	_	_
 2	:	:	PUNCT	Z	_	3	punct	_	_
 3	Ei	ei	ADV	D	_	0	root	_	_
 4	.	.	PUNCT	Z	_	3	punct	_	_
 
 #sent_id aja_luup200106_868
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -25886,7 +25886,7 @@
 
 #sent_id aja_luup200106_872
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	tea	teadma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -25903,7 +25903,7 @@
 
 #sent_id aja_luup200106_873
 #
-1	KT	KT	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	KT	KT	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Võrdse	võrdne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	tahtmise	tahtmine	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -25913,7 +25913,7 @@
 
 #sent_id aja_luup200106_874
 #
-1	ML	ML	NOUN	Y	Abbr=Yes	3	nsubj	_	_
+1	ML	ML	NOUN	Y	Abbr=Yes	3	parataxis	_	_
 2	:	:	PUNCT	Z	_	3	punct	_	_
 3	Oluline	Oluline	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
 4	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	5	neg	_	_
@@ -25973,7 +25973,7 @@
 
 #sent_id aja_luup200106_877
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	5	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	5	parataxis	_	_
 2	:	:	PUNCT	Z	_	5	punct	_	_
 3	Seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	5	dobj	_	_
 4	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	aux	_	_
@@ -25985,7 +25985,7 @@
 
 #sent_id aja_luup200106_878
 #
-1	HE	HE	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	HE	HE	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Põhimõtteliselt	põhi_mõtteliselt	ADV	D	_	4	advmod	_	_
 4	võiks	võima	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -25993,7 +25993,7 @@
 
 #sent_id aja_luup200106_881
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	11	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	11	parataxis	_	_
 2	:	:	PUNCT	Z	_	11	punct	_	_
 3	Piir	piir	NOUN	S	Case=Nom|Number=Sing	11	nsubj	_	_
 4	hea	hea	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
@@ -26014,7 +26014,7 @@
 
 #sent_id aja_luup200106_882
 #
-1	KT	KT	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	KT	KT	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -26084,7 +26084,7 @@
 
 #sent_id aja_luup200106_886
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -26093,7 +26093,7 @@
 
 #sent_id aja_luup200106_887
 #
-1	HE	HE	NOUN	Y	Abbr=Yes	8	nsubj	_	_
+1	HE	HE	NOUN	Y	Abbr=Yes	8	parataxis	_	_
 2	:	:	PUNCT	Z	_	8	punct	_	_
 3	Olukord	olu_kord	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
@@ -26128,7 +26128,7 @@
 
 #sent_id aja_luup200106_891
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	4	neg	_	_
 4	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -26153,7 +26153,7 @@
 
 #sent_id aja_luup200106_893
 #
-1	ML	ML	NOUN	Y	Abbr=Yes	8	nsubj	_	_
+1	ML	ML	NOUN	Y	Abbr=Yes	8	parataxis	_	_
 2	:	:	PUNCT	Z	_	8	punct	_	_
 3	Tallinnas	Tallinn	PROPN	S	Case=Ine|Number=Sing	8	nmod	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
@@ -26176,7 +26176,7 @@
 
 #sent_id aja_luup200106_894
 #
-1	MH	MH	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	MH	MH	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Ülikoole	üli_kool	NOUN	S	Case=Par|Number=Plur	4	nsubj	_	_
 4	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -26189,7 +26189,7 @@
 
 #sent_id aja_luup200106_895
 #
-1	HE	HE	NOUN	Y	Abbr=Yes	4	nsubj	_	_
+1	HE	HE	NOUN	Y	Abbr=Yes	4	parataxis	_	_
 2	:	:	PUNCT	Z	_	4	punct	_	_
 3	Kuus	kuus	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	4	nummod	_	_
 4	avalikku	avalik	ADJ	A	Case=Par|Degree=Pos|Number=Sing	0	root	_	_
@@ -26201,7 +26201,7 @@
 
 #sent_id aja_luup200106_896
 #
-1	OA	OA	NOUN	Y	Abbr=Yes	6	nsubj	_	_
+1	OA	OA	NOUN	Y	Abbr=Yes	6	parataxis	_	_
 2	:	:	PUNCT	Z	_	6	punct	_	_
 3	Viie	viis	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	4	nummod	_	_
 4	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -26229,7 +26229,7 @@
 #sent_id aja_luup200106_898
 #
 1	Jaak	Jaak	PROPN	S	Case=Nom|Number=Sing	2	name	_	_
-2	Aaviksoo	Aaviksoo	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+2	Aaviksoo	Aaviksoo	PROPN	S	Case=Nom|Number=Sing	9	parataxis	_	_
 3	,	,	PUNCT	Z	_	6	punct	_	_
 4	Tartu	Tartu	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	Ülikooli	üli_kool	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -28147,7 +28147,7 @@
 #sent_id aja_luup200106_1052
 #
 1	Näiteks	näiteks	ADV	D	_	2	advmod	_	_
-2	Ida-Virumaa	Ida-Viru_maa	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+2	Ida-Virumaa	Ida-Viru_maa	PROPN	S	Case=Nom|Number=Sing	4	parataxis	_	_
 3	-	-	PUNCT	Z	_	4	punct	_	_
 4	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 5	tööd	töö	NOUN	S	Case=Par|Number=Sing	4	nsubj	_	_
@@ -33855,13 +33855,13 @@
 6	98	98	NUM	N	NumForm=Digit|NumType=Card	7	nummod	_	_
 7	korral	kord	NOUN	S	Case=Ade|Number=Sing	2	nmod	_	_
 8	,	,	PUNCT	Z	_	9	punct	_	_
-9	üksikud	üksik	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	nsubj	_	_
+9	üksikud	üksik	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	conj	_	_
 10	veelgi	veelgi	ADV	D	_	11	advmod	_	_
 11	harvem	harvem	ADV	D	_	9	advmod	_	_
 12	,	,	PUNCT	Z	_	11	punct	_	_
 13	vaid	vaid	ADV	D	_	14	advmod	_	_
 14	49	49	NUM	N	NumForm=Digit|NumType=Card	15	nummod	_	_
-15	korral	kord	NOUN	S	Case=Ade|Number=Sing	11	conj	_	_
+15	korral	kord	NOUN	S	Case=Ade|Number=Sing	11	dep	_	_
 16	.	.	PUNCT	Z	_	2	punct	_	_
 
 #sent_id aja_luup200106_1481
@@ -33870,7 +33870,7 @@
 2	armatsevad	armatsema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	89	89	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	nummod	_	_
 4	,	,	PUNCT	Z	_	5	punct	_	_
-5	vanemad	vanem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	2	nsubj	_	_
+5	vanemad	vanem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	2	conj	_	_
 6	kui	kui	SCONJ	J	_	7	mark	_	_
 7	45-aastased	45_aastane	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	5	advcl	_	_
 8	aga	aga	ADV	D	_	9	advmod	_	_
@@ -34441,7 +34441,7 @@
 6	Reinimaal	Reini_maa	PROPN	S	Case=Ade|Number=Sing	3	nmod	_	_
 7	,	,	PUNCT	Z	_	9	punct	_	_
 8	kõige	kõige	ADV	D	_	9	advmod	_	_
-9	väiksemad	väiksem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	3	nsubj	_	_
+9	väiksemad	väiksem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	3	conj	_	_
 10	aga	aga	ADV	D	_	11	advmod	_	_
 11	Saarimaal	Saari_maa	PROPN	S	Case=Ade|Number=Sing	9	nmod	_	_
 12	.	.	PUNCT	Z	_	3	punct	_	_
