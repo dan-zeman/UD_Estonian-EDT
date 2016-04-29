@@ -26196,7 +26196,7 @@
 20	mõju	mõju	NOUN	S	Case=Nom|Number=Sing	15	dobj	_	_
 21	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	22	nmod	_	_
 22	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	20	nmod	_	_
-23	ceteris	ceteris	NOUN	S	Case=Ine|Number=Sing	20	nmod	_	_
+23	ceteris	ceteris	NOUN	S	Case=Ine|Number=Sing	20	appos	_	_
 24	paribus	paribus	NOUN	S	Case=Nom|Number=Sing	23	foreign	_	_
 25	ehk	ehk	CONJ	J	_	23	cc	_	_
 26	põhjuslik	põhjuslik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	27	amod	_	_

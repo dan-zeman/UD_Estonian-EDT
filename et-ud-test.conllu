@@ -15571,9 +15571,9 @@
 #sent_id aja_epl20061216_40
 #
 1	Ah	ah	ADV	D	_	2	advmod	_	_
-2	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	_
+2	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
 3	armas	armas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
-4	taevas	taevas	NOUN	S	Case=Nom|Number=Sing	2	appos	_	_
+4	taevas	taevas	NOUN	S	Case=Nom|Number=Sing	9	dep	_	_
 5	,	,	PUNCT	Z	_	7	punct	_	_
 6	milline	milline	ADJ	P	Case=Nom|Number=Sing|PronType=Rel	7	amod	_	_
 7	pahandus	pahandus	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
