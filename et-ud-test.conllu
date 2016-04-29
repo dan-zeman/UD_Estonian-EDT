@@ -26711,3 +26711,1044 @@
 17	teeneid	teene	NOUN	S	Case=Par|Number=Plur	13	dobj	_	_
 18	.	.	PUNCT	Z	_	10	punct	_	_
 
+#sent_id tea_dr8020_10
+#
+1	Kui	kui	SCONJ	J	_	2	mark	_	_
+2	uurida	uurima	VERB	V	VerbForm=Inf	12	advcl	_	_
+3	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	4	nmod	_	_
+4	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+5	võimalikke	võimalik	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
+6	mõjureid	mõjur	NOUN	S	Case=Par|Number=Plur	7	dobj	_	_
+7	käsitlevat	käsitlev	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+8	laiaulatuslikku	laia_ulatuslik	ADJ	A	Case=Par|Degree=Pos|Number=Sing	9	amod	_	_
+9	kirjandust	kirjandus	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+10	,	,	PUNCT	Z	_	2	punct	_	_
+11	siis	siis	ADV	D	_	12	advmod	_	_
+12	selgub	selguma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+13	,	,	PUNCT	Z	_	16	punct	_	_
+14	et	et	SCONJ	J	_	16	mark	_	_
+15	pole	olema	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	16	cop	_	_
+16	võimalik	võimalik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	12	csubj	_	_
+17	leida	leidma	VERB	V	VerbForm=Inf	16	csubj:cop	_	_
+18	ja	ja	CONJ	J	_	16	cc	_	_
+19	autorile	autor	NOUN	S	Case=All|Number=Sing	20	nmod	_	_
+20	teadaolevalt	teada_olevalt	ADV	D	_	23	advmod	_	_
+21	pole	olema	AUX	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
+22	ka	ka	ADV	D	_	23	advmod	_	_
+23	loodud	looma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	16	conj	_	_
+24	kompleksset	kompleksne	ADJ	A	Case=Par|Degree=Pos|Number=Sing	28	amod	_	_
+25	kõiki	kõik	PRON	P	Case=Par|Number=Plur|PronType=Tot	26	det	_	_
+26	mõjureid	mõjur	NOUN	S	Case=Par|Number=Plur	27	dobj	_	_
+27	hõlmavat	hõlmav	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	28	acl	_	_
+28	teooriat	teooria	NOUN	S	Case=Par|Number=Sing	23	dobj	_	_
+29	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	30	nmod	_	_
+30	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	31	nmod	_	_
+31	taseme	tase	NOUN	S	Case=Gen|Number=Sing	32	nmod	_	_
+32	kujunemise	kujunemine	NOUN	S	Case=Gen|Number=Sing	28	nmod	_	_
+33	kohta	kohta	ADP	K	AdpType=Post	32	case	_	_
+34	.	.	PUNCT	Z	_	12	punct	_	_
+
+#sent_id tea_dr8020_20
+#
+1	Seega	seega	ADV	D	_	2	advmod	_	_
+2	tuleb	tulema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	4	nmod	_	_
+4	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	mõjurite	mõjur	NOUN	S	Case=Gen|Number=Plur	6	nmod	_	_
+6	analüüsi	analüüs	NOUN	S	Case=Add|Number=Sing	7	nmod	_	_
+7	kaasata	kaasama	VERB	V	VerbForm=Inf	2	csubj	_	_
+8	nii	nii	ADV	D	_	11	advmod	_	_
+9	palju	palju	ADV	D	_	11	advmod:quant	_	_
+10	oletatavaid	oletatav	ADJ	A	Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+11	tegureid	tegur	NOUN	S	Case=Par|Number=Plur	7	dobj	_	_
+12	,	,	PUNCT	Z	_	17	punct	_	_
+13	kui	kui	SCONJ	J	_	17	mark	_	_
+14	andmete	andmed	NOUN	S	Case=Gen|Number=Plur	15	nmod	_	_
+15	kättesaadavus	kätte_saadavus	NOUN	S	Case=Nom|Number=Sing	17	nsubj	_	_
+16	vähegi	vähegi	ADV	D	_	17	advmod	_	_
+17	võimaldab	võimaldama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	advcl	_	_
+18	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_30
+#
+1	Viimasel	viimane	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	2	amod	_	_
+2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	20	nmod	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
+4	tulenevalt	tulenevalt	ADV	D	_	20	advmod	_	_
+5	vajadusest	vajadus	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	_
+6	töötada	töötama	VERB	V	VerbForm=Inf	5	acl	_	_
+7	välja	välja	ADV	D	_	6	compound:prt	_	_
+8	majanduspoliitilisi	majandus_poliitiline	ADJ	A	Case=Par|Degree=Pos|Number=Plur	9	amod	_	_
+9	meetmeid	meede	NOUN	S	Case=Par|Number=Plur	6	dobj	_	_
+10	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
+11	vähendamiseks	vähendamine	NOUN	S	Case=Tra|Number=Sing	9	nmod	_	_
+12	,	,	PUNCT	Z	_	20	punct	_	_
+13	ebavõrdsust	eba_võrdsus	NOUN	S	Case=Par|Number=Sing	17	dobj	_	_
+14	ja	ja	CONJ	J	_	13	cc	_	_
+15	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	16	det	_	_
+16	mõjureid	mõjur	NOUN	S	Case=Par|Number=Plur	13	conj	_	_
+17	käsitlevates	käsitlev	ADJ	A	Case=Ine|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	18	acl	_	_
+18	uurimustes	uurimus	NOUN	S	Case=Ine|Number=Plur	20	nmod	_	_
+19	enam	enam	ADV	D	_	20	advmod	_	_
+20	levinud	levima	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+21	makroökonoomiline	makro_ökonoomiline	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	26	amod	_	_
+22	(	(	PUNCT	Z	_	24	punct	_	_
+23	ühiskonna	ühiskond	NOUN	S	Case=Gen|Number=Sing	24	nmod	_	_
+24	tasand	tasand	NOUN	S	Case=Nom|Number=Sing	21	nmod	_	_
+25	)	)	PUNCT	Z	_	24	punct	_	_
+26	käsitlusviis	käsitlus_viis	NOUN	S	Case=Nom|Number=Sing	20	nsubj	_	_
+27	(	(	PUNCT	Z	_	28	punct	_	_
+28	Blejer	Blejer	PROPN	S	Case=Nom|Number=Sing	20	parataxis	_	_
+29	ja	ja	CONJ	J	_	28	cc	_	_
+30	Guerrero	Guerrero	PROPN	S	Case=Nom|Number=Sing	29	foreign	_	_
+31	,	,	PUNCT	Z	_	28	punct	_	_
+32	1990	1990	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	30	nummod	_	_
+33	)	)	PUNCT	Z	_	28	punct	_	_
+34	.	.	PUNCT	Z	_	20	punct	_	_
+
+#sent_id tea_dr8020_40
+#
+1	Lisaks	lisa	NOUN	S	Case=Tra|Number=Sing	8	nmod	_	_
+2	sellele	see	PRON	P	Case=All|Number=Sing|PronType=Dem	1	det	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+4	aga	aga	CONJ	J	_	8	cc	_	_
+5	autor	autor	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+6	struktuurset	struktuurne	ADJ	A	Case=Par|Degree=Pos|Number=Sing	7	amod	_	_
+7	modelleerimist	modelleeri=mine	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+8	kasutanud	kasutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+9	ka	ka	ADV	D	_	10	advmod	_	_
+10	analüüsimaks	analüüsima	VERB	V	Case=Tra|VerbForm=Sup|Voice=Act	8	advcl	_	_
+11	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+12	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	_
+13	mõjureid	mõjur	NOUN	S	Case=Par|Number=Plur	10	dobj	_	_
+14	Eestis	Eesti	PROPN	S	Case=Ine|Number=Sing	13	nmod	_	_
+15	regionaalsel	regionaalne	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	16	amod	_	_
+16	tasandil	tasand	NOUN	S	Case=Ade|Number=Sing	10	nmod	_	_
+17	(	(	PUNCT	Z	_	18	punct	_	_
+18	Kaasa	Kaasa	PROPN	S	Case=Nom|Number=Sing	8	parataxis	_	_
+19	,	,	PUNCT	Z	_	18	punct	_	_
+20	2004	2004	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
+21	)	)	PUNCT	Z	_	18	punct	_	_
+22	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_50
+#
+1	Viimane	viimane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	8	nsubj	_	_
+2	ongi	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+3	varasemates	varasem	ADJ	A	Case=Ine|Degree=Cmp|Number=Plur	4	amod	_	_
+4	uurimustes	uurimus	NOUN	S	Case=Ine|Number=Plur	8	nmod	_	_
+5	nii	nii	ADV	D	_	6	advmod	_	_
+6	mõnigi	mõni	ADJ	P	Case=Nom|Number=Sing	7	amod	_	_
+7	kord	kord	NOUN	S	Case=Nom|Number=Sing	8	nmod	_	_
+8	kippunud	kippuma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+9	olema	olema	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	8	xcomp	_	_
+10	just	just	ADV	D	_	11	advmod	_	_
+11	põhjusliku	põhjuslik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	12	amod	_	_
+12	seose	seos	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
+13	kohta	kohta	ADP	K	AdpType=Post	12	case	_	_
+14	järelduste	järeldus	NOUN	S	Case=Gen|Number=Plur	15	nmod	_	_
+15	tegemise	tegemine	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
+16	allikaks	allikas	NOUN	S	Case=Tra|Number=Sing	9	xcomp	_	_
+17	,	,	PUNCT	Z	_	19	punct	_	_
+18	kuigi	kuigi	SCONJ	J	_	19	mark	_	_
+19	väljendab	väljendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dep	_	_
+20	lisaks	lisa	NOUN	S	Case=Tra|Number=Sing	19	nmod	_	_
+21	põhjuslikule	põhjuslik	ADJ	A	Case=All|Degree=Pos|Number=Sing	20	amod	_	_
+22	ka	ka	ADV	D	_	23	advmod	_	_
+23	mittepõhjuslikku	mitte_põhjuslik	ADJ	A	Case=Par|Degree=Pos|Number=Sing	24	amod	_	_
+24	seost	seos	NOUN	S	Case=Par|Number=Sing	19	dobj	_	_
+25	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_60
+#
+1	·	·	PUNCT	Z	_	2	punct	_	_
+2	Anda	andma	VERB	V	VerbForm=Inf	0	root	_	_
+3	ülevaade	üle_vaade	NOUN	S	Case=Nom|Number=Sing	2	dobj	_	_
+4	erinevates	erinev	ADJ	A	Case=Ine|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+5	uurimustes	uurimus	NOUN	S	Case=Ine|Number=Plur	9	nmod	_	_
+6	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	7	nmod	_	_
+7	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+8	mõjuritena	mõjur	NOUN	S	Case=Ess|Number=Plur	9	nmod	_	_
+9	vaadeldud	vaadel=dud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	10	acl	_	_
+10	teguritest	tegur	NOUN	S	Case=Ela|Number=Plur	3	nmod	_	_
+11	,	,	PUNCT	Z	_	10	punct	_	_
+12	peamistest	peamine	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	13	amod	_	_
+13	oletustest	oletus	NOUN	S	Case=Ela|Number=Plur	10	conj	_	_
+14	nende	see	PRON	P	Case=Gen|Number=Plur|PronType=Dem	15	det	_	_
+15	mõju	mõju	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	_
+16	osas	osas	ADP	K	AdpType=Post	15	case	_	_
+17	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	18	nmod	_	_
+18	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	16	nmod	_	_
+19	ja	ja	CONJ	J	_	10	cc	_	_
+20	senistest	senine	ADJ	A	Case=Ela|Degree=Pos|Number=Plur	21	amod	_	_
+21	uurimistulemustest	uurimis_tulemus	NOUN	S	Case=Ela|Number=Plur	10	conj	_	_
+22	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_70
+#
+1	Esimene	esimene	ADJ	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Ord	2	amod	_	_
+2	osa	osa	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	annab	andma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ülevaate	üle_vaade	NOUN	S	Case=Gen|Number=Sing	3	dobj	_	_
+5	senisest	senine	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	6	amod	_	_
+6	kirjandusest	kirjandus	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	_
+7	kõnealuses	kõne_alune	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	8	amod	_	_
+8	valdkonnas	valdkond	NOUN	S	Case=Ine|Number=Sing	6	nmod	_	_
+9	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_80
+#
+1	Lõpuks	lõpuks	ADV	D	_	6	advmod	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+3	ülevaatlikkuse	üle_vaatlikkus	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	huvides	huvi	NOUN	S	Case=Ine|Number=Plur	6	nmod	_	_
+5	graafiliselt	graafilise=lt	ADV	D	_	6	advmod	_	_
+6	esitatud	esitama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+7	ka	ka	ADV	D	_	10	advmod	_	_
+8	teguritevaheliste	teguri+te_vaheline	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	9	amod	_	_
+9	mõjude	mõju	NOUN	S	Case=Gen|Number=Plur	10	nmod	_	_
+10	süsteem	süsteem	NOUN	S	Case=Nom|Number=Sing	6	dobj	_	_
+11	tervikuna	tervik	NOUN	S	Case=Ess|Number=Sing	10	nmod	_	_
+12	.	.	PUNCT	Z	_	6	punct	_	_
+
+#sent_id tea_dr8020_90
+#
+1	Järgnevalt	järgnevalt	ADV	D	_	3	advmod	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	tutvustatud	tutvustama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	käesolevas	käes_olev	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	5	acl	_	_
+5	töös	töö	NOUN	S	Case=Ine|Number=Sing	6	nmod	_	_
+6	kasutatava	kasutatav	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+7	andmekogumi	andme_kogum	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+8	kujunemist	kujunemine	NOUN	S	Case=Par|Number=Sing	3	dobj	_	_
+9	ja	ja	CONJ	J	_	8	cc	_	_
+10	kaalutlusi	kaalutlus	NOUN	S	Case=Par|Number=Plur	8	conj	_	_
+11	andmete	andmed	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+12	valikul	valik	NOUN	S	Case=Ade|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_100
+#
+1	Mudeli	mudel	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+2	analüüsi	analüüs	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+3	käigus	käigus	ADP	K	AdpType=Post	2	case	_	_
+4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	aux	_	_
+5	muuhulgas	muu_hulgas	ADV	D	_	7	advmod	_	_
+6	tähelepanu	tähele_panu	NOUN	S	Case=Par|Number=Sing	7	dobj	_	_
+7	pööratud	pöörama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+8	ka	ka	ADV	D	_	13	advmod	_	_
+9	tegurite	tegur	NOUN	S	Case=Gen|Number=Plur	11	nmod	_	_
+10	omavahelisi	oma_vaheline	ADJ	A	Case=Par|Degree=Pos|Number=Plur	11	amod	_	_
+11	mõjusid	mõju	NOUN	S	Case=Par|Number=Plur	12	dobj	_	_
+12	kirjeldavatele	kirjeldav	ADJ	A	Case=All|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	tulemustele	tulemus	NOUN	S	Case=All|Number=Plur	7	nmod	_	_
+14	.	.	PUNCT	Z	_	7	punct	_	_
+
+#sent_id tea_dr8020_110
+#
+1	Tänu	tänu	NOUN	S	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	2	nsubj	_	_
+2	kuulub	kuuluma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ka	ka	ADV	D	_	5	advmod	_	_
+4	kõigile	kõik	PRON	P	Case=All|Number=Plur|PronType=Tot	5	det	_	_
+5	kolleegidele	kolleeg	NOUN	S	Case=All|Number=Plur	2	nmod	_	_
+6	,	,	PUNCT	Z	_	8	punct	_	_
+7	kelle	kes	PRON	P	Case=Gen|Number=Plur|PronType=Int,Rel	8	nmod	_	_
+8	märkused	märkus	NOUN	S	Case=Nom|Number=Plur	12	nsubj	_	_
+9	tööd	töö	NOUN	S	Case=Par|Number=Sing	11	dobj	_	_
+10	paremaks	parem	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	11	xcomp	_	_
+11	muuta	muutma	VERB	V	VerbForm=Inf	12	xcomp	_	_
+12	aitasid	aitama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	acl:relcl	_	_
+13	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_120
+#
+1	Mida	mis	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	2	nmod	_	_
+2	suuremad	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	0	root	_	_
+3	on	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	erinevused	erinevus	NOUN	S	Case=Nom|Number=Plur	2	nsubj:cop	_	_
+5	ühiskonnaliikmete	ühiskonna_liige	NOUN	S	Case=Gen|Number=Plur	6	nmod	_	_
+6	sissetulekutes	sisse_tulek	NOUN	S	Case=Ine|Number=Plur	4	nmod	_	_
+7	,	,	PUNCT	Z	_	2	punct	_	_
+8	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	9	nmod	_	_
+9	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	2	conj	_	_
+10	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+11	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+12	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+13	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_130
+#
+1	Kui	kui	SCONJ	J	_	4	mark	_	_
+2	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
+3	erinevused	erinevus	NOUN	S	Case=Nom|Number=Plur	4	nsubj	_	_
+4	tuleneksidki	tulenema	VERB	V	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	advcl	_	_
+5	ainult	ainult	ADV	D	_	12	advmod	_	_
+6	vaba	vaba	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
+7	aja	aeg	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
+8	ja	ja	CONJ	J	_	7	cc	_	_
+9	tarbimise	tarbimine	NOUN	S	Case=Gen|Number=Sing	7	conj	_	_
+10	vaheliste	vaheline	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	11	amod	_	_
+11	eelistuste	eelistus	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+12	erinevustest	erinevus	NOUN	S	Case=Ela|Number=Plur	4	nmod	_	_
+13	,	,	PUNCT	Z	_	4	punct	_	_
+14	siis	siis	ADV	D	_	15	advmod	_	_
+15	eksisteerikski	eksisteerima	VERB	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+16	ainult	ainult	ADV	D	_	17	advmod	_	_
+17	loomulik	loomulik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	18	amod	_	_
+18	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	15	nsubj	_	_
+19	.	.	PUNCT	Z	_	15	punct	_	_
+
+#sent_id tea_dr8020_140
+#
+1	Pärast	pärast	ADP	K	AdpType=Prep	3	case	_	_
+2	Teist	teine	ADJ	N	Case=Par|Number=Sing|NumForm=Letter|NumType=Ord	3	amod	_	_
+3	maailmasõda	maa_ilma_sõda	NOUN	S	Case=Par|Number=Sing	4	nmod	_	_
+4	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+5	majandusteaduslikus	majandus_teaduslik	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	6	amod	_	_
+6	uurimistöös	uurimis_töö	NOUN	S	Case=Ine|Number=Sing	4	nmod	_	_
+7	rõhuasetus	rõhu_asetus	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+8	mitte	mitte	ADV	D	Negative=Neg	11	advmod	_	_
+9	niivõrd	nii_võrd	ADV	D	_	11	advmod	_	_
+10	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
+11	problemaatikal	problemaatika	NOUN	S	Case=Ade|Number=Sing	4	nmod	_	_
+12	kuivõrd	kui_võrd	ADV	D	_	19	mark	_	_
+13	pigem	pigem	ADV	D	_	15	advmod	_	_
+14	kiire	kiire	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	_
+15	majanduskasvu	majandus_kasv	NOUN	S	Case=Gen|Number=Sing	19	nmod	_	_
+16	ja	ja	CONJ	J	_	15	cc	_	_
+17	tööstuse	tööstus	NOUN	S	Case=Gen|Number=Sing	18	nmod	_	_
+18	arengu	areng	NOUN	S	Case=Gen|Number=Sing	15	conj	_	_
+19	tagamisel	tagamine	NOUN	S	Case=Ade|Number=Sing	11	advcl	_	_
+20	,	,	PUNCT	Z	_	23	punct	_	_
+21	kuna	kuna	SCONJ	J	_	23	mark	_	_
+22	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	23	dobj	_	_
+23	peeti	pidama	VERB	V	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	4	dep	_	_
+24	parimaks	parim	ADJ	A	Case=Tra|Degree=Sup|Number=Sing	25	amod	_	_
+25	võimaluseks	võimalus	NOUN	S	Case=Tra|Number=Sing	23	xcomp	_	_
+26	vaesuse	vaesus	NOUN	S	Case=Gen|Number=Sing	27	nmod	_	_
+27	vähendamisel	vähendamine	NOUN	S	Case=Ade|Number=Sing	25	nmod	_	_
+28	.	.	PUNCT	Z	_	4	punct	_	_
+
+#sent_id tea_dr8020_150
+#
+1	Sellele	see	PRON	P	Case=All|Number=Sing|PronType=Dem	2	nmod	_	_
+2	lisandus	lisanduma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	veel	veel	ADV	D	_	2	advmod	_	_
+4	1990-ndatel	1990=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	5	amod	_	_
+5	ilmnenud	ilmne=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	9	acl	_	_
+6	kiire	kiire	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
+7	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
+8	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
+9	suurenemine	suurenemine	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+10	siirderiikides	siirde_riik	NOUN	S	Case=Ine|Number=Plur	2	nmod	_	_
+11	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_160
+#
+1	Üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Dem	4	dobj	_	_
+2	neist	see	PRON	P	Case=Ela|Number=Plur|PronType=Dem	1	det	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	seotud	siduma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+5	sellega	see	PRON	P	Case=Com|Number=Sing|PronType=Dem	4	nmod	_	_
+6	,	,	PUNCT	Z	_	11	punct	_	_
+7	et	et	SCONJ	J	_	11	mark	_	_
+8	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
+9	jaotus	jaotus	NOUN	S	Case=Nom|Number=Sing	11	nsubj	_	_
+10	ühiskonnas	ühiskond	NOUN	S	Case=Ine|Number=Sing	9	nmod	_	_
+11	moodustab	moodustama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	dep	_	_
+12	osa	osa	NOUN	S	Case=Gen|Number=Sing	11	dobj	_	_
+13	sotsiaalsest	sotsiaalne	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	14	amod	_	_
+14	keskkonnast	keskkond	NOUN	S	Case=Ela|Number=Sing	12	nmod	_	_
+15	.	.	PUNCT	Z	_	4	punct	_	_
+
+#sent_id tea_dr8020_170
+#
+1	Suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	2	amod	_	_
+2	haigestumus	haigestumus	NOUN	S	Case=Nom|Number=Sing	5	nsubj	_	_
+3	ja	ja	CONJ	J	_	2	cc	_	_
+4	suremus	suremus	NOUN	S	Case=Nom|Number=Sing	2	conj	_	_
+5	mõjub	mõjuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	ühiskonna	ühiskond	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
+7	ja	ja	CONJ	J	_	6	cc	_	_
+8	majanduse	majandus	NOUN	S	Case=Gen|Number=Sing	6	conj	_	_
+9	arengut	areng	NOUN	S	Case=Par|Number=Sing	10	dobj	_	_
+10	pidurdavalt	pidurdava=lt	ADV	D	_	5	advmod	_	_
+11	kahel	kaks	NUM	N	Case=Ade|Number=Sing|NumForm=Letter|NumType=Card	12	nummod	_	_
+12	viisil	viis	NOUN	S	Case=Ade|Number=Sing	5	nmod	_	_
+13	:	:	PUNCT	Z	_	15	punct	_	_
+14	esiteks	esiteks	ADV	D	_	15	advmod	_	_
+15	koormab	koormama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+16	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	15	nsubj	_	_
+17	enam	enam	ADV	D	_	15	advmod	_	_
+18	tervishoiusüsteemi	tervis_hoiu_süsteem	NOUN	S	Case=Par|Number=Sing	15	dobj	_	_
+19	ja	ja	CONJ	J	_	15	cc	_	_
+20	suurendab	suurendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+21	tervishoiule	tervis_hoid	NOUN	S	Case=All|Number=Sing	22	nmod	_	_
+22	tehtavaid	tehtav	ADJ	A	Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	23	acl	_	_
+23	kulutusi	kulutus	NOUN	S	Case=Par|Number=Plur	20	dobj	_	_
+24	vähendades	vähendama	VERB	V	VerbForm=Ger	20	advcl	_	_
+25	seega	seega	ADV	D	_	24	advmod	_	_
+26	näiteks	näiteks	ADV	D	_	27	advmod	_	_
+27	võimalusi	võimalus	NOUN	S	Case=Par|Number=Plur	24	dobj	_	_
+28	investeerida	investeerima	VERB	V	VerbForm=Inf	27	acl	_	_
+29	tehnoloogia	tehnoloogia	NOUN	S	Case=Gen|Number=Sing	30	nmod	_	_
+30	arendamisse	arendamine	NOUN	S	Case=Add|Number=Sing	28	nmod	_	_
+31	,	,	PUNCT	Z	_	15	punct	_	_
+32	teiseks	teiseks	ADV	D	_	34	advmod	_	_
+33	aga	aga	CONJ	J	_	15	cc	_	_
+34	kahandab	kahandama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	15	conj	_	_
+35	rahva	rahvas	NOUN	S	Case=Gen|Number=Sing	37	nmod	_	_
+36	kehvem	kehvem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	37	amod	_	_
+37	tervis	tervis	NOUN	S	Case=Nom|Number=Sing	34	nsubj	_	_
+38	riigis	riik	NOUN	S	Case=Ine|Number=Sing	39	nmod	_	_
+39	kasutada	kasutama	VERB	V	VerbForm=Inf	40	advcl	_	_
+40	oleva	olev	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	acl	_	_
+41	inimkapitali	inim_kapital	NOUN	S	Case=Gen|Number=Sing	42	nmod	_	_
+42	väärtust	väärtus	NOUN	S	Case=Par|Number=Sing	34	dobj	_	_
+43	elanike	elanik	NOUN	S	Case=Gen|Number=Plur	45	nmod	_	_
+44	väiksema	väiksem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	45	amod	_	_
+45	töövõime	töö_võime	NOUN	S	Case=Gen|Number=Sing	34	nmod	_	_
+46	ja	ja	CONJ	J	_	45	cc	_	_
+47	töötahte	töö_tahe	NOUN	S	Case=Gen|Number=Sing	45	conj	_	_
+48	näol	näol	ADP	K	AdpType=Post	45	case	_	_
+49	.	.	PUNCT	Z	_	5	punct	_	_
+
+#sent_id tea_dr8020_180
+#
+1	Ka	ka	ADV	D	_	2	advmod	_	_
+2	kuritegevus	kuri_tegevus	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	mõjub	mõjuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	majanduse	majandus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	arengut	areng	NOUN	S	Case=Par|Number=Sing	6	dobj	_	_
+6	pidurdavalt	pidurdava=lt	ADV	D	_	3	advmod	_	_
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_190
+#
+1	Vaesema	vaesem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	2	amod	_	_
+2	mediaanvalija	mediaan_valija	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+3	poolt	poolt	ADP	K	AdpType=Post	2	case	_	_
+4	vajalikuks	vajalik	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	5	amod	_	_
+5	peetav	peetav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+6	üldine	üldine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	maksumäär	maksu_määr	NOUN	S	Case=Nom|Number=Sing	9	nsubj:cop	_	_
+8	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
+9	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	_
+10	ja	ja	CONJ	J	_	7	cc	_	_
+11	seega	seega	ADV	D	_	13	advmod	_	_
+12	ka	ka	ADV	D	_	13	advmod	_	_
+13	ümberjaotus	ümber_jaotus	NOUN	S	Case=Nom|Number=Sing	7	conj	_	_
+14	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	7	conj	_	_
+15	(	(	PUNCT	Z	_	16	punct	_	_
+16	Alesina	Alesina	PROPN	S	Case=Nom|Number=Sing	14	parataxis	_	_
+17	ja	ja	CONJ	J	_	16	cc	_	_
+18	Rodrik	Rodrik	PROPN	S	Case=Nom|Number=Sing	17	conj	_	_
+19	,	,	PUNCT	Z	_	16	punct	_	_
+20	1994	1994	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
+21	)	)	PUNCT	Z	_	16	punct	_	_
+22	.	.	PUNCT	Z	_	9	punct	_	_
+
+#sent_id tea_dr8020_200
+#
+1	Samas	samas	ADV	D	_	17	advmod	_	_
+2	,	,	PUNCT	Z	_	6	punct	_	_
+3	kui	kui	SCONJ	J	_	6	mark	_	_
+4	ümberjaotust	ümber_jaotus	NOUN	S	Case=Par|Number=Sing	6	dobj	_	_
+5	mitte	mitte	ADV	D	Negative=Neg	6	advmod	_	_
+6	arvestada	arvestama	VERB	V	VerbForm=Inf	17	advcl	_	_
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	siis	siis	ADV	D	_	17	advmod	_	_
+9	on	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	17	cop	_	_
+10	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+11	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	12	amod	_	_
+12	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	17	nmod	_	_
+13	korral	korral	ADP	K	AdpType=Post	12	case	_	_
+14	ka	ka	ADV	D	_	15	advmod	_	_
+15	säästud	sääst	NOUN	S	Case=Nom|Number=Plur	17	nsubj:cop	_	_
+16	majanduses	majandus	NOUN	S	Case=Ine|Number=Sing	17	nmod	_	_
+17	suuremad	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	0	root	_	_
+18	.	.	PUNCT	Z	_	17	punct	_	_
+
+#sent_id tea_dr8020_210
+#
+1	Ka	ka	ADV	D	_	7	advmod	_	_
+2	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	3	neg	_	_
+3	ole	olema	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	7	cop	_	_
+4	ebatäiuslike	eba_täiuslik	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	5	amod	_	_
+5	kapitaliturgude	kapitali_turg	NOUN	S	Case=Gen|Number=Plur	7	nmod	_	_
+6	korral	korral	ADP	K	AdpType=Post	5	case	_	_
+7	võimalik	võimalik	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+8	investeerida	investeerima	VERB	V	VerbForm=Inf	7	csubj:cop	_	_
+9	ettevõtlusse	ette_võtlus	NOUN	S	Case=Add|Number=Sing	8	nmod	_	_
+10	ja	ja	CONJ	J	_	9	cc	_	_
+11	uutesse	uus	ADJ	A	Case=Ill|Degree=Pos|Number=Plur	12	amod	_	_
+12	ideedesse	idee	NOUN	S	Case=Ill|Number=Plur	9	conj	_	_
+13	neil	tema	PRON	P	Case=Ade|Number=Plur|Person=3|PronType=Prs	7	nmod	_	_
+14	,	,	PUNCT	Z	_	17	punct	_	_
+15	kelle	kes	PRON	P	Case=Gen|Number=Plur|PronType=Int,Rel	17	nmod	_	_
+16	enda	ise	PRON	P	Case=Gen|Number=Sing|PronType=Prs|Reflex=Yes	15	det	_	_
+17	sissetulekud	sisse_tulek	NOUN	S	Case=Nom|Number=Plur	21	nsubj	_	_
+18	ja	ja	CONJ	J	_	17	cc	_	_
+19	varad	vara	NOUN	S	Case=Nom|Number=Plur	17	conj	_	_
+20	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	21	neg	_	_
+21	luba	lubama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	13	acl:relcl	_	_
+22	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	23	dobj	_	_
+23	teha	tegema	VERB	V	VerbForm=Inf	21	xcomp	_	_
+24	.	.	PUNCT	Z	_	7	punct	_	_
+
+#sent_id tea_dr8020_220
+#
+1	Käesoleva	käes_olev	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	2	acl	_	_
+2	töö	töö	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+3	uurimisobjektiks	uurimis_objekt	NOUN	S	Case=Tra|Number=Sing	4	xcomp	_	_
+4	ongi	olema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	6	nmod	_	_
+6	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	mõjurid	mõjur	NOUN	S	Case=Nom|Number=Plur	4	nsubj	_	_
+8	ja	ja	CONJ	J	_	7	cc	_	_
+9	nende	see	PRON	P	Case=Gen|Number=Plur|PronType=Dem	10	det	_	_
+10	mõju	mõju	NOUN	S	Case=Nom|Number=Sing	7	conj	_	_
+11	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+12	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	10	nmod	_	_
+13	.	.	PUNCT	Z	_	4	punct	_	_
+
+#sent_id tea_dr8020_230
+#
+1	Viimane	viimane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	nsubj	_	_
+2	omakorda	oma_korda	ADV	D	_	4	advmod	_	_
+3	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
+4	koosneda	koosnema	VERB	V	VerbForm=Inf	0	root	_	_
+5	mitmest	mitu	PRON	P	Case=Ela|Number=Sing|PronType=Ind	9	advmod:quant	_	_
+6	erinevaid	erinev	ADJ	A	Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+7	tegureid	tegur	NOUN	S	Case=Par|Number=Plur	8	dobj	_	_
+8	läbivast	läbiv	ADJ	A	Case=Ela|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	9	acl	_	_
+9	mõjuahelast	mõju_ahel	NOUN	S	Case=Ela|Number=Sing	4	nmod	_	_
+10	.	.	PUNCT	Z	_	4	punct	_	_
+
+#sent_id tea_dr8020_240
+#
+1	Viimasel	viimane	ADJ	A	Case=Ade|Degree=Pos|Number=Sing	2	amod	_	_
+2	paaril	paar	NUM	N	Case=Ade|Number=Sing|NumForm=Letter|NumType=Card	3	nummod	_	_
+3	aastakümnel	aasta_kümme	NOUN	S	Case=Ade|Number=Sing	10	nmod	_	_
+4	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	10	aux	_	_
+5	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	6	nmod	_	_
+6	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	mõjuritena	mõjur	NOUN	S	Case=Ess|Number=Plur	10	nmod	_	_
+8	enam	enam	ADV	D	_	9	advmod:quant	_	_
+9	käsitlemist	käsitlemine	NOUN	S	Case=Par|Number=Sing	10	dobj	_	_
+10	leidnud	leidma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+11	ka	ka	ADV	D	_	12	advmod	_	_
+12	makroökonoomilised	makro_ökonoomiline	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	tegurid	tegur	NOUN	S	Case=Nom|Number=Plur	10	nsubj	_	_
+14	.	.	PUNCT	Z	_	10	punct	_	_
+
+#sent_id tea_dr8020_250
+#
+1	Näiteks	näiteks	ADV	D	_	3	advmod	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	pakutud	pakkuma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	et	et	SCONJ	J	_	8	mark	_	_
+6	rikkuse	rikkus	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	suurenedes	suurenema	VERB	V	VerbForm=Ger	8	advcl	_	_
+8	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	dep	_	_
+9	rikastel	rikas	ADJ	A	Case=Ade|Degree=Pos|Number=Plur	8	amod	_	_
+10	enam	enam	ADV	D	_	11	advmod:quant	_	_
+11	võimalusi	võimalus	NOUN	S	Case=Par|Number=Plur	8	nsubj	_	_
+12	sellest	see	PRON	P	Case=Ela|Number=Sing|PronType=Dem	14	nmod	_	_
+13	kasu	kasu	NOUN	S	Case=Par|Number=Sing	14	dobj	_	_
+14	saada	saama	VERB	V	VerbForm=Inf	11	acl	_	_
+15	,	,	PUNCT	Z	_	20	punct	_	_
+16	kuna	kuna	SCONJ	J	_	20	mark	_	_
+17	riigi	riik	NOUN	S	Case=Gen|Number=Sing	18	nmod	_	_
+18	rikkuse	rikkus	NOUN	S	Case=Gen|Number=Sing	19	nmod	_	_
+19	suurenemine	suurenemine	NOUN	S	Case=Nom|Number=Sing	20	nsubj	_	_
+20	suurendab	suurendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	dep	_	_
+21	enam	enam	ADV	D	_	20	advmod	_	_
+22	just	just	ADV	D	_	23	advmod	_	_
+23	ettevõtjate	ette_võtja	NOUN	S	Case=Gen|Number=Plur	24	nmod	_	_
+24	tulusid	tulu	NOUN	S	Case=Par|Number=Plur	20	dobj	_	_
+25	(	(	PUNCT	Z	_	26	punct	_	_
+26	Chang	Chang	PROPN	S	Case=Nom|Number=Sing	20	parataxis	_	_
+27	ja	ja	CONJ	J	_	26	cc	_	_
+28	Ram	Ram	PROPN	S	Case=Nom|Number=Sing	27	foreign	_	_
+29	,	,	PUNCT	Z	_	26	punct	_	_
+30	2000	2000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	28	nummod	_	_
+31	)	)	PUNCT	Z	_	26	punct	_	_
+32	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_260
+#
+1	Seos	seos	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+2	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
+3	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+4	ja	ja	CONJ	J	_	3	cc	_	_
+5	riigi	riik	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+6	rikkuse	rikkus	NOUN	S	Case=Gen|Number=Sing	3	conj	_	_
+7	vahel	vahel	ADP	K	AdpType=Post	3	case	_	_
+8	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	9	neg	_	_
+9	osutunud	osutuma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	üldse	üldse	ADV	D	_	11	advmod	_	_
+11	oluliseks	oluline	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	9	xcomp	_	_
+12	Gustafssoni	Gustafsson	PROPN	S	Case=Gen|Number=Sing	18	nmod	_	_
+13	ja	ja	CONJ	J	_	12	cc	_	_
+14	Johanssoni	Johansson	PROPN	S	Case=Gen|Number=Sing	12	conj	_	_
+15	(	(	PUNCT	Z	_	21	punct	_	_
+16	1997	1997	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	14	nummod	_	_
+17	)	)	PUNCT	Z	_	21	punct	_	_
+18	uurimuses	uurimus	NOUN	S	Case=Ine|Number=Sing	9	nmod	_	_
+19	,	,	PUNCT	Z	_	21	punct	_	_
+20	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	21	nsubj	_	_
+21	kasutas	kasutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	acl:relcl	_	_
+22	OECD	OECD	NOUN	Y	Abbr=Yes	23	nmod	_	_
+23	riikide	riik	NOUN	S	Case=Gen|Number=Plur	24	nmod	_	_
+24	andmeid	andmed	NOUN	S	Case=Par|Number=Plur	21	dobj	_	_
+25	aastatest	aasta	NOUN	S	Case=Ela|Number=Plur	24	nmod	_	_
+26	1966-1994	1966-1994	NUM	N	NumForm=Digit|NumType=Card	25	nummod	_	_
+27	.	.	PUNCT	Z	_	9	punct	_	_
+
+#sent_id tea_dr8020_270
+#
+1	Mõnedes	mõni	ADJ	P	Case=Ine|Number=Plur	2	amod	_	_
+2	uurimustes	uurimus	NOUN	S	Case=Ine|Number=Plur	8	nmod	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+4	riigi	riik	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+5	majandusliku	majanduslik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
+6	arengutaseme	arengu_tase	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	näitajana	näitaja	NOUN	S	Case=Ess|Number=Sing	8	nmod	_	_
+8	kasutatud	kasutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	energia	energia	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
+10	tarbimist	tarbimine	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+11	elaniku	elanik	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
+12	kohta	kohta	ADP	K	AdpType=Post	11	case	_	_
+13	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_280
+#
+1	Kirjeldamaks	kirjeldama	VERB	V	Case=Tra|VerbForm=Sup|Voice=Act	8	advcl	_	_
+2	majanduse	majandus	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+3	struktuuri	struktuur	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+4	üldist	üldine	ADJ	A	Case=Par|Degree=Pos|Number=Sing	5	amod	_	_
+5	arengutaset	arengu_tase	NOUN	S	Case=Par|Number=Sing	1	dobj	_	_
+6	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	sageli	sageli	ADV	D	_	8	advmod	_	_
+8	kasutatud	kasutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+9	ka	ka	ADV	D	_	13	advmod	_	_
+10	selleks	see	PRON	P	Case=Tra|Number=Sing|PronType=Dem	11	det	_	_
+11	otstarbeks	ots_tarve	NOUN	S	Case=Tra|Number=Sing	12	xcomp	_	_
+12	tuletatud	tuleta=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
+13	näitajaid	näitaja	NOUN	S	Case=Par|Number=Plur	8	dobj	_	_
+14	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_290
+#
+1	Ekstensiivsete	ekstensiivne	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	_
+2	muutuste	muutus	NOUN	S	Case=Gen|Number=Plur	4	nmod	_	_
+3	puhul	puhul	ADP	K	AdpType=Post	2	case	_	_
+4	võtavad	võtma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	oskustöölised	oskus_tööline	NOUN	S	Case=Nom|Number=Plur	4	nsubj	_	_
+6	üle	üle	ADV	D	_	4	compound:prt	_	_
+7	osa	osa	NOUN	S	Case=Gen|Number=Sing	4	dobj	_	_
+8	mitteoskustööliste	mitte_oskus_tööline	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
+9	töökohtadest	töö_koht	NOUN	S	Case=Ela|Number=Plur	7	nmod	_	_
+10	.	.	PUNCT	Z	_	4	punct	_	_
+
+#sent_id tea_dr8020_300
+#
+1	Ka	ka	ADV	D	_	2	advmod	_	_
+2	siin	siin	ADV	D	_	6	advmod	_	_
+3	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	eri	eri	ADJ	A	Degree=Pos	5	amod	_	_
+5	autorid	autor	NOUN	S	Case=Nom|Number=Plur	6	nsubj	_	_
+6	saanud	saama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+7	erinevaid	erinev	ADJ	A	Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
+8	tulemusi	tulemus	NOUN	S	Case=Par|Number=Plur	6	dobj	_	_
+9	.	.	PUNCT	Z	_	6	punct	_	_
+
+#sent_id tea_dr8020_310
+#
+1	Demograafilised	demo_graafi=line	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	2	amod	_	_
+2	tegurid	tegur	NOUN	S	Case=Nom|Number=Plur	0	root	_	_
+
+#sent_id tea_dr8020_320
+#
+1	Põhjuseks	põhjus	NOUN	S	Case=Tra|Number=Sing	3	xcomp	_	_
+2	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	olla	olema	VERB	V	VerbForm=Inf	0	root	_	_
+4	,	,	PUNCT	Z	_	8	punct	_	_
+5	et	et	SCONJ	J	_	8	mark	_	_
+6	sündimus	sündimus	NOUN	S	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+7	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+8	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	3	csubj	_	_
+9	just	just	ADV	D	_	10	advmod	_	_
+10	madalama	madalam	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	11	amod	_	_
+11	sissetulekuga	sisse_tulek	NOUN	S	Case=Com|Number=Sing	12	nmod	_	_
+12	elanikkonna	elanikkond	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+13	hulgas	hulgas	ADP	K	AdpType=Post	12	case	_	_
+14	ja	ja	CONJ	J	_	8	cc	_	_
+15	seega	seega	ADV	D	_	16	advmod	_	_
+16	kaasnevad	kaasnema	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	conj	_	_
+17	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	19	amod	_	_
+18	laste	laps	NOUN	S	Case=Gen|Number=Plur	19	nmod	_	_
+19	osakaaluga	osa_kaal	NOUN	S	Case=Com|Number=Sing	16	nmod	_	_
+20	veelgi	veelgi	ADV	D	_	21	advmod	_	_
+21	madalamad	madalam	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	22	amod	_	_
+22	sissetulekud	sisse_tulek	NOUN	S	Case=Nom|Number=Plur	16	nsubj	_	_
+23	selles	see	PRON	P	Case=Ine|Number=Sing|PronType=Dem	24	det	_	_
+24	grupis	grupp	NOUN	S	Case=Ine|Number=Sing	16	nmod	_	_
+25	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_330
+#
+1	Uuritud	uurima	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	aux	_	_
+3	ka	ka	ADV	D	_	7	advmod	_	_
+4	linnastumise	linnastumine	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	ja	ja	CONJ	J	_	4	cc	_	_
+6	inimtiheduse	inim_tihedus	NOUN	S	Case=Gen|Number=Sing	4	conj	_	_
+7	mõju	mõju	NOUN	S	Case=Par|Number=Sing	1	dobj	_	_
+8	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	9	nmod	_	_
+9	ebavõrdsusele	eba_võrdsus	NOUN	S	Case=All|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	Z	_	1	punct	_	_
+
+#sent_id tea_dr8020_340
+#
+1	Sylwesteri	Sylwester	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
+2	(	(	PUNCT	Z	_	9	punct	_	_
+3	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	1	nummod	_	_
+4	)	)	PUNCT	Z	_	9	punct	_	_
+5	uurimus	uurimus	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+6	50	50	NUM	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Card	7	nummod	_	_
+7	riigi	riik	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+8	ristandmetel	rist_andmed	NOUN	S	Case=Ade|Number=Plur	5	nmod	_	_
+9	näitas	näitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+10	aga	aga	CONJ	J	_	9	cc	_	_
+11	,	,	PUNCT	Z	_	21	punct	_	_
+12	et	et	SCONJ	J	_	21	mark	_	_
+13	suurema	suurem	ADJ	A	Case=Gen|Degree=Cmp|Number=Sing	16	amod	_	_
+14	keskmise	keskmine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	16	amod	_	_
+15	kooliaastate	kooli_aasta	NOUN	S	Case=Gen|Number=Plur	16	nmod	_	_
+16	arvuga	arv	NOUN	S	Case=Com|Number=Sing	17	nmod	_	_
+17	riikides	riik	NOUN	S	Case=Ine|Number=Plur	21	nmod	_	_
+18	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	cop	_	_
+19	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	20	nmod	_	_
+20	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	21	nsubj:cop	_	_
+21	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	9	ccomp	_	_
+22	.	.	PUNCT	Z	_	9	punct	_	_
+
+#sent_id tea_dr8020_350
+#
+1	Chevani	Chevan	PROPN	S	Case=Gen|Number=Sing	8	nmod	_	_
+2	ja	ja	CONJ	J	_	1	cc	_	_
+3	Stokesi	Stokes	PROPN	S	Case=Gen|Number=Sing	1	conj	_	_
+4	(	(	PUNCT	Z	_	5	punct	_	_
+5	2000	2000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
+6	)	)	PUNCT	Z	_	5	punct	_	_
+7	kohaselt	kohaselt	ADP	K	AdpType=Post	1	case	_	_
+8	näitavad	näitama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+9	uurimused	uurimus	NOUN	S	Case=Nom|Number=Plur	8	nsubj	_	_
+10	,	,	PUNCT	Z	_	24	punct	_	_
+11	et	et	SCONJ	J	_	24	mark	_	_
+12	nii	nii	ADV	D	_	13	cc:preconj	_	_
+13	alghariduse	alg_haridus	NOUN	S	Case=Gen|Number=Sing	23	nmod	_	_
+14	kui	kui	CONJ	J	_	13	cc	_	_
+15	ka	ka	ADV	D	_	16	advmod	_	_
+16	kõrghariduse	kõrg_haridus	NOUN	S	Case=Gen|Number=Sing	13	conj	_	_
+17	suure	suur	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	18	amod	_	_
+18	osakaaluga	osa_kaal	NOUN	S	Case=Com|Number=Sing	20	nmod	_	_
+19	täisealiste	täis_ealine	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	20	amod	_	_
+20	elanike	elanik	NOUN	S	Case=Gen|Number=Plur	23	nmod	_	_
+21	haridustaseme	haridus_tase	NOUN	S	Case=Gen|Number=Sing	22	nmod	_	_
+22	järgses	järgne	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	23	amod	_	_
+23	jaotuses	jaotus	NOUN	S	Case=Ine|Number=Sing	24	nmod	_	_
+24	kaasneb	kaasnema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	ccomp	_	_
+25	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	27	amod	_	_
+26	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	27	nmod	_	_
+27	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	24	nsubj	_	_
+28	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_360
+#
+1	Sama	sama	ADJ	P	Case=Par|Number=Sing|PronType=Dem	2	dobj	_	_
+2	kinnitas	kinnitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ka	ka	ADV	D	_	7	advmod	_	_
+4	Nielseni	Nielsen	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	ja	ja	CONJ	J	_	4	cc	_	_
+6	Aldersoni	Alderson	PROPN	S	Case=Gen|Number=Sing	4	conj	_	_
+7	uurimus	uurimus	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+8	(	(	PUNCT	Z	_	2	punct	_	_
+9	1995	1995	NUM	N	NumForm=Digit|NumType=Card	2	parataxis	_	_
+10	)	)	PUNCT	Z	_	2	punct	_	_
+11	88	88	NUM	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Card	12	nummod	_	_
+12	riigi	riik	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+13	kohta	kohta	ADP	K	AdpType=Post	12	case	_	_
+14	aastatest	aasta	NOUN	S	Case=Ela|Number=Plur	7	nmod	_	_
+15	1952-1988	1952-1988	NUM	N	NumForm=Digit|NumType=Card	14	nummod	_	_
+16	ning	ning	CONJ	J	_	7	cc	_	_
+17	hilisem	hilisem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	24	amod	_	_
+18	108	108	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	19	nummod	_	_
+19	riiki	riik	NOUN	S	Case=Par|Number=Sing	23	dobj	_	_
+20	ja	ja	CONJ	J	_	19	cc	_	_
+21	aastaid	aasta	NOUN	S	Case=Par|Number=Plur	19	conj	_	_
+22	1947-1996	1947-1996	NUM	N	NumForm=Digit|NumType=Card	21	nummod	_	_
+23	hõlmav	hõlmav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	24	acl	_	_
+24	uurimus	uurimus	NOUN	S	Case=Nom|Number=Sing	7	conj	_	_
+25	(	(	PUNCT	Z	_	2	punct	_	_
+26	1999	1999	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	2	parataxis	_	_
+27	)	)	PUNCT	Z	_	2	punct	_	_
+28	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_370
+#
+1	Kuigi	kuigi	SCONJ	J	_	6	mark	_	_
+2	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+3	kulutusi	kulutus	NOUN	S	Case=Par|Number=Plur	6	dobj	_	_
+4	haridusele	haridus	NOUN	S	Case=All|Number=Sing	3	nmod	_	_
+5	võib	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+6	pidada	pidama	VERB	V	VerbForm=Inf	29	dep	_	_
+7	ka	ka	ADV	D	_	8	advmod	_	_
+8	poliitiliseks	poliitiline	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	9	amod	_	_
+9	teguriks	tegur	NOUN	S	Case=Tra|Number=Sing	6	xcomp	_	_
+10	,	,	PUNCT	Z	_	6	punct	_	_
+11	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	29	aux	_	_
+12	käesolevas	käes_olev	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	töös	töö	NOUN	S	Case=Ine|Number=Sing	29	nmod	_	_
+14	tulenevalt	tulenevalt	ADV	D	_	29	advmod	_	_
+15	soovist	soov	NOUN	S	Case=Ela|Number=Sing	14	nmod	_	_
+16	käsitleda	käsitlema	VERB	V	VerbForm=Inf	15	acl	_	_
+17	koos	koos	ADV	D	_	16	advmod	_	_
+18	kõiki	kõik	PRON	P	Case=Par|Number=Plur|PronType=Tot	21	det	_	_
+19	haridusega	haridus	NOUN	S	Case=Com|Number=Sing	20	nmod	_	_
+20	seotud	seotud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
+21	tegureid	tegur	NOUN	S	Case=Par|Number=Plur	16	dobj	_	_
+22	,	,	PUNCT	Z	_	29	punct	_	_
+23	hariduskulutused	haridus_kulutus	NOUN	S	Case=Nom|Number=Plur	29	dobj	_	_
+24	koos	koos	ADP	K	AdpType=Prep	25	case	_	_
+25	haridustaseme	haridus_tase	NOUN	S	Case=Gen|Number=Sing	23	nmod	_	_
+26	ja	ja	CONJ	J	_	25	cc	_	_
+27	hariduse	haridus	NOUN	S	Case=Gen|Number=Sing	28	nmod	_	_
+28	ebavõrdsusega	eba_võrdsus	NOUN	S	Case=Com|Number=Sing	25	conj	_	_
+29	liigitatud	liigitama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+30	demograafiliste	demo_graafi=line	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	31	amod	_	_
+31	tegurite	tegur	NOUN	S	Case=Gen|Number=Plur	29	nmod	_	_
+32	alla	alla	ADP	K	AdpType=Post	31	case	_	_
+33	.	.	PUNCT	Z	_	29	punct	_	_
+
+#sent_id tea_dr8020_380
+#
+1	Samas	samas	ADV	D	_	9	advmod	_	_
+2	,	,	PUNCT	Z	_	9	punct	_	_
+3	kui	kui	SCONJ	J	_	9	mark	_	_
+4	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+5	osa	osa	NOUN	S	Case=Nom|Number=Sing	9	dobj	_	_
+6	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	kulutustest	kulutus	NOUN	S	Case=Ela|Number=Plur	5	nmod	_	_
+8	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+9	suunatud	suunama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	23	advcl	_	_
+10	pigem	pigem	ADV	D	_	11	advmod	_	_
+11	keskklassile	kesk_klass	NOUN	S	Case=All|Number=Sing	9	nmod	_	_
+12	ja	ja	CONJ	J	_	11	cc	_	_
+13	jõukamatele	jõukam	ADJ	A	Case=All|Degree=Cmp|Number=Plur	14	amod	_	_
+14	elanikele	elanik	NOUN	S	Case=All|Number=Plur	11	conj	_	_
+15	,	,	PUNCT	Z	_	9	punct	_	_
+16	siis	siis	ADV	D	_	23	advmod	_	_
+17	võivad	võima	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	aux	_	_
+18	suuremad	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	20	amod	_	_
+19	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	20	nmod	_	_
+20	kulutused	kulutus	NOUN	S	Case=Nom|Number=Plur	23	nsubj	_	_
+21	ebavõrdsust	eba_võrdsus	NOUN	S	Case=Par|Number=Sing	23	dobj	_	_
+22	ka	ka	ADV	D	_	23	advmod	_	_
+23	suurendada	suurendama	VERB	V	VerbForm=Inf	0	root	_	_
+24	(	(	PUNCT	Z	_	25	punct	_	_
+25	Xu	Xu	PROPN	Y	Abbr=Yes	23	parataxis	_	_
+26	ja	ja	CONJ	J	_	25	foreign	_	_
+27	Zou	Zou	PROPN	S	Case=Nom|Number=Sing	25	foreign	_	_
+28	,	,	PUNCT	Z	_	25	punct	_	_
+29	2000	2000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	_
+30	;	;	PUNCT	Z	_	25	punct	_	_
+31	Clarke	Clarke	PROPN	S	Case=Nom|Number=Sing	27	list	_	_
+32	,	,	PUNCT	Z	_	25	punct	_	_
+33	Xu	Xu	PROPN	Y	Abbr=Yes	31	list	_	_
+34	ja	ja	CONJ	J	_	33	foreign	_	_
+35	Zou	Zou	PROPN	S	Case=Nom|Number=Sing	33	foreign	_	_
+36	,	,	PUNCT	Z	_	25	punct	_	_
+37	2003	2003	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	35	nummod	_	_
+38	)	)	PUNCT	Z	_	25	punct	_	_
+39	.	.	PUNCT	Z	_	23	punct	_	_
+
+#sent_id tea_dr8020_390
+#
+1	Kui	kui	SCONJ	J	_	4	mark	_	_
+2	näiteks	näiteks	ADV	D	_	3	advmod	_	_
+3	välisvõlg	välis_võlg	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+4	suureneb	suurenema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	advcl	_	_
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	siis	siis	ADV	D	_	7	advmod	_	_
+7	suureneb	suurenema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+8	ka	ka	ADV	D	_	10	advmod	_	_
+9	intressimaksete	intressi_makse	NOUN	S	Case=Gen|Number=Plur	10	nmod	_	_
+10	osa	osa	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+11	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
+12	kulutustes	kulutus	NOUN	S	Case=Ine|Number=Plur	10	nmod	_	_
+13	ja	ja	CONJ	J	_	7	cc	_	_
+14	samade	sama	ADJ	P	Case=Gen|Number=Plur|PronType=Dem	15	amod	_	_
+15	kogukulutuste	kogu_kulutus	NOUN	S	Case=Gen|Number=Plur	23	nmod	_	_
+16	juures	juures	ADP	K	AdpType=Post	15	case	_	_
+17	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	23	cop	_	_
+18	n.ö.	n.ö	ADV	Y	Abbr=Yes	19	nmod	_	_
+19	ümberjaotav	ümber_jaotav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+20	osa	osa	NOUN	S	Case=Nom|Number=Sing	23	nsubj:cop	_	_
+21	valitsuse	valitsus	NOUN	S	Case=Gen|Number=Sing	22	nmod	_	_
+22	kulutustest	kulutus	NOUN	S	Case=Ela|Number=Plur	20	nmod	_	_
+23	väiksem	väiksem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	7	conj	_	_
+24	(	(	PUNCT	Z	_	25	punct	_	_
+25	Cornia	Cornia	PROPN	S	Case=Nom|Number=Sing	23	parataxis	_	_
+26	ja	ja	CONJ	J	_	25	cc	_	_
+27	Kiiski	Kiiski	PROPN	S	Case=Nom|Number=Sing	26	foreign	_	_
+28	,	,	PUNCT	Z	_	25	punct	_	_
+29	2001	2001	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	_
+30	)	)	PUNCT	Z	_	25	punct	_	_
+31	.	.	PUNCT	Z	_	7	punct	_	_
+
+#sent_id tea_dr8020_400
+#
+1	Näiteks	näiteks	ADV	D	_	3	advmod	_	_
+2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+3	kasutatud	kasutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+4	valimisõiguse	valimis_õigus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	laienemist	laienemine	NOUN	S	Case=Par|Number=Sing	6	dobj	_	_
+6	kirjeldavaid	kirjeldav	ADJ	A	Case=Par|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	7	acl	_	_
+7	näitajaid	näitaja	NOUN	S	Case=Par|Number=Plur	3	dobj	_	_
+8	ja	ja	CONJ	J	_	3	cc	_	_
+9	leitud	leidma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	_
+10	,	,	PUNCT	Z	_	17	punct	_	_
+11	et	et	SCONJ	J	_	17	mark	_	_
+12	enamasti	enamasti	ADV	D	_	17	advmod	_	_
+13	valimisõiguse	valimis_õigus	NOUN	S	Case=Gen|Number=Sing	14	nmod	_	_
+14	laienemisel	laienemine	NOUN	S	Case=Ade|Number=Sing	17	nmod	_	_
+15	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	16	nmod	_	_
+16	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	17	nsubj	_	_
+17	väheneb	vähenema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	ccomp	_	_
+18	(	(	PUNCT	Z	_	19	punct	_	_
+19	Gradstein	Gradstein	PROPN	S	Case=Nom|Number=Sing	17	parataxis	_	_
+20	ja	ja	CONJ	J	_	19	cc	_	_
+21	Milanovic	Milanovic	PROPN	S	Case=Nom|Number=Sing	20	foreign	_	_
+22	,	,	PUNCT	Z	_	19	punct	_	_
+23	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	21	nummod	_	_
+24	)	)	PUNCT	Z	_	19	punct	_	_
+25	.	.	PUNCT	Z	_	3	punct	_	_
+
+#sent_id tea_dr8020_410
+#
+1	Kogemus	kogemus	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	näitab	näitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	,	,	PUNCT	Z	_	7	punct	_	_
+4	et	et	SCONJ	J	_	7	mark	_	_
+5	demokraatia	demo_kraatia	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+6	korral	korral	ADP	K	AdpType=Post	5	case	_	_
+7	püütakse	püüdma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	2	ccomp	_	_
+8	maksimeerida	maksimeerima	VERB	V	VerbForm=Inf	7	xcomp	_	_
+9	valimistel	valimine	NOUN	S	Case=Ade|Number=Plur	10	nmod	_	_
+10	saadavat	saadav	ADJ	A	Case=Par|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	11	acl	_	_
+11	toetust	toetus	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+12	ja	ja	CONJ	J	_	7	cc	_	_
+13	nii	nii	ADV	D	_	14	advmod	_	_
+14	võidab	võitma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	_
+15	ümberjaotusest	ümber_jaotus	NOUN	S	Case=Ela|Number=Sing	14	nmod	_	_
+16	enamasti	enamasti	ADV	D	_	14	advmod	_	_
+17	enamuses	enamus	NOUN	S	Case=Ine|Number=Sing	18	nmod	_	_
+18	olev	olev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	20	acl	_	_
+19	ühiskonna	ühiskond	NOUN	S	Case=Gen|Number=Sing	20	nmod	_	_
+20	osa	osa	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
+21	(	(	PUNCT	Z	_	22	punct	_	_
+22	Durham	Durham	PROPN	S	Case=Nom|Number=Sing	14	parataxis	_	_
+23	,	,	PUNCT	Z	_	22	punct	_	_
+24	1999	1999	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	22	nummod	_	_
+25	)	)	PUNCT	Z	_	22	punct	_	_
+26	.	.	PUNCT	Z	_	2	punct	_	_
+
+#sent_id tea_dr8020_420
+#
+1	Suhteliselt	suhteliselt	ADV	D	_	2	advmod	_	_
+2	noore	noor	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	3	amod	_	_
+3	demokraatia	demo_kraatia	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+4	korral	korral	ADP	K	AdpType=Post	3	case	_	_
+5	on	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
+6	ebavõrdsus	eba_võrdsus	NOUN	S	Case=Nom|Number=Sing	8	nsubj:cop	_	_
+7	arvatavasti	arvatavasti	ADV	D	_	8	advmod	_	_
+8	suurem	suurem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	_
+9	,	,	PUNCT	Z	_	15	punct	_	_
+10	kui	kui	SCONJ	J	_	15	mark	_	_
+11	vana	vana	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	_
+12	,	,	PUNCT	Z	_	8	punct	_	_
+13	kauem	kauem	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	14	amod	_	_
+14	kestnud	kest=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	15	acl	_	_
+15	demokraatia	demo_kraatia	NOUN	S	Case=Gen|Number=Sing	8	advcl	_	_
+16	korral	korral	ADP	K	AdpType=Post	15	case	_	_
+17	.	.	PUNCT	Z	_	8	punct	_	_
+
+#sent_id tea_dr8020_430
+#
+1	Cornia	Cornia	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+2	ja	ja	CONJ	J	_	1	cc	_	_
+3	Kiiski	Kiiski	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
+4	(	(	PUNCT	Z	_	9	punct	_	_
+5	2001	2001	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	3	nummod	_	_
+6	)	)	PUNCT	Z	_	9	punct	_	_
+7	on	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
+8	näiteks	näiteks	ADV	D	_	9	advmod	_	_
+9	kasutanud	kasutama	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+10	maailmapanga	maa_ilma_pank	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
+11	poolt	poolt	ADP	K	AdpType=Post	10	case	_	_
+12	avaldatud	avaldatud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	15	acl	_	_
+13	erinevate	erinev	ADJ	A	Case=Gen|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	14	acl	_	_
+14	sektorite	sektor	NOUN	S	Case=Gen|Number=Plur	15	nmod	_	_
+15	reformiindeksite	reformi_indeks	NOUN	S	Case=Gen|Number=Plur	17	nmod	_	_
+16	aritmeetilise	aritmeetiline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	17	amod	_	_
+17	keskmisena	keskmine	ADJ	A	Case=Ess|Degree=Pos|Number=Sing	18	amod	_	_
+18	leitud	leitud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	_
+19	indeksit	indeks	NOUN	S	Case=Par|Number=Sing	9	dobj	_	_
+20	ja	ja	CONJ	J	_	9	cc	_	_
+21	leidnud	leidma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	9	conj	_	_
+22	,	,	PUNCT	Z	_	28	punct	_	_
+23	et	et	SCONJ	J	_	28	mark	_	_
+24	32	32	NUM	N	Case=Ine|Number=Sing|NumForm=Digit|NumType=Card	25	nummod	_	_
+25	riigis	riik	NOUN	S	Case=Ine|Number=Sing	28	nmod	_	_
+26	aastatel	aasta	NOUN	S	Case=Ade|Number=Plur	28	nmod	_	_
+27	1985-1990	1985-1990	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	26	nummod	_	_
+28	oli	olema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	21	ccomp	_	_
+29	reformidel	reform	NOUN	S	Case=Ade|Number=Plur	28	nmod	_	_
+30	keskmiselt	keskmiselt	ADV	D	_	28	advmod	_	_
+31	ebavõrdsust	eba_võrdsus	NOUN	S	Case=Par|Number=Sing	32	dobj	_	_
+32	suurendav	suurendav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	33	acl	_	_
+33	mõju	mõju	NOUN	S	Case=Nom|Number=Sing	28	nsubj	_	_
+34	.	.	PUNCT	Z	_	9	punct	_	_
+
+#sent_id tea_dr8020_440
+#
+1	Gupta	Gupta	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
+2	,	,	PUNCT	Z	_	1	punct	_	_
+3	Davoodi	Davood	PROPN	S	Case=Gen|Number=Sing	1	conj	_	_
+4	ja	ja	CONJ	J	_	1	cc	_	_
+5	Alonso-Terme	Alonso-Terme	PROPN	S	Case=Gen|Number=Sing	1	conj	_	_
+6	(	(	PUNCT	Z	_	14	punct	_	_
+7	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	5	nummod	_	_
+8	)	)	PUNCT	Z	_	14	punct	_	_
+9	1980.-1997.	1980.-1997.	ADJ	N	Case=Gen|Number=Plur|NumForm=Digit|NumType=Ord	10	amod	_	_
+10	aastate	aasta	NOUN	S	Case=Gen|Number=Plur	11	nmod	_	_
+11	andmeid	andmed	NOUN	S	Case=Par|Number=Plur	12	dobj	_	_
+12	kasutavas	kasutav	ADJ	A	Case=Ine|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
+13	uurimuses	uurimus	NOUN	S	Case=Ine|Number=Sing	14	nmod	_	_
+14	osutuski	osutuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+15	maaomandi	maa_omand	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
+16	jaotust	jaotus	NOUN	S	Case=Par|Number=Sing	17	dobj	_	_
+17	mõõtev	mõõtev	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	19	acl	_	_
+18	Gini	Gini	PROPN	S	Case=Gen|Number=Sing	19	nmod	_	_
+19	koefitsient	koefitsient	NOUN	S	Case=Nom|Number=Sing	14	nsubj	_	_
+20	juba	juba	ADV	D	_	21	advmod	_	_
+21	ebaoluliseks	eba_oluline	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	24	amod	_	_
+22	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	23	nmod	_	_
+23	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	24	nmod	_	_
+24	mõjuriks	mõjur	NOUN	S	Case=Tra|Number=Sing	14	xcomp	_	_
+25	.	.	PUNCT	Z	_	14	punct	_	_
+
