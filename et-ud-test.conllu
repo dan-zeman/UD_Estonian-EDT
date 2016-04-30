@@ -26800,7 +26800,7 @@
 27	(	(	PUNCT	Z	_	28	punct	_	_
 28	Blejer	Blejer	PROPN	S	Case=Nom|Number=Sing	20	parataxis	_	_
 29	ja	ja	CONJ	J	_	28	cc	_	_
-30	Guerrero	Guerrero	PROPN	S	Case=Nom|Number=Sing	29	foreign	_	_
+30	Guerrero	Guerrero	PROPN	S	Case=Nom|Number=Sing	28	foreign	_	_
 31	,	,	PUNCT	Z	_	28	punct	_	_
 32	1990	1990	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	30	nummod	_	_
 33	)	)	PUNCT	Z	_	28	punct	_	_
@@ -27142,7 +27142,7 @@
 15	(	(	PUNCT	Z	_	16	punct	_	_
 16	Alesina	Alesina	PROPN	S	Case=Nom|Number=Sing	14	parataxis	_	_
 17	ja	ja	CONJ	J	_	16	cc	_	_
-18	Rodrik	Rodrik	PROPN	S	Case=Nom|Number=Sing	17	conj	_	_
+18	Rodrik	Rodrik	PROPN	S	Case=Nom|Number=Sing	16	conj	_	_
 19	,	,	PUNCT	Z	_	16	punct	_	_
 20	1994	1994	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	18	nummod	_	_
 21	)	)	PUNCT	Z	_	16	punct	_	_
@@ -27271,7 +27271,7 @@
 25	(	(	PUNCT	Z	_	26	punct	_	_
 26	Chang	Chang	PROPN	S	Case=Nom|Number=Sing	20	parataxis	_	_
 27	ja	ja	CONJ	J	_	26	cc	_	_
-28	Ram	Ram	PROPN	S	Case=Nom|Number=Sing	27	foreign	_	_
+28	Ram	Ram	PROPN	S	Case=Nom|Number=Sing	26	foreign	_	_
 29	,	,	PUNCT	Z	_	26	punct	_	_
 30	2000	2000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	28	nummod	_	_
 31	)	)	PUNCT	Z	_	26	punct	_	_
@@ -27604,7 +27604,7 @@
 24	(	(	PUNCT	Z	_	25	punct	_	_
 25	Cornia	Cornia	PROPN	S	Case=Nom|Number=Sing	23	parataxis	_	_
 26	ja	ja	CONJ	J	_	25	cc	_	_
-27	Kiiski	Kiiski	PROPN	S	Case=Nom|Number=Sing	26	foreign	_	_
+27	Kiiski	Kiiski	PROPN	S	Case=Nom|Number=Sing	25	foreign	_	_
 28	,	,	PUNCT	Z	_	25	punct	_	_
 29	2001	2001	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	_
 30	)	)	PUNCT	Z	_	25	punct	_	_
@@ -27632,7 +27632,7 @@
 18	(	(	PUNCT	Z	_	19	punct	_	_
 19	Gradstein	Gradstein	PROPN	S	Case=Nom|Number=Sing	17	parataxis	_	_
 20	ja	ja	CONJ	J	_	19	cc	_	_
-21	Milanovic	Milanovic	PROPN	S	Case=Nom|Number=Sing	20	foreign	_	_
+21	Milanovic	Milanovic	PROPN	S	Case=Nom|Number=Sing	19	foreign	_	_
 22	,	,	PUNCT	Z	_	19	punct	_	_
 23	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	21	nummod	_	_
 24	)	)	PUNCT	Z	_	19	punct	_	_
@@ -28161,7 +28161,7 @@
 # orig_file_sentence 001#30
 1	Knacke-Sommer	Knacke-Sommer	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	ujus	uju	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-3	1977	1977	NUM	N	NumForm=Digit|NumType=Card	2	advmod	_	_
+3	1977	1977	NUM	N	NumForm=Digit|NumType=Card	2	nummod	_	_
 4	esimese	esimene	ADJ	A	Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord	5	amod	_	_
 5	naisena	naine	NOUN	S	Case=Ess|Number=Sing	2	nmod	_	_
 6	100	100	NUM	N	NumForm=Digit|NumType=Card	7	nummod	_	_
@@ -28416,7 +28416,7 @@
 # orig_file_sentence 001#56
 1	Sammusin	sammu	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 2	end	ise	PRON	P	Case=Par|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	1	dobj	_	_
-3	hingetuks	hingetu	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	1	advmod	_	_
+3	hingetuks	hingetu	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	1	amod	_	_
 4	.	.	PUNCT	Z	_	1	punct	_	_
 
 # sent_id a_tree-et-s570-root
@@ -28951,7 +28951,7 @@
 # orig_file_sentence 001#114
 1	Spartak	Spartak	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	platseerus	platseeru	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-3	kolmandaks	kolmas	ADJ	A	Case=Tra|Number=Sing|NumForm=Letter|NumType=Ord	2	advmod	_	_
+3	kolmandaks	kolmas	ADJ	A	Case=Tra|Number=Sing|NumForm=Letter|NumType=Ord	2	amod	_	_
 4	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id a_tree-et-s1150-root
@@ -29034,7 +29034,7 @@
 
 # sent_id a_tree-et-s1240-root
 # orig_file_sentence 001#124
-1	Kõneleja	kõneleja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+1	Kõneleja	kõneleja	NOUN	S	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	tuli	tule	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 3	tema	tema	PRON	P	Case=Gen|Number=Sing	2	nmod	_	_
 4	juurde	juurde	ADP	K	AdpType=Post	3	case	_	_

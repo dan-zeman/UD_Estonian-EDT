@@ -6141,7 +6141,7 @@
 1	Nii	nii	ADV	D	_	2	cc:preconj	_	_
 2	Eestis	Eesti	PROPN	S	Case=Ine|Number=Sing	0	root	_	_
 3	kui	kui	CONJ	J	_	2	cc	_	_
-4	ka	ka	ADV	D	_	3	advmod	_	_
+4	ka	ka	ADV	D	_	6	advmod	_	_
 5	kord	kord	ADV	D	_	6	advmod	_	_
 6	välismaal	välis_maa	NOUN	S	Case=Ade|Number=Sing	2	conj	_	_
 7	.	.	PUNCT	Z	_	2	punct	_	_
@@ -26779,7 +26779,7 @@
 16	,	,	PUNCT	Z	_	11	punct	_	_
 17	Formby	Formby	PROPN	S	Case=Nom|Number=Sing	15	list	_	_
 18	ja	ja	CONJ	J	_	17	cc	_	_
-19	Smith	Smith	PROPN	S	Case=Nom|Number=Sing	18	foreign	_	_
+19	Smith	Smith	PROPN	S	Case=Nom|Number=Sing	17	foreign	_	_
 20	,	,	PUNCT	Z	_	11	punct	_	_
 21	1997	1997	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	19	nummod	_	_
 22	;	;	PUNCT	Z	_	11	punct	_	_
@@ -26787,13 +26787,13 @@
 24	,	,	PUNCT	Z	_	11	punct	_	_
 25	Partridge	Partridge	PROPN	S	Case=Nom|Number=Sing	23	list	_	_
 26	ja	ja	CONJ	J	_	25	cc	_	_
-27	Rickman	Rickman	PROPN	S	Case=Nom|Number=Sing	26	foreign	_	_
+27	Rickman	Rickman	PROPN	S	Case=Nom|Number=Sing	25	foreign	_	_
 28	,	,	PUNCT	Z	_	11	punct	_	_
 29	1998	1998	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	27	nummod	_	_
 30	;	;	PUNCT	Z	_	11	punct	_	_
 31	Chevan	Chevan	PROPN	S	Case=Nom|Number=Sing	27	list	_	_
 32	ja	ja	CONJ	J	_	31	cc	_	_
-33	Stokes	Stokes	PROPN	S	Case=Nom|Number=Sing	32	foreign	_	_
+33	Stokes	Stokes	PROPN	S	Case=Nom|Number=Sing	31	foreign	_	_
 34	,	,	PUNCT	Z	_	11	punct	_	_
 35	2000	2000	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	33	nummod	_	_
 36	)	)	PUNCT	Z	_	11	punct	_	_
@@ -26915,7 +26915,7 @@
 35	(	(	PUNCT	Z	_	36	punct	_	_
 36	Gustafsson	Gustafsson	PROPN	S	Case=Nom|Number=Sing	26	parataxis	_	_
 37	ja	ja	CONJ	J	_	36	cc	_	_
-38	Johansson	Johansson	PROPN	S	Case=Nom|Number=Sing	37	foreign	_	_
+38	Johansson	Johansson	PROPN	S	Case=Nom|Number=Sing	36	foreign	_	_
 39	,	,	PUNCT	Z	_	36	punct	_	_
 40	1997	1997	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	38	nummod	_	_
 41	)	)	PUNCT	Z	_	36	punct	_	_
@@ -27002,7 +27002,7 @@
 16	(	(	PUNCT	Z	_	17	punct	_	_
 17	Nielsen	Nielsen	PROPN	S	Case=Nom|Number=Sing	4	parataxis	_	_
 18	ja	ja	CONJ	J	_	17	cc	_	_
-19	Alderson	Alderson	PROPN	S	Case=Nom|Number=Sing	18	foreign	_	_
+19	Alderson	Alderson	PROPN	S	Case=Nom|Number=Sing	17	foreign	_	_
 20	,	,	PUNCT	Z	_	17	punct	_	_
 21	1995	1995	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	19	nummod	_	_
 22	;	;	PUNCT	Z	_	17	punct	_	_
@@ -27170,7 +27170,7 @@
 5	et	et	SCONJ	J	_	8	mark	_	_
 6	kolmandat	kolmas	ADJ	N	Case=Par|Number=Sing|NumForm=Letter|NumType=Ord	7	amod	_	_
 7	kandidaati	kandidaat	NOUN	S	Case=Par|Number=Sing	8	nsubj	_	_
-8	polegi	ole	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
+8	polegi	ole	VERB	V	Mood=Ind|Negative=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	3	csubj	_	_
 9	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id a_tree-et-s77-root
@@ -27310,7 +27310,7 @@
 8	)	)	PUNCT	Z	_	7	punct	_	_
 9	sai	saa	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	12	aux	_	_
 10	küll	küll	ADV	D	_	12	advmod	_	_
-11	vaiksemaks	vaikse~m	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	12	advmod	_	_
+11	vaiksemaks	vaikse~m	ADJ	A	Case=Tra|Degree=Cmp|Number=Sing	12	amod	_	_
 12	keerata	keera	VERB	V	VerbForm=Inf	0	root	_	_
 13	,	,	PUNCT	Z	_	12	punct	_	_
 14	aga	aga	CONJ	J	_	12	cc	_	_
@@ -27730,7 +27730,7 @@
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 3	end	ise	PRON	P	Case=Par|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	2	dobj	_	_
-4	vabaks	vaba	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	advmod	_	_
+4	vabaks	vaba	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	amod	_	_
 5	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id a_tree-et-s666-root
@@ -28013,7 +28013,7 @@
 # orig_file_sentence 001#91
 1	Päevapalk	päeva-palk	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 2	kerkis	kerki	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-3	kahekordseks	kahe-kordne	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	advmod	_	_
+3	kahekordseks	kahe-kordne	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	amod	_	_
 4	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id a_tree-et-s1022-root
@@ -28129,7 +28129,7 @@
 2	pühkis	pühki	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
 3	laua	laud	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
 4	eestpoolt	eest-poolt	ADV	D	_	2	advmod	_	_
-5	puhtaks	puhas	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	advmod	_	_
+5	puhtaks	puhas	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	2	amod	_	_
 6	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id a_tree-et-s1166-root
