@@ -12,7 +12,7 @@ is a dependency oriented treebank released by the University of Tartu in 2014.
 
 ## Acknowledgments
 
-We wish to thank the authors of the previous treebank version for their effort.
+We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. Also, we wish to thank the authors of the previous treebank version for their effort.
 
 ## References
 
@@ -22,6 +22,7 @@ We wish to thank the authors of the previous treebank version for their effort.
   In: *Proceedings of the 13th Workshop on Treebanks and Linguistic Theories (TLT13),*
   pp. 285–291, ISBN 978-3-9809183-9-8, Tübingen, Germany.
 
+* Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies. - Proceedings of LREC 2016.
 
 === Machine-readable metadata =================================================
 Documentation status: stub
