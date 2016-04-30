@@ -27570,9 +27570,9 @@
 32	,	,	PUNCT	Z	_	25	punct	_	_
 33	Xu	Xu	PROPN	Y	Abbr=Yes	31	list	_	_
 34	ja	ja	CONJ	J	_	33	foreign	_	_
-35	Zou	Zou	PROPN	S	Case=Nom|Number=Sing	33	foreign	_	_
+35	Zou	Zou	PROPN	S	Case=Nom|Number=Sing	31	foreign	_	_
 36	,	,	PUNCT	Z	_	25	punct	_	_
-37	2003	2003	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	35	nummod	_	_
+37	2003	2003	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	31	nummod	_	_
 38	)	)	PUNCT	Z	_	25	punct	_	_
 39	.	.	PUNCT	Z	_	23	punct	_	_
 
@@ -27634,7 +27634,7 @@
 20	ja	ja	CONJ	J	_	19	cc	_	_
 21	Milanovic	Milanovic	PROPN	S	Case=Nom|Number=Sing	19	foreign	_	_
 22	,	,	PUNCT	Z	_	19	punct	_	_
-23	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	21	nummod	_	_
+23	2002	2002	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	19	nummod	_	_
 24	)	)	PUNCT	Z	_	19	punct	_	_
 25	.	.	PUNCT	Z	_	3	punct	_	_
 
@@ -29036,7 +29036,7 @@
 # orig_file_sentence 001#124
 1	Kõneleja	kõneleja	NOUN	S	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	tuli	tule	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
-3	tema	tema	PRON	P	Case=Gen|Number=Sing	2	nmod	_	_
+3	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod	_	_
 4	juurde	juurde	ADP	K	AdpType=Post	3	case	_	_
 5	.	.	PUNCT	Z	_	2	punct	_	_
 
