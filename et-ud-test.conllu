@@ -27752,3 +27752,1337 @@
 24	mõjuriks	mõjur	NOUN	S	Case=Tra|Number=Sing	14	xcomp	_	_
 25	.	.	PUNCT	Z	_	14	punct	_	_
 
+# sent_id a_tree-et-s10-root
+# orig_file_sentence 001#1
+1	Mehed	mees	NOUN	S	Case=Nom|Number=Plur	3	nsubj:cop	_	_
+2	on	ole	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	cop	_	_
+3	erinevad	erinev	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	0	root	_	_
+4	ja	ja	CONJ	J	_	3	cc	_	_
+5	täidavad	täit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	conj	_	_
+6	eri	eri	ADJ	A	Degree=Pos	7	amod	_	_
+7	rolle	roll	NOUN	S	Case=Par|Number=Plur	5	dobj	_	_
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s20-root
+# orig_file_sentence 001#2
+1	Lennart	Lennart	PROPN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
+2	omakorda	oma_korda	ADV	D	_	6	advmod	_	_
+3	on	ole	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+4	alati	alati	ADV	D	_	6	advmod	_	_
+5	olnud	ole	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	6	cop	_	_
+6	tugevam	tuge=vam	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	0	root	_	_
+7	poliitilise	poliitiline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	8	amod	_	_
+8	ämblikuvõrgu	ämbliku_võrk	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
+9	punumises	punu=mine	NOUN	S	Case=Ine|Number=Sing	6	nmod	_	_
+10	.	.	PUNCT	Z	_	6	punct	_	_
+
+# sent_id a_tree-et-s30-root
+# orig_file_sentence 001#3
+1	1991.	1991	ADJ	N	NumForm=Digit|NumType=Ord	2	amod	_	_
+2	aasta	aasta	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+3	putšipäevil	putši_päev	NOUN	S	Case=Ade|Number=Plur	4	nmod	_	_
+4	sulges	sulge	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+5	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+6	Rüütli	Rüütel	PROPN	S	Case=Gen|Number=Sing	4	dobj	_	_
+7	sõna	sõna	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
+8	otseses	otsene	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	9	amod	_	_
+9	mõttes	mõte	NOUN	S	Case=Ine|Number=Sing	4	nmod	_	_
+10	Kadrioru	Kadri_org	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
+11	lossi	loss	NOUN	S	Case=Add|Number=Sing	4	nmod	_	_
+12	luku	lukk	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+13	taha	taha	ADP	K	AdpType=Post	12	case	_	_
+14	ja	ja	CONJ	J	_	4	cc	_	_
+15	käskis	käski	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	conj	_	_
+16	tal	tema	PRON	P	Case=Ade|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
+17	seal	seal	ADV	D	_	19	advmod	_	_
+18	paigal	paigal	ADV	D	_	19	compound:prt	_	_
+19	püsida	püsi	VERB	V	VerbForm=Inf	15	xcomp	_	_
+20	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s40-root
+# orig_file_sentence 001#4
+1	Kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	2	nummod	_	_
+2	meisterkonspiraatorit	meister_konspiraator	NOUN	S	Case=Par|Number=Sing	3	nsubj	_	_
+3	tegid	tege	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ettevalmistusi	ette_valmistus	NOUN	S	Case=Par|Number=Plur	3	dobj	_	_
+5	pimedas	pime	NOUN	S	Case=Ine|Number=Sing	3	nmod	_	_
+6	ja	ja	CONJ	J	_	5	cc	_	_
+7	teki	tekk	NOUN	S	Case=Gen|Number=Sing	5	conj	_	_
+8	all	all	ADP	K	AdpType=Post	7	case	_	_
+9	,	,	PUNCT	Z	_	15	punct	_	_
+10	sest	sest	SCONJ	J	_	15	mark	_	_
+11	Arnold	Arnold	PROPN	S	Case=Nom|Number=Sing	15	nsubj	_	_
+12	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	15	neg	_	_
+13	tohtinud	tohti	AUX	V	Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act	15	aux	_	_
+14	midagi	miski	PRON	P	Case=Par|Number=Sing|PronType=Ind	15	dobj	_	_
+15	aimata	aima	VERB	V	VerbForm=Inf	3	advcl	_	_
+16	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s50-root
+# orig_file_sentence 001#5
+1	Samal	sama	PRON	P	Case=Ade|Number=Sing|PronType=Dem	2	nmod	_	_
+2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	8	nmod	_	_
+3	kui	kui	SCONJ	J	_	8	mark	_	_
+4	Toompeal	Toom_pea	PROPN	S	Case=Ade|Number=Sing	8	nmod	_	_
+5	presidendi	president	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+6	õnnistuseks	õnnistus	NOUN	S	Case=Tra|Number=Sing	8	nmod	_	_
+7	hümni	hümn	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+8	mängiti	mängi	VERB	V	Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass	10	advcl	_	_
+9	,	,	PUNCT	Z	_	8	punct	_	_
+10	istus	istu	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+11	solvatud	solva=tud	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act	12	amod	_	_
+12	Arnold	Arnold	PROPN	S	Case=Nom|Number=Sing	10	nsubj	_	_
+13	üksi	üksi	ADV	D	_	10	advmod	_	_
+14	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	16	nmod	_	_
+15	Kadrioru	Kadri_org	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
+16	korteris	korter	NOUN	S	Case=Ine|Number=Sing	10	nmod	_	_
+17	.	.	PUNCT	Z	_	10	punct	_	_
+
+# sent_id a_tree-et-s60-root
+# orig_file_sentence 001#6
+1	Intriigimeistrina	intriigi_meister	NOUN	S	Case=Ess|Number=Sing	4	nmod	_	_
+2	on	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	cop	_	_
+3	Savisaar	Savi_saar	PROPN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+4	võitmatu	võitmatu	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
+5	,	,	PUNCT	Z	_	4	punct	_	_
+6	osavuselt	osavus	NOUN	S	Case=Abl|Number=Sing	7	nmod	_	_
+7	jäävad	jää	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	_	_
+8	talle	tema	PRON	P	Case=All|Number=Sing|Person=3|PronType=Prs	7	nmod	_	_
+9	alla	alla	ADV	D	_	7	compound:prt	_	_
+10	nii	nii	ADV	D	_	13	cc	_	_
+11	arengupartei	arengu_partei	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	_
+12	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	13	name	_	_
+13	Made	Made	PROPN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+14	kui	kui	SCONJ	J	_	13	cc	_	_
+15	parempoolne	parem_poolne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	17	amod	_	_
+16	Indrek	Indrek	PROPN	S	Case=Nom|Number=Sing	17	name	_	_
+17	Kannik	Kannik	PROPN	S	Case=Nom|Number=Sing	13	conj	_	_
+18	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s70-root
+# orig_file_sentence 001#7
+1	Keskerakonnal	kesk_erakond	NOUN	S	Case=Ade|Number=Sing	2	nmod	_	_
+2	on	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	parteidest	partei	NOUN	S	Case=Ela|Number=Plur	6	nmod	_	_
+5	kõige	kõige	ADV	D	_	6	advmod	_	_
+6	tugevam	tuge=vam	ADJ	A	Case=Nom|Degree=Cmp|Number=Sing	8	amod	_	_
+7	allüksuste	all_üksus	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
+8	võrk	võrk	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+9	,	,	PUNCT	Z	_	11	punct	_	_
+10	et	SUB	SCONJ	J	_	11	mark	_	_
+11	teha	tege	VERB	V	VerbForm=Inf	8	acl	_	_
+12	lobby	lobby	NOUN	S	Case=Par|Number=Sing	11	dobj	_	_
+13	valdade	vald	NOUN	S	Case=Gen|Number=Plur	16	nmod	_	_
+14	ja	CO	CONJ	J	_	13	cc	_	_
+15	väikelinnade	väike_linn	NOUN	S	Case=Gen|Number=Plur	13	conj	_	_
+16	esindajate	esindaja	NOUN	S	Case=Gen|Number=Plur	11	nmod	_	_
+17	seas	seas	ADP	K	AdpType=Post	16	case	_	_
+18	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s80-root
+# orig_file_sentence 001#8
+1	Saalisistuja	saali	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	3	neg	_	_
+3	aimagi	aima	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	,	,	PUNCT	Z	_	3	punct	_	_
+5	milline	milline	PRON	P	Case=Nom|Number=Sing|PronType=Int	6	nmod	_	_
+6	võimuvõitlus	võimu_võitlus	NOUN	S	Case=Nom|Number=Sing	7	nsubj	_	_
+7	etendub	etendu	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
+9	telekomiärimeeste	tele_komi_äri_mees	NOUN	S	Case=Gen|Number=Plur	12	nmod	_	_
+10	ja	ja	CONJ	J	_	9	cc	_	_
+11	sideministeeriumi	side_ministeerium	NOUN	S	Case=Gen|Number=Sing	9	conj	_	_
+12	kabinettides	kabinet	NOUN	S	Case=Ine|Number=Plur	7	nmod	_	_
+13	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s90-root
+# orig_file_sentence 001#9
+1	Nende	tema	PRON	P	Case=Gen|Number=Plur|Person=3|PronType=Prs	2	nmod	_	_
+2	eesmärk	ees_märk	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
+3	oli	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	cop	_	_
+4	saada	saa	VERB	V	VerbForm=Inf	0	root	_	_
+5	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	6	nmod	_	_
+6	Kaabeltelevisooni	Kaabeltelevisioon	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	Ettevõtete	ette_võte	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
+8	Liidu	liit	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
+9	nimi	nimi	NOUN	S	Case=Nom|Number=Sing	4	dobj	_	_
+10	ja	ja	CONJ	J	_	4	cc	_	_
+11	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	12	nmod	_	_
+12	sildi	silt	NOUN	S	Case=Gen|Number=Sing	17	nmod	_	_
+13	all	all	ADP	K	AdpType=Post	12	case	_	_
+14	avalikkust	avalikkus	NOUN	S	Case=Par|Number=Sing	17	dobj	_	_
+15	Telia	Telia	PROPN	S	Case=Gen|Number=Sing	16	nmod	_	_
+16	kasuks	kasu	NOUN	S	Case=Tra|Number=Sing	17	nmod	_	_
+17	mõjutama	mõjuta	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	conj	_	_
+18	hakata	hakka	AUX	V	VerbForm=Inf	17	aux	_	_
+19	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s100-root
+# orig_file_sentence 001#10
+1	Võitlus	võitlus	NOUN	S	_	0	root	_	_
+2	telefoniside	telefoni_side	NOUN	S	_	1	nmod	_	_
+3	pärast	pärast	ADP	K	AdpType=Prep	2	case	_	_
+
+# sent_id a_tree-et-s110-root
+# orig_file_sentence 001#11
+1	-	-	PUNCT	Z	_	6	punct	_	_
+2	Raha	raha	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
+3	taga	taga	ADP	K	AdpType=Post	2	case	_	_
+4	asi	asi	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+5	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	6	neg	_	_
+6	seisa	seis	VERB	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	9	dep	_	_
+7	,	,	PUNCT	Z	_	6	punct	_	_
+8	-	-	PUNCT	Z	_	6	punct	_	_
+9	omandab	omanda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+10	Paltsi	Palts	PROPN	S	Case=Gen|Number=Sing	11	nmod	_	_
+11	jutt	jutt	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
+12	laia	lai	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	13	amod	_	_
+13	joone	joon	NOUN	S	Case=Gen|Number=Sing	9	dobj	_	_
+14	.	.	PUNCT	Z	_	9	punct	_	_
+
+# sent_id a_tree-et-s120-root
+# orig_file_sentence 001#12
+1	Neid	tema	PRON	P	Case=Par|Number=Plur|Person=3|PronType=Prs	3	dobj	_	_
+2	ei	ei	AUX	V	Mood=Ind|Negative=Neg|VerbForm=Fin	3	neg	_	_
+3	kutsutud	kutsu	VERB	V	Connegative=Yes|Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	_
+4	isegi	isegi	ADV	D	_	3	advmod	_	_
+5	presentatsioonile	presentatsioon	NOUN	S	Case=All|Number=Sing	3	nmod	_	_
+6	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+7	raekojas	rae_koda	NOUN	S	Case=Ine|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s130-root
+# orig_file_sentence 001#13
+1	Läbirääkimised	läbi_rääki=mine	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+2	algasid	alga	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	rublaajal	rubla_aeg	NOUN	S	Case=Ade|Number=Sing	2	nmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s140-root
+# orig_file_sentence 001#14
+1	Telekomi	tele_komi	NOUN	S	_	2	nmod	_	_
+2	aktsiad	aktsia	NOUN	S	_	0	root	_	_
+3	börsile	börs	NOUN	S	_	2	nmod	_	_
+
+# sent_id a_tree-et-s150-root
+# orig_file_sentence 001#15
+1	Oli	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	külm	külm	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
+3	selge	selge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	4	amod	_	_
+4	aprillipäev	aprilli_päev	NOUN	S	Case=Nom|Number=Sing	1	nsubj	_	_
+5	,	,	PUNCT	Z	_	1	punct	_	_
+6	kellad	kell	NOUN	S	Case=Nom|Number=Plur	7	nsubj	_	_
+7	lõid	löö	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	1	conj	_	_
+8	parajasti	parajasti	ADV	D	_	7	advmod	_	_
+9	kolmteist	kolm_teist	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	7	nummod	_	_
+10	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s160-root
+# orig_file_sentence 001#16
+1	Igal	iga	PRON	P	Case=Ade|Number=Sing|PronType=Tot	2	nmod	_	_
+2	korrusel	korrus	NOUN	S	Case=Ade|Number=Sing	3	nmod	_	_
+3	vaatas	vaata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	lifti	lift	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	vastasseinalt	vastas_sein	NOUN	S	Case=Abl|Number=Sing	3	nmod	_	_
+6	vastu	vastu	ADV	D	_	3	compound:prt	_	_
+7	plakat	plakat	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+8	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	10	nmod	_	_
+9	tohutu	tohutu	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	_	_
+10	näoga	nägu	NOUN	S	Case=Com|Number=Sing	7	nmod	_	_
+11	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s170-root
+# orig_file_sentence 001#17
+1	All	all	ADV	D	_	2	advmod	_	_
+2	tänaval	tänav	NOUN	S	Case=Ade|Number=Sing	3	nmod	_	_
+3	keerutasid	keeruta	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	väikesed	väike	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	tuulepöörised	tuule_pööris	NOUN	S	Case=Nom|Number=Plur	3	nsubj	_	_
+6	tolmu	tolm	NOUN	S	Case=Par|Number=Sing	3	dobj	_	_
+7	ja	ja	CONJ	J	_	6	cc	_	_
+8	paberitükke	paberi_tükk	NOUN	S	Case=Par|Number=Plur	6	conj	_	_
+9	,	,	PUNCT	Z	_	3	punct	_	_
+10	ja	ja	CONJ	J	_	3	cc	_	_
+11	kuigi	kuigi	SCONJ	J	_	13	mark	_	_
+12	päike	päike	NOUN	S	Case=Nom|Number=Sing	13	nsubj	_	_
+13	paistis	paist	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	22	advcl	_	_
+14	ja	ja	CONJ	J	_	13	cc	_	_
+15	taevas	taevas	NOUN	S	Case=Nom|Number=Sing	17	nsubj:cop	_	_
+16	oli	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	17	cop	_	_
+17	eresinine	ere_sinine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	13	conj	_	_
+18	,	,	PUNCT	Z	_	17	punct	_	_
+19	oli	ole	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	22	cop	_	_
+20	kõik	kõik	PRON	P	Case=Nom|Number=Sing|PronType=Tot	22	nsubj:cop	_	_
+21	ümberringi	ümber_ringi	ADV	D	_	22	advmod	_	_
+22	hall	hall	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	conj	_	_
+23	ja	ja	CONJ	J	_	22	cc	_	_
+24	ilmetu	ilmetu	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	22	conj	_	_
+25	välja	välja	ADV	D	_	26	compound:prt	_	_
+26	arvatud	arva	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	20	acl	_	_
+27	plakatid	plakat	NOUN	S	Case=Nom|Number=Plur	26	dobj	_	_
+28	,	,	PUNCT	Z	_	27	punct	_	_
+29	mida	mis	PRON	P	Case=Par|Number=Plur|PronType=Rel	33	dobj	_	_
+30	oli	ole	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	33	aux	_	_
+31	kõikjale	kõikjale	ADV	D	_	33	advmod	_	_
+32	üles	üles	ADV	D	_	33	compound:prt	_	_
+33	kleebitud	kleepi	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	27	acl	_	_
+34	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s180-root
+# orig_file_sentence 001#18
+1	Aeg-ajalt	aeg-ajalt	ADV	D	_	2	advmod	_	_
+2	liikusid	liiku	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tagataustal	taga-taust	NOUN	S	Case=Ade|Number=Sing	2	nmod	_	_
+4	ka	ka	ADV	D	_	5	advmod	_	_
+5	teised	teine	PRON	P	Case=Nom|Number=Plur|PronType=Dem	7	nmod	_	_
+6	sarnased	sarnane	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	7	amod	_	_
+7	olendid	olend	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s190-root
+# orig_file_sentence 001#19
+1	Alasti	alasti	ADJ	A	Degree=Pos	2	amod	_	_
+2	mees	mees	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	viskus	visku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ukse	uks	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+5	ees	ees	ADP	K	AdpType=Post	4	case	_	_
+6	lumme	lumi	NOUN	S	Case=Add|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s200-root
+# orig_file_sentence 001#20
+1	Ants	Ants	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+2	ja	ja	CONJ	J	_	1	cc	_	_
+3	Valdek	Valdek	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
+4	sõudsid	sõud	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+5	püstjate	püstjas	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	6	amod	_	_
+6	tõmmetega	tõmme	NOUN	S	Case=Com|Number=Plur	4	nmod	_	_
+7	läbi	läbi	ADP	K	AdpType=Prep	9	case	_	_
+8	tumeda	tume	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	9	amod	_	_
+9	vee	vesi	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+10	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s210-root
+# orig_file_sentence 001#21
+1	Bronka	Bronka	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigub	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vaevaliselt	vaeva=liselt	ADV	D	_	2	advmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s220-root
+# orig_file_sentence 001#22
+1	Ent	ent	CONJ	J	_	3	cc	_	_
+2	juba	juba	ADV	D	_	3	advmod	_	_
+3	tatsas	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Liine	liin	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+5	lähemale	lähemale	ADV	D	_	3	compound:prt	_	_
+6	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s230-root
+# orig_file_sentence 001#23
+1	Galeb	Galeb	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	viskus	visku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tugitooli	tugi-tool	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s240-root
+# orig_file_sentence 001#24
+1	Hobusega	hobune	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+2	sõidutas	sõiduta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	lõpnud	lõpnud	ADJ	A	Degree=Pos	5	amod	_	_
+5	põrsakest	põrsa=ke	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+6	linna	linn	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s250-root
+# orig_file_sentence 001#25
+1	Isa	isa	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	prantsatas	prantsata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	koos	koos	ADP	K	AdpType=Prep	4	case	_	_
+4	jalgrattaga	jalg-ratas	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+5	endise	endine	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	6	amod	_	_
+6	hüdroelektrijaama	hüdro-elektri-jaam	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
+7	kõrval	kõrval	ADP	K	AdpType=Post	6	case	_	_
+8	kasvava	kasva=v	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act	10	amod	_	_
+9	kuldvihma	kuld-vihm	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
+10	põõsa	põõsas	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+11	alla	alla	ADP	K	AdpType=Post	10	case	_	_
+12	kummuli	kummuli	ADV	D	_	2	advmod	_	_
+13	maha	maha	ADV	D	_	2	compound:prt	_	_
+14	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s260-root
+# orig_file_sentence 001#26
+1	Ja	ja	CONJ	J	_	5	cc	_	_
+2	Vigelid	Vigel	PROPN	S	Case=Nom|Number=Plur	5	nsubj	_	_
+3	ja	ja	CONJ	J	_	2	cc	_	_
+4	Milded	Milde	PROPN	S	Case=Nom|Number=Plur	2	conj	_	_
+5	sõidavad	sõit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+6	arreteerituina	arreteeritud	ADJ	A	Case=Ess|Degree=Pos|Number=Plur	5	amod	_	_
+7	rajoonilinna	rajooni-linn	NOUN	S	Case=Add|Number=Sing	5	nmod	_	_
+8	.	.	PUNCT	Z	_	5	punct	_	_
+
+# sent_id a_tree-et-s270-root
+# orig_file_sentence 001#27
+1	Juht	juht	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tõukas	tõuka	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	peni	peni	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	teelt	tee	NOUN	S	Case=Abl|Number=Sing	2	nmod	_	_
+5	kõrvale	kõrvale	ADV	D	_	2	compound:prt	_	_
+6	kraavi	kraav	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s280-root
+# orig_file_sentence 001#28
+1	Kausid	kauss	NOUN	S	Case=Nom|Number=Plur	7	nsubj	_	_
+2	hautatud	hauta=tud	ADJ	A	Degree=Pos|VerbForm=Part|Voice=Act	3	amod	_	_
+3	hapukapsaste	hapu-kapsas	NOUN	S	Case=Gen|Number=Plur	1	nmod	_	_
+4	ja	ja	CONJ	J	_	3	cc	_	_
+5	auravate	aura=v	ADJ	A	Case=Gen|Degree=Pos|Number=Plur|VerbForm=Part|Voice=Act	6	amod	_	_
+6	keedukartulitega	keedu-kartul	NOUN	S	Case=Com|Number=Plur	3	conj	_	_
+7	liikusid	liiku	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+8	käest	käsi	NOUN	S	Case=Ela|Number=Sing	7	nmod	_	_
+9	kätte	käsi	NOUN	S	Case=Add|Number=Sing	7	nmod	_	_
+10	.	.	PUNCT	Z	_	7	punct	_	_
+
+# sent_id a_tree-et-s290-root
+# orig_file_sentence 001#29
+1	Kell	kell	NOUN	S	Case=Nom|Number=Sing	2	nmod	_	_
+2	kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	3	nummod	_	_
+3	sõidutas	sõiduta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+5	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	dobj	_	_
+6	koju	kodu	NOUN	S	Case=Add|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s300-root
+# orig_file_sentence 001#30
+1	Knacke-Sommer	Knacke-Sommer	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	ujus	uju	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	1977	1977	NUM	N	NumForm=Digit|NumType=Card	2	advmod	_	_
+4	esimese	esimene	ADJ	A	Case=Gen|Number=Sing|NumForm=Letter|NumType=Ord	5	amod	_	_
+5	naisena	naine	NOUN	S	Case=Ess|Number=Sing	2	nmod	_	_
+6	100	100	NUM	N	NumForm=Digit|NumType=Card	7	nummod	_	_
+7	meetrit	meeter	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+8	liblikstiilis	liblik-stiil	NOUN	S	Case=Ine|Number=Sing	2	nmod	_	_
+9	alla	alla	ADP	K	AdpType=Prep	10	case	_	_
+10	minuti	minut	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+11	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s310-root
+# orig_file_sentence 001#31
+1	Krundil	krunt	NOUN	S	Case=Ade|Number=Sing	2	nmod	_	_
+2	tatsab	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ringi	ringi	ADV	D	_	2	compound:prt	_	_
+4	tohutu	tohutu	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	5	amod	_	_
+5	hulk	hulk	NOUN	S	Case=Nom|Number=Sing	7	nmod	_	_
+6	musti	must	ADJ	A	Case=Par|Degree=Pos|Number=Plur	7	amod	_	_
+7	sigu	siga	NOUN	S	Case=Par|Number=Plur	2	nsubj	_	_
+8	ja	ja	CONJ	J	_	7	cc	_	_
+9	põrsaid	põrsas	NOUN	S	Case=Par|Number=Plur	7	conj	_	_
+10	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s320-root
+# orig_file_sentence 001#32
+1	Kui	kui	SCONJ	J	_	4	cc	_	_
+2	tüdruku	tüdruk	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+3	ette	ette	ADP	K	AdpType=Post	2	case	_	_
+4	prantsatas	prantsata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+5	silmamoondaja	silma-moonda=ja	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+6	otsastrebitud	otsa	ADJ	A	Degree=Pos|VerbForm=Part|Voice=Act	7	amod	_	_
+7	jäse	jäse	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+8	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s330-root
+# orig_file_sentence 001#33
+1	Laps	laps	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tatsas	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kohe	kohe	ADV	D	_	2	advmod	_	_
+4	akna	aken	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	poole	poole	ADP	K	AdpType=Post	4	case	_	_
+6	lilli	lill	NOUN	S	Case=Par|Number=Plur	7	dobj	_	_
+7	vaatama	vaata	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s340-root
+# orig_file_sentence 001#34
+1	Liigutan	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	arvutit	arvuti	NOUN	S	Case=Par|Number=Sing	1	dobj	_	_
+3	mööda	mööda	ADP	K	AdpType=Prep	4	case	_	_
+4	lauda	laud	NOUN	S	Case=Par|Number=Sing	1	nmod	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s350-root
+# orig_file_sentence 001#35
+1	Liikusime	liiku	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	vankri	vanker	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+3	või	või	CONJ	J	_	2	cc	_	_
+4	reega	regi	NOUN	S	Case=Com|Number=Sing	2	conj	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s360-root
+# orig_file_sentence 001#36
+1	Loomaarst	looma-arst	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	prantsatas	prantsata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pardipoegadele	pardi-poeg	NOUN	S	Case=All|Number=Plur	2	nmod	_	_
+4	peale	peale	ADV	D	_	2	compound:prt	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s370-root
+# orig_file_sentence 001#37
+1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
+2	olin	ole	AUX	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	5	aux	_	_
+3	lõhest	lõhe	NOUN	S	Case=Ela|Number=Sing	5	nmod	_	_
+4	välja	välja	ADV	D	_	5	compound:prt	_	_
+5	roninud	roni	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+6	.	.	PUNCT	Z	_	5	punct	_	_
+
+# sent_id a_tree-et-s380-root
+# orig_file_sentence 001#38
+1	Ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
+2	sõitsin	sõit	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	millalgi	millalgi	ADV	D	_	2	advmod	_	_
+4	hoopis	hoopis	ADV	D	_	2	advmod	_	_
+5	koju	kodu	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s390-root
+# orig_file_sentence 001#39
+1	Mehed	mees	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+2	sõidutasid	sõiduta	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	dobj	_	_
+4	lennuväljale	lennu-väli	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s400-root
+# orig_file_sentence 001#40
+1	Metsavend	metsa-vend	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mõne	mõni	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Ind	4	nmod	_	_
+4	korra	kord	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	kätt	käsi	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s410-root
+# orig_file_sentence 001#41
+1	Miski	miski	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	lennuki	lennuk	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	saba	saba	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	juures	juures	ADP	K	AdpType=Post	4	case	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s420-root
+# orig_file_sentence 001#42
+1	Mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+2	ema	ema	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	valab	vala	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	mulle	mina	PRON	P	Case=All|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+5	koduses	kodune	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	6	amod	_	_
+6	peolauas	peo-laud	NOUN	S	Case=Ine|Number=Sing	3	nmod	_	_
+7	klaasikese	klaasi=ke	NOUN	S	Case=Gen|Number=Sing	3	dobj	_	_
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s430-root
+# orig_file_sentence 001#43
+1	Nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	sõitsid	sõit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kreeka	kreeka	ADJ	A	_	4	amod	_	_
+4	kvartalist	kvartal	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	läbi	läbi	ADV	D	_	2	compound:prt	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s440-root
+# orig_file_sentence 001#44
+1	Nad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+2	viskusid	visku	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kogu	kogu	ADJ	A	Degree=Pos	4	amod	_	_
+4	keharaskusega	keha-raskus	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+5	vastu	vastu	ADP	K	AdpType=Prep	6	case	_	_
+6	ust	ust	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s450-root
+# orig_file_sentence 001#45
+1	Need	see	PRON	P	Case=Nom|Number=Plur|PronType=Dem	2	dobj	_	_
+2	valati	vala	VERB	V	Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kibekiiresti	kibe-kiiresti	ADV	D	_	2	advmod	_	_
+4	betooniga	betoon	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+5	kinni	kinni	ADV	D	_	2	compound:prt	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s460-root
+# orig_file_sentence 001#46
+1	Noormees	noor-mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	prantsatas	prantsata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	maha	maha	ADV	D	_	2	compound:prt	_	_
+4	nagu	nagu	SCONJ	J	_	5	mark	_	_
+5	nott	nott	NOUN	S	Case=Nom|Number=Sing	2	advcl	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s470-root
+# orig_file_sentence 001#47
+1	Palja	paljas	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	2	amod	_	_
+2	ülakehaga	üla-keha	NOUN	S	Case=Com|Number=Sing	3	nmod	_	_
+3	mees	mees	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+4	tõukas	tõuka	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+5	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	dobj	_	_
+6	sirmi	sirm	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+7	taha	taha	ADP	K	AdpType=Post	6	case	_	_
+8	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s480-root
+# orig_file_sentence 001#48
+1	Perenaine	pere-naine	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tatsas	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	toa	tuba	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	juurde	juurde	ADP	K	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s490-root
+# orig_file_sentence 001#49
+1	Pisarad	pisar	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+2	tilkusid	tilku	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	rõõmust	rõõm	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s500-root
+# orig_file_sentence 001#50
+1	Pärast	pärast	ADP	K	AdpType=Prep	3	case	_	_
+2	viimast	viimane	ADJ	A	Case=Par|Degree=Pos|Number=Sing	3	amod	_	_
+3	duublit	duublit	NOUN	S	Case=Par|Number=Sing	4	nmod	_	_
+4	valati	vala	VERB	V	Mood=Ind|Tense=Imp|VerbForm=Fin|Voice=Pass	0	root	_	_
+5	talle	tema	PRON	P	Case=All|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+6	kuuma	kuum	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
+7	tee	tee	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+8	sisse	sisse	ADP	K	AdpType=Post	7	case	_	_
+9	sorts	sorts	NOUN	S	Case=Nom|Number=Sing	11	nmod	_	_
+10	valget	valge	ADJ	A	Case=Par|Degree=Pos|Number=Sing	11	amod	_	_
+11	viina	viin	NOUN	S	Case=Par|Number=Sing	4	dobj	_	_
+12	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s510-root
+# orig_file_sentence 001#51
+1	Aeglaselt	aeglaselt	ADV	D	_	2	advmod	_	_
+2	liikus	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	poisi	poiss	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	käsi	käsi	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+5	Anne'i	Anne	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
+6	poole	poole	ADP	K	AdpType=Post	5	case	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s520-root
+# orig_file_sentence 001#52
+1	Siis	siis	ADV	D	_	2	advmod	_	_
+2	liikus	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+4	käsi	käsi	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+5	väga	väga	ADV	D	_	6	advmod	_	_
+6	kiiresti	kiiresti	ADV	D	_	2	advmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s530-root
+# orig_file_sentence 001#53
+1	Ronid	roni	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	duši	dušš	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+3	alla	alla	ADP	K	AdpType=Post	2	case	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s540-root
+# orig_file_sentence 001#54
+1	Ronisin	roni	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	teiba	teivas	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+3	abil	abil	ADP	K	AdpType=Post	2	case	_	_
+4	edasi	edasi	ADV	D	_	1	compound:prt	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s550-root
+# orig_file_sentence 001#55
+1	Samal	sama	PRON	P	Case=Ade|Number=Sing|PronType=Dem	2	nmod	_	_
+2	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	3	nmod	_	_
+3	sõudis	sõud	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	Muraka	murakas	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+6	piki	piki	ADP	K	AdpType=Prep	7	case	_	_
+7	rooäärt	roo-äär	NOUN	S	Case=Par|Number=Sing	3	nmod	_	_
+8	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	9	nmod	_	_
+9	mõrra	mõrd	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+10	poole	poole	ADP	K	AdpType=Post	9	case	_	_
+11	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s560-root
+# orig_file_sentence 001#56
+1	Sammusin	sammu	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	end	ise	PRON	P	Case=Par|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	1	dobj	_	_
+3	hingetuks	hingetu	ADJ	A	Case=Tra|Degree=Pos|Number=Sing	1	advmod	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s570-root
+# orig_file_sentence 001#57
+1	See	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	3	nmod	_	_
+2	isekas	isekas	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	3	amod	_	_
+3	Katrina	Katrina	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+4	tormab	torma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+5	kohe	kohe	ADV	D	_	4	advmod	_	_
+6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	7	nmod	_	_
+7	asjade	asi	NOUN	S	Case=Gen|Number=Plur	8	nmod	_	_
+8	allesjäämist	alles-jää=mine	NOUN	S	Case=Par|Number=Sing	9	dobj	_	_
+9	kontrollima	kontrolli	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	4	advcl	_	_
+10	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s580-root
+# orig_file_sentence 001#58
+1	Sergeil	Sergei	PROPN	S	Case=Ade|Number=Sing	2	nmod	_	_
+2	tõusnuks	tõus	VERB	V	Mood=Cnd|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+3	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	4	nmod	_	_
+4	koha	koht	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	peal	peal	ADP	K	AdpType=Post	4	case	_	_
+6	kulm	kulm	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s590-root
+# orig_file_sentence 001#59
+1	Siis	siis	ADV	D	_	2	advmod	_	_
+2	tormanud	torma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	0	root	_	_
+3	nemad	tema	PRON	P	Case=Nom|Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
+4	laomaja	lao-maja	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	trepist	trepp	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+6	üles	üles	ADV	D	_	2	compound:prt	_	_
+7	tuld	tuli	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+8	kustutama	kustuta	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s600-root
+# orig_file_sentence 001#60
+1	Sisenesin	sisene	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	koridorist	koridor	NOUN	S	Case=Ela|Number=Sing	1	nmod	_	_
+3	tuppa	tuba	NOUN	S	Case=Add|Number=Sing	1	nmod	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s610-root
+# orig_file_sentence 001#61
+1	Sõitsime	sõit	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	ratastega	ratas	NOUN	S	Case=Com|Number=Plur	1	nmod	_	_
+3	äikse	äike	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+4	käes	käes	ADP	K	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s620-root
+# orig_file_sentence 001#62
+1	Sõnatult	sõnatult	ADV	D	_	2	advmod	_	_
+2	valas	vala	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+4	pool	pool	NUM	N	Case=Nom|Number=Sing|NumType=Card	5	nummod	_	_
+5	teeklaasitäit	tee-klaasi-täis	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s630-root
+# orig_file_sentence 001#63
+1	Särgi	särk	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+2	ja	ja	CONJ	J	_	1	cc	_	_
+3	seeliku	seelik	NOUN	S	Case=Gen|Number=Sing	1	conj	_	_
+4	vahele	vahele	ADP	K	AdpType=Post	1	case	_	_
+5	jääv	jääv	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+6	peopesalaiune	peo-pesa-laiune	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	paljand	paljand	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
+8	tõusis	tõus	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+9	hingamise	hinga=mine	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
+10	rütmis	rütm	NOUN	S	Case=Ine|Number=Sing	8	nmod	_	_
+11	.	.	PUNCT	Z	_	8	punct	_	_
+
+# sent_id a_tree-et-s640-root
+# orig_file_sentence 001#64
+1	Sõudsin	sõud	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	lootsiku	lootsik	NOUN	S	Case=Gen|Number=Sing	1	dobj	_	_
+3	üle	üle	ADP	K	AdpType=Prep	4	case	_	_
+4	jõe	jõgi	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s650-root
+# orig_file_sentence 001#65
+1	Tagatoas	taga-tuba	NOUN	S	Case=Ine|Number=Sing	2	nmod	_	_
+2	liigutab	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	keegi	keegi	PRON	P	Case=Nom|Number=Sing|Poss=Yes|PronType=Ind	2	nsubj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s660-root
+# orig_file_sentence 001#66
+1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sõrmi	sõrm	NOUN	S	Case=Par|Number=Plur	2	dobj	_	_
+4	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	5	nmod	_	_
+5	peos	peo	NOUN	S	Case=Ine|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s670-root
+# orig_file_sentence 001#67
+1	Tarvik	tarvik	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+2	lausa	lausa	ADV	D	_	3	advmod	_	_
+3	tõukas	tõuka	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	dobj	_	_
+5	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+6	ette	ette	ADP	K	AdpType=Post	5	case	_	_
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s680-root
+# orig_file_sentence 001#68
+1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	sõidutas	sõiduta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mind	mina	PRON	P	Case=Par|Number=Sing|Person=1|PronType=Prs	2	dobj	_	_
+4	rattaga	ratas	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+5	muru	muru	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+6	peal	peal	ADP	K	AdpType=Post	5	case	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s690-root
+# orig_file_sentence 001#69
+1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	tatsas	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tuba	tuba	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+4	mööda	mööda	ADP	K	AdpType=Post	3	case	_	_
+5	ringi	ringi	ADV	D	_	2	compound:prt	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s700-root
+# orig_file_sentence 001#70
+1	Tatsasin	tatsa	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	3	nmod	_	_
+3	vahemaad	vahe-maa	NOUN	S	Case=Par|Number=Sing	1	nmod	_	_
+4	hommikust	hommik	NOUN	S	Case=Ela|Number=Sing	1	nmod	_	_
+5	õhtuni	õhtu	NOUN	S	Case=Ter|Number=Sing	1	nmod	_	_
+6	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s710-root
+# orig_file_sentence 001#71
+1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	valas	vala	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	endal	ise	PRON	P	Case=Ade|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	2	nmod	_	_
+4	klaasi	klaas	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+5	täis	täis	ADV	D	_	2	advmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s720-root
+# orig_file_sentence 001#72
+1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	väljus	välju	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	alevi	alev	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	taha	taha	ADP	K	AdpType=Post	3	case	_	_
+5	jõe	jõgi	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
+6	kõrgele	kõrge	ADJ	A	Case=All|Degree=Pos|Number=Sing	7	amod	_	_
+7	kaldale	kallas	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s730-root
+# orig_file_sentence 001#73
+1	Tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+2	järel	järel	ADP	K	AdpType=Post	1	case	_	_
+3	väljub	välju	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	valges	valge	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	5	amod	_	_
+5	ülikonnas	ülikond	NOUN	S	Case=Ine|Number=Sing	7	nmod	_	_
+6	korpulentne	korpulentne	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	7	amod	_	_
+7	Emerson	Emerson	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+8	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s740-root
+# orig_file_sentence 001#74
+1	Tilkuv	tilku=v	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|VerbForm=Part|Voice=Act	2	amod	_	_
+2	Magnus	Magnus	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	prantsatas	prantsata	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	mu	mina	PRON	P	Case=Gen|Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
+5	kõrvale	kõrvale	ADP	K	AdpType=Post	4	case	_	_
+6	maakamarale	maa-kamar	NOUN	S	Case=All|Number=Sing	3	nmod	_	_
+7	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s750-root
+# orig_file_sentence 001#75
+1	Toomas	Toomas	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Marit	Mari	PROPN	S	Case=Par|Number=Sing	2	dobj	_	_
+4	akna	aken	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	poole	poole	ADP	K	AdpType=Post	4	case	_	_
+6	õhku	õhk	NOUN	S	Case=Par|Number=Sing	7	dobj	_	_
+7	hingama	hinga	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s760-root
+# orig_file_sentence 001#76
+1	Tormasin	torma	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	üles	üles	ADV	D	_	1	advmod	_	_
+3	põndakule	põndak	NOUN	S	Case=All|Number=Sing	1	nmod	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s770-root
+# orig_file_sentence 001#77
+1	Täpselt	täpselt	ADV	D	_	2	advmod	_	_
+2	samal	sama	PRON	P	Case=Ade|Number=Sing|PronType=Dem	3	nmod	_	_
+3	kellaajal	kella-aeg	NOUN	S	Case=Ade|Number=Sing	6	nmod	_	_
+4	nagu	nagu	SCONJ	J	_	5	mark	_	_
+5	alati	alati	ADV	D	_	3	nmod	_	_
+6	väljus	välju	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+7	Miili	miili	PROPN	S	Case=Nom|Number=Sing	6	nsubj	_	_
+8	ka	ka	ADV	D	_	6	advmod	_	_
+9	täna	täna	ADV	D	_	6	advmod	_	_
+10	tühja	tühi	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	_
+11	kotiga	kott	NOUN	S	Case=Com|Number=Sing	6	nmod	_	_
+12	majast	maja	NOUN	S	Case=Ela|Number=Sing	6	nmod	_	_
+13	.	.	PUNCT	Z	_	6	punct	_	_
+
+# sent_id a_tree-et-s780-root
+# orig_file_sentence 001#78
+1	Tõukasin	tõuka	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	jalaga	jalg	NOUN	S	Case=Com|Number=Sing	1	nmod	_	_
+3	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	1	dobj	_	_
+4	põrandale	põrand	NOUN	S	Case=All|Number=Sing	1	nmod	_	_
+5	maha	maha	ADV	D	_	1	compound:prt	_	_
+6	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s790-root
+# orig_file_sentence 001#79
+1	Tõukas	tõuka	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	pikali	pikali	ADV	D	_	1	advmod	_	_
+3	keset	keset	ADP	K	AdpType=Prep	4	case	_	_
+4	põrandat	põrand	NOUN	S	Case=Par|Number=Sing	1	nmod	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s800-root
+# orig_file_sentence 001#80
+1	Tuul	tuul	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kardinaid	kardin	NOUN	S	Case=Par|Number=Plur	2	dobj	_	_
+4	hommikust	hommik	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	õhtuni	õhtu	NOUN	S	Case=Ter|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s810-root
+# orig_file_sentence 001#81
+1	Tuul	tuul	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vanikut	vanik	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s820-root
+# orig_file_sentence 001#82
+1	Ujusin	uju	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kivi	kivi	NOUN	S	Case=Gen|Number=Sing	1	nmod	_	_
+3	peale	peale	ADP	K	AdpType=Post	2	case	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s830-root
+# orig_file_sentence 001#83
+1	Uurijad	uurija	NOUN	S	Case=Nom|Number=Plur	2	nsubj	_	_
+2	sõitsid	sõit	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	minema	mine	VERB	V	Case=All|VerbForm=Sup|Voice=Act	2	compound	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s840-root
+# orig_file_sentence 001#84
+1	Valasin	vala	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kisselli	kissell	NOUN	S	Case=Gen|Number=Sing	1	dobj	_	_
+3	kaussidesse	kauss	NOUN	S	Case=Ill|Number=Plur	1	nmod	_	_
+4	jahtuma	jahtu	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	1	advcl	_	_
+5	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s850-root
+# orig_file_sentence 001#85
+1	Valge	valge	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	2	amod	_	_
+2	puusärk	puu-särk	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
+3	liikus	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	läbi	läbi	ADP	K	AdpType=Prep	9	case	_	_
+5	puhasvalgesse	puhas-valge	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	7	amod	_	_
+6	pidulikku	pidu=lik	ADJ	A	Case=Add|Degree=Pos|Number=Sing	7	amod	_	_
+7	härmatisse	härmatis	NOUN	S	Case=Add|Number=Sing	8	nmod	_	_
+8	riietatud	riietatud	ADJ	A	Degree=Pos	9	amod	_	_
+9	Haapsalu	Haap-salu	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	_
+10	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s860-root
+# orig_file_sentence 001#86
+1	Vannitoas	vanni-tuba	NOUN	S	Case=Ine|Number=Sing	2	nmod	_	_
+2	tilkus	tilku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kraan	kraan	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s870-root
+# orig_file_sentence 001#87
+1	Vesi	vesi	NOUN	S	Case=Nom|Number=Sing	4	nsubj	_	_
+2	liigutas	liiguta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	4	advcl	_	_
+3	tugevast	tugev	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	4	amod	_	_
+4	löögist	löök	NOUN	S	Case=Ela|Number=Sing	0	root	_	_
+5	palli	pall	NOUN	S	Case=Par|Number=Sing	4	dobj	_	_
+6	edasi	edasi	ADV	D	_	2	compound:prt	_	_
+7	.	.	PUNCT	Z	_	4	punct	_	_
+
+# sent_id a_tree-et-s880-root
+# orig_file_sentence 001#88
+1	Vihma	vihm	NOUN	S	Case=Par|Number=Sing	2	nsubj	_	_
+2	tilkus	tilku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kraest	krae	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	sisse	sisse	ADV	D	_	2	compound:prt	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s890-root
+# orig_file_sentence 001#89
+1	Viskusime	visku	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	kaaslasega	kaaslane	NOUN	S	Case=Com|Number=Sing	1	nmod	_	_
+3	võssa	võsa	NOUN	S	Case=Add|Number=Sing	1	nmod	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s900-root
+# orig_file_sentence 001#90
+1	Väljusime	välju	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+2	keset	keset	ADP	K	AdpType=Prep	3	case	_	_
+3	tormi	torm	NOUN	S	Case=Par|Number=Sing	1	nmod	_	_
+4	.	.	PUNCT	Z	_	1	punct	_	_
+
+# sent_id a_tree-et-s910-root
+# orig_file_sentence 001#91
+1	Poiss	poiss	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	andis	and	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	korvist	korv	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	riidetüki	riide-tükk	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+5	koerale	koer	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+6	nuusutada	nuusuta	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s920-root
+# orig_file_sentence 001#92
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	eemaldas	eemalda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ahju	ahi	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	kõrvalt	kõrvalt	ADP	K	AdpType=Post	3	case	_	_
+5	parkett-tahvlid	parkett-tahvel	NOUN	S	Case=Nom|Number=Plur	2	dobj	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s930-root
+# orig_file_sentence 001#93
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	heitis	heit	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	ratsmed	ratse	NOUN	S	Case=Nom|Number=Plur	2	dobj	_	_
+4	hobuse	hobune	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
+5	seljast	selg	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+6	trepile	trepp	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+7	sulase	sulane	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+8	kätte	kätte	ADP	K	AdpType=Post	7	case	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s940-root
+# orig_file_sentence 001#94
+1	Mees	mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	hiilis	hiili	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	rada	rada	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+4	mööda	mööda	ADP	K	AdpType=Post	3	case	_	_
+5	sauna	saun	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+6	ja	ja	CONJ	J	_	5	cc	_	_
+7	küüni	küün	NOUN	S	Case=Gen|Number=Sing	5	conj	_	_
+8	vahet	vahet	ADP	K	AdpType=Post	5	case	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s950-root
+# orig_file_sentence 001#95
+1	Mees	mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	hüppas	hüppa	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	sillalt	sild	NOUN	S	Case=Abl|Number=Sing	2	nmod	_	_
+4	üle	üle	ADP	K	AdpType=Prep	5	case	_	_
+5	käsipuu	käsi-puu	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+6	vette	vesi	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	uppujat	uppu=ja	NOUN	S	Case=Par|Number=Sing	8	dobj	_	_
+8	päästma	pääst	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s960-root
+# orig_file_sentence 001#96
+1	Läbi	läbi	ADP	K	AdpType=Prep|Case=Gen	2	case	_	_
+2	riide	riie	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
+3	immitseb	immitse	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	suitsu	suits	NOUN	S	Case=Par|Number=Sing	3	nsubj	_	_
+5	.	.	PUNCT	Z	_	3	punct	_	_
+
+# sent_id a_tree-et-s970-root
+# orig_file_sentence 001#97
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	jooksis	jooks	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kodu	kodu	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	vahet	vahet	ADP	K	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s980-root
+# orig_file_sentence 001#98
+1	Koer	koer	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	kaapis	kaapi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	liiva	liiv	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+4	augu	auk	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s990-root
+# orig_file_sentence 001#99
+1	Koer	koer	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	kargas	karga	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	pimedast	pime	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	Peetri	Peeter	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	kallale	kallale	ADP	K	AdpType=Post	4	case	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1000-root
+# orig_file_sentence 001#100
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	keeras	keera	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	lampi	lamp	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1010-root
+# orig_file_sentence 001#101
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	kerib	keri	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	õngeliini	õnge-liin	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	veest	vesi	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	paati	paat	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1020-root
+# orig_file_sentence 001#102
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	kiirustas	kiirusta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	väljumisega	väljumine	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1030-root
+# orig_file_sentence 001#103
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	kuhjas	kuhja	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mulla	muld	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	aianurka	aia-nurk	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+5	peenrasse	peenar	NOUN	S	Case=Ill|Number=Sing	2	nmod	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1040-root
+# orig_file_sentence 001#104
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	käis	käi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	teiste	teine	PRON	P	Case=Gen|Number=Plur|Poss=Yes|PronType=Ind	2	nmod	_	_
+4	ees	ees	ADP	K	AdpType=Post	3	case	_	_
+5	mööda	mööda	ADP	K	AdpType=Prep	6	case	_	_
+6	rada	rada	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+7	paarsada	paar-sada	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	8	nummod	_	_
+8	meetrit	meeter	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1050-root
+# orig_file_sentence 001#105
+1	Ost	ost	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	käis	käi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	isa	isa	NOUN	S	Case=Gen|Number=Sing	4	nmod	_	_
+4	rahakoti	raha-kott	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	peale	peale	ADP	K	AdpType=Post	4	case	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1060-root
+# orig_file_sentence 001#106
+1	Laps	laps	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	käänas	kääna	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	aseme	ase	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	segi	segi	ADV	D	_	2	advmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1070-root
+# orig_file_sentence 001#107
+1	Mees	mees	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	küürutas	küüruta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	nuga	nuga	NOUN	S	Case=Par|Number=Sing	4	dobj	_	_
+4	võtma	võt	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1080-root
+# orig_file_sentence 001#108
+1	Lind	lind	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lendas	lenda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	põllule	põld	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+4	toitu	toit	NOUN	S	Case=Par|Number=Sing	5	dobj	_	_
+5	tooma	too	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1090-root
+# orig_file_sentence 001#109
+1	Madalrõhkkond	madal-rõhkkond	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	liigub	liiku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Rootsist	Rootsi	PROPN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	Soome	Soome	PROPN	S	Case=Add|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1100-root
+# orig_file_sentence 001#110
+1	Matkamine	matkamine	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	lähendab	lähenda	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	loodust	loodus	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+4	inimesele	inimene	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1110-root
+# orig_file_sentence 001#111
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	läks	mine	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mööda	mööda	ADP	K	AdpType=Prep	4	case	_	_
+4	metsateed	metsa-tee	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+5	laulmast	laul	VERB	V	Case=Ela|VerbForm=Sup|Voice=Act	2	advcl	_	_
+6	koju	kodu	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	puhkama	puhka	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1120-root
+# orig_file_sentence 001#112
+1	Väljarändaja	välja-rändaja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	naasis	naas	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	Ameerikast	Ameerika	PROPN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	kodumaale	kodu-maa	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1130-root
+# orig_file_sentence 001#113
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	paiskas	paiska	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kivi	kivi	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	seina	sein	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	äärest	äärest	ADP	K	AdpType=Post	4	case	_	_
+6	teele	tee	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1140-root
+# orig_file_sentence 001#114
+1	Spartak	Spartak	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	platseerus	platseeru	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kolmandaks	kolmas	ADJ	A	Case=Tra|Number=Sing|NumForm=Letter|NumType=Ord	2	advmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1150-root
+# orig_file_sentence 001#115
+1	Arno	Arno	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	pöördus	pöördu	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	küsija	küsi=ja	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	poole	poole	ADP	K	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1160-root
+# orig_file_sentence 001#116
+1	Rändur	rändur	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	ringles	ringle	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	peamošee	pea-mošee	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+4	ümber	ümber	ADP	K	AdpType=Post	3	case	_	_
+5	kitsaid	kitsas	ADJ	A	Case=Par|Degree=Pos|Number=Plur	6	amod	_	_
+6	tänavaid	tänav	NOUN	S	Case=Par|Number=Plur	2	nmod	_	_
+7	mööda	mööda	ADP	K	AdpType=Post	6	case	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1170-root
+# orig_file_sentence 001#117
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	rüsis	rüsi	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vaheruumi	vahe-ruum	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+4	kohvri	kohver	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
+5	järele	järele	ADP	K	AdpType=Post	4	case	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1180-root
+# orig_file_sentence 001#118
+1	Mantlile	mantel	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+2	sadas	sada	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vihma	vihm	NOUN	S	Case=Par|Number=Sing	2	nsubj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1190-root
+# orig_file_sentence 001#119
+1	Rudolf	Rudolf	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	sikutas	sikuta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	saapa	saabas	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	jalast	jalg	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1200-root
+# orig_file_sentence 001#120
+1	Oja	oja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	suubub	suubu	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	järve	järv	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1210-root
+# orig_file_sentence 001#121
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	talutas	taluta	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	haige	haige	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	kabinetist	kabinet	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	mööda	mööda	ADP	K	AdpType=Prep	6	case	_	_
+6	koridori	koridor	NOUN	S	Case=Par|Number=Sing	2	nmod	_	_
+7	kööki	köök	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+8	sööma	söö	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+9	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1220-root
+# orig_file_sentence 001#122
+1	Kraan	kraan	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tilgub	tilku	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	vett	vesi	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+4	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1230-root
+# orig_file_sentence 001#123
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	torkis	torki	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	voodist	voodi	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+4	sõrmega	sõrm	NOUN	S	Case=Com|Number=Sing	2	nmod	_	_
+5	õhku	õhk	NOUN	S	Case=Par|Number=Sing	2	dobj	_	_
+6	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1240-root
+# orig_file_sentence 001#124
+1	Kõneleja	kõneleja	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tuli	tule	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	tema	tema	PRON	P	Case=Gen|Number=Sing	2	nmod	_	_
+4	juurde	juurde	ADP	K	AdpType=Post	3	case	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1250-root
+# orig_file_sentence 001#125
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	tõstis	tõst	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	liha	liha	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	külalisele	külaline	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+5	taldrikule	taldrik	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+6	jahtuma	jahtu	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1260-root
+# orig_file_sentence 001#126
+1	Kokk	kokk	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	valas	vala	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	kisselli	kissell	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	lastele	laps	NOUN	S	Case=All|Number=Plur	2	nmod	_	_
+5	potist	pott	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+6	kaussi	kauss	NOUN	S	Case=Add|Number=Sing	2	nmod	_	_
+7	jahtuma	jahtu	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	2	advcl	_	_
+8	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1270-root
+# orig_file_sentence 001#127
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	viis	vii	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	käsikirja	käsi-kiri	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	Tallinnasse	Tallinn	PROPN	S	Case=Ill|Number=Sing	2	nmod	_	_
+5	juhendajale	juhendaja	NOUN	S	Case=All|Number=Sing	2	nmod	_	_
+6	lugeda	luge	VERB	V	VerbForm=Inf	2	advcl	_	_
+7	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1280-root
+# orig_file_sentence 001#128
+1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
+2	viskas	viska	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+3	mantli	mantel	NOUN	S	Case=Gen|Number=Sing	2	dobj	_	_
+4	seljast	selg	NOUN	S	Case=Ela|Number=Sing	2	nmod	_	_
+5	.	.	PUNCT	Z	_	2	punct	_	_
+
+# sent_id a_tree-et-s1290-root
+# orig_file_sentence 001#129
+1	Peetri	Peeter	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
+2	sõõrmed	sõõre	NOUN	S	Case=Nom|Number=Plur	3	nsubj	_	_
+3	võbelesid	võbele	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin|Voice=Act	0	root	_	_
+4	.	.	PUNCT	Z	_	3	punct	_	_
+
