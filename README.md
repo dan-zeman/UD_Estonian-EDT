@@ -8,7 +8,7 @@ Also, the previous release of Estonian UD Treebank which based on HamleDT 3.0 ha
 ## Estonian Dependency Treebank
 
 [EDT] (https://github.com/EstSyntax/EDT)
-is a dependency oriented treebank released by the University of Tartu in 2014. 
+is a dependency oriented treebank released by the University of Tartu in 2014.
 
 ## Acknowledgments
 
@@ -23,6 +23,10 @@ We wish to thank all of the contributors to the original EDT annotation effort, 
   pp. 285–291, ISBN 978-3-9809183-9-8, Tübingen, Germany.
 
 * Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies. - Proceedings of LREC 2016.
+
+## Changelog
+
+* UD v1.2 contained Arborest, a much smaller and older VISL-style treebank. It has been re-annotated and added to EDT for UD v1.3.
 
 === Machine-readable metadata =================================================
 Documentation status: stub
