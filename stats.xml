@@ -53,7 +53,7 @@
     <feat name="Degree" value="Pos" upos="ADJ,ADV,PRON">14690</feat><!-- kogu, suur, hea, võimalik, uue, raske, suure, uus, vana, viimane -->
     <feat name="Degree" value="Sup" upos="ADJ">230</feat><!-- suurim, parim, parimaks, suurima, Tuntuimad, parima, parimad, suurimad, suurimaid, suurimaks -->
     <feat name="Foreign" value="Yes" upos="ADV,X">41</feat><!-- tõ, Proopusk, jesh, stupai, ?, Ili, Opjat, Pjaanitsa, Prosniiss, Spatt -->
-    <feat name="Hyph" value="Yes" upos="ADJ,ADP,ADV,NOUN,NUM,PROPN,PUNCT,SYM">278</feat><!-- --, kesk-, teadus-, liha-, alg-, lõuna-, ida-, kodu-, majandus-, era- -->
+    <feat name="Hyph" value="Yes" upos="ADJ,ADP,ADV,NOUN,NUM,PROPN,PUNCT,SYM">278</feat><!-- –, kesk-, teadus-, liha-, alg-, lõuna-, ida-, kodu-, majandus-, era- -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">1394</feat><!-- oleks, peaks, ei, võiks, tuleks, poleks, saaks, võiksid, peaksid, tahaks -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">519</feat><!-- vaata, olgu, tule, ära, kuule, ole, mine, näe, pane, võta -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">28316</feat><!-- on, ei, oli, pole, võib, ole, olid, tuleb, saab, ütles -->
