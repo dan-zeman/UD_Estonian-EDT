@@ -663,7 +663,7 @@
 18	Noam	Noam	PROPN	S	Case=Nom|Number=Sing	6	obl	_	_
 19	Millsile	Millsile	PROPN	S	Case=All|Number=Sing	18	flat	_	_
 20	10	10	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	6	obl	_	SpaceAfter=No
-21	:	:	PUNCT	Z	_	20	flat	_	SpaceAfter=No
+21	:	:	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 22	11	11	NUM	N	NumForm=Digit|NumType=Card	20	flat	_	SpaceAfter=No
 23	.	.	PUNCT	Z	_	6	punct	_	_
 
