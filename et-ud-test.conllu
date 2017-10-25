@@ -242,7 +242,7 @@
 9	miks	miks	ADV	D	_	12	mark	_	_
 10	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	12	nsubj	_	_
 11	teda	tema	PRON	P	Case=Par|Number=Sing|Person=3|PronType=Prs	12	obj	_	_
-12	petad	petma	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	ccomp	_	SpaceAfter=No
+12	petad	petma	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	advcl	_	SpaceAfter=No
 13	?	?	PUNCT	Z	_	6	punct	_	SpaceAfter=No
 14	"	"	PUNCT	Z	_	6	punct	_	_
 
@@ -2907,8 +2907,8 @@
 18	ennustatud	ennustama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	_
 19	Tuviraamatus	Tuvi_raamat	PROPN	S	Case=Ine|Number=Sing	18	obl	_	_
 20	ja	ja	CCONJ	J	_	23	cc	_	_
-21	Pühade	Püha	PROPN	A	Case=Gen|Degree=Pos|Number=Plur	22	nmod	_	_
-22	Meeste	Mees	PROPN	S	Case=Gen|Number=Plur	23	nmod	_	_
+21	Pühade	Püha	PROPN	A	Case=Gen|Number=Plur	23	nmod	_	_
+22	Meeste	Mees	PROPN	S	Case=Gen|Number=Plur	21	flat	_	_
 23	tähendamissõnades	tähendamis_sõna	NOUN	S	Case=Ine|Number=Plur	19	conj	_	_
 24	ja	ja	CCONJ	J	_	26	cc	_	_
 25	ma	mina	PRON	P	Case=Nom|Number=Sing|Person=1|PronType=Prs	26	nsubj	_	_
