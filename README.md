@@ -1,6 +1,8 @@
 # UD_Estonian
 
-The Estonian UD v2.0 treebank consists of a small subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
+The Estonian UD v2.1 treebank consists of a small subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
+
+The original files are: ilu_indrikson_ud.conllu, ilu_kanep_ud.conllu, ilu_kivirahk_ud.conllu, ilu_maailm_ud.conllu, ilu_orlau_ud.conllu, ilu_maailm_ud.conllu, ilu_remsu_ud.conllu, aja_epl20070812_ud.conllu, tea_toohoive_ud.conllu.
 
 The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank consists of 234,351 274 tokens (punctuation included) and covers 3 different genres, namely newspaper texts, fiction and scientific texts.
 The morphological and syntactic annotation of the Estonian UD treebank is created through automatic conversion of EDT data and as such, can contain errors.
@@ -27,6 +29,8 @@ We wish to thank all of the contributors to the original EDT annotation effort, 
 * Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies. - Proceedings of LREC 2016.
 
 ## Changelog
+* UD v2.1: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
+
 * UD v2.0: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
 
 * UD v1.2 contained Arborest, a much smaller and older VISL-style treebank. It has been re-annotated and added to EDT for UD v1.3.
