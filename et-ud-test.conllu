@@ -782,7 +782,7 @@
 # sent_id = ilu_kanep_330
 # text = Kasvupinnas peaks olema mõnus ja kobe, nõrga pH-ga.
 1	Kasvupinnas	kasvu_pinnas	NOUN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
-2	peaks	pidama	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	3	aux	_	_
+2	peaks	pidama	AUX	V	Mood=Cnd|Tense=Pres|VerbForm=Fin|Voice=Act	4	aux	_	_
 3	olema	olema	AUX	V	Case=Ill|VerbForm=Sup|Voice=Act	4	cop	_	_
 4	mõnus	mõnus	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 5	ja	ja	CCONJ	J	_	6	cc	_	_
@@ -3447,7 +3447,7 @@
 # sent_id = ilu_maailm_340
 # text = Ta ei olnud seda nägu, et elab ühiselamus.
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	5	nsubj:cop	_	_
-2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	3	aux	_	_
+2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	5	aux	_	_
 3	olnud	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	seda	see	PRON	P	Case=Par|Number=Sing|PronType=Dem	5	det	_	_
 5	nägu	nägu	NOUN	S	Case=Par|Number=Sing	0	root	_	SpaceAfter=No
@@ -5449,7 +5449,7 @@
 4	tööhõive	töö_hõive	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	kasvu	kasv	NOUN	S	Case=Gen|Number=Sing	2	conj	_	_
 6	vahel	vahel	ADP	K	AdpType=Post	2	case	_	_
-7	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	aux	_	_
+7	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	aux	_	_
 8	olnud	olema	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	9	cop	_	_
 9	omane	omane	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 10	Iirimaale	Iiri_maa	PROPN	S	Case=All|Number=Sing	9	obl	_	_
@@ -5512,7 +5512,7 @@
 14	inimestele	inimene	NOUN	S	Case=All|Number=Plur	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	19	punct	_	_
 16	kes	kes	PRON	P	Case=Nom|Number=Plur|PronType=Int,Rel	19	nsubj:cop	_	_
-17	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	18	aux	_	_
+17	olid	olema	AUX	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	19	aux	_	_
 18	olnud	olema	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	19	cop	_	_
 19	töötud	töötu	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	14	acl:relcl	_	_
 20	pikka	pikk	ADJ	A	Case=Par|Degree=Pos|Number=Sing	21	amod	_	_
@@ -5636,7 +5636,7 @@
 14	liikumine	liikumine	NOUN	S	Case=Nom|Number=Sing	20	nsubj:cop	_	_
 15	hõivest	hõive	NOUN	S	Case=Ela|Number=Sing	14	nmod	_	_
 16	töötusesse	töötus	NOUN	S	Case=Ill|Number=Sing	14	nmod	_	_
-17	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	18	aux	_	_
+17	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	20	aux	_	_
 18	olnud	olema	AUX	V	Tense=Past|VerbForm=Part|Voice=Act	20	cop	_	_
 19	pretsedenditult	pretsedenditu=lt	ADV	D	_	20	advmod	_	_
 20	madal	madal	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	conj	_	SpaceAfter=No
@@ -6591,7 +6591,7 @@
 5	näiteks	näiteks	ADV	D	_	6	advmod	_	_
 6	perekonnast	perekond	NOUN	S	Case=Ela|Number=Sing	4	obl	_	SpaceAfter=No
 7	)	)	PUNCT	Z	_	4	punct	_	_
-8	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	9	aux	_	_
+8	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	10	aux	_	_
 9	ole	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	10	cop	_	_
 10	käsitletav	käsitletav	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	0	root	_	_
 11	ühtse	ühtne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	15	amod	_	_
@@ -6731,7 +6731,7 @@
 3	a.	a	NOUN	Y	Abbr=Yes	8	obl	_	_
 4	ettevõtete	ette_võte	NOUN	S	Case=Gen|Number=Plur	5	nmod	_	_
 5	andmed	andmed	NOUN	S	Case=Nom|Number=Plur	8	nsubj:cop	_	_
-6	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	7	aux	_	_
+6	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	8	aux	_	_
 7	olnud	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	_
 8	usaldusväärsed	usaldus_väärne	ADJ	A	Case=Nom|Degree=Pos|Number=Plur	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	Z	_	8	punct	_	_
