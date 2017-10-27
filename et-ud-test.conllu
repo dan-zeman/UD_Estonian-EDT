@@ -250,7 +250,7 @@
 # text =  Ta hakkas oma ainsasse loomulikku ja õigesse aegruumi tagasi nihkuma.
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	hakkas	hakkama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-3	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	8	det	_	_
+3	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	8	nmod	_	_
 4	ainsasse	ainus	ADJ	A	Case=Ill|Degree=Pos|Number=Sing	8	amod	_	_
 5	loomulikku	loomulik	ADJ	A	Case=Add|Degree=Pos|Number=Sing	8	amod	_	_
 6	ja	ja	CCONJ	J	_	7	cc	_	_
@@ -6760,22 +6760,22 @@
 20	väljendasime	väljendama	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 21	märkidega	märk	NOUN	S	Case=Com|Number=Plur	20	obl	_	_
 22	"	"	PUNCT	Z	_	23	punct	_	SpaceAfter=No
-23	?	?	PUNCT	Z	_	21	appos	_	SpaceAfter=No
+23	?	?	SYM	Z	_	21	appos	_	SpaceAfter=No
 24	"	"	PUNCT	Z	_	23	punct	_	_
 25	ja	ja	CCONJ	J	_	27	cc	_	_
 26	"	"	PUNCT	Z	_	27	punct	_	SpaceAfter=No
-27	?	?	PUNCT	Z	_	23	conj	_	SpaceAfter=No
+27	?	?	SYM	Z	_	23	conj	_	SpaceAfter=No
 28	"	"	PUNCT	Z	_	27	punct	_	SpaceAfter=No
 29	,	,	PUNCT	Z	_	34	punct	_	_
 30	millest	mis	PRON	P	Case=Ela|Number=Plur|PronType=Int,Rel	34	obl	_	_
 31	"	"	PUNCT	Z	_	32	punct	_	SpaceAfter=No
-32	?	?	PUNCT	Z	_	34	nsubj	_	SpaceAfter=No
+32	?	?	SYM	Z	_	34	nsubj	_	SpaceAfter=No
 33	"	"	PUNCT	Z	_	32	punct	_	_
 34	tähendas	tähendama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	parataxis	_	_
 35	positiivset	positiivne	ADJ	A	Case=Par|Degree=Pos|Number=Sing	41	amod	_	_
 36	ja	ja	CCONJ	J	_	38	cc	_	_
 37	"	"	PUNCT	Z	_	38	punct	_	SpaceAfter=No
-38	?	?	PUNCT	Z	_	32	conj	_	SpaceAfter=No
+38	?	?	SYM	Z	_	32	conj	_	SpaceAfter=No
 39	"	"	PUNCT	Z	_	38	punct	_	_
 40	negatiivset	negatiivne	ADJ	A	Case=Par|Degree=Pos|Number=Sing	41	amod	_	_
 41	mõju	mõju	NOUN	S	Case=Par|Number=Sing	34	obj	_	_

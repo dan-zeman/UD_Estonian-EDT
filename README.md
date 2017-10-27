@@ -40,7 +40,14 @@ Documentation status: stub
 Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 4.0
-Genre: fiction news science
+Includes text: yes
+Genre: fiction news nonfiction
+Lemmas: converted from manual
+UPOS: converted from manual
+XPOS: converted from manual
+Features: converted from manual
+Relations: converted from manual
+Contributing: here
 Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina
-Contact: kaili.muurisep@ut.ee
+Contact: kadri.muischnek@ut.ee, kaili.muurisep@ut.ee
 ===============================================================================
