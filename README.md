@@ -2,7 +2,7 @@
 
 The Estonian UD v2.1 treebank consists of a small subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
 
-The original files are: ilu_indrikson_ud.conllu, ilu_kanep_ud.conllu, ilu_kivirahk_ud.conllu, ilu_maailm_ud.conllu, ilu_orlau_ud.conllu, ilu_maailm_ud.conllu, ilu_remsu_ud.conllu, aja_epl20070812_ud.conllu, tea_toohoive_ud.conllu.
+The original files are: ilu_indrikson_ud.conllu, ilu_kanep_ud.conllu, ilu_kivirahk_ud.conllu, ilu_maailm_ud.conllu, ilu_orlau_ud.conllu, ilu_maailm_ud.conllu, ilu_remsu_ud.conllu, ilu_vilep_ud2.conllu, aja_epl20070812_ud.conllu, aja_sloleht20071217_ud2.conllu, tea_toohoive_ud.conllu.
 
 The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank consists of 234,351 274 tokens (punctuation included) and covers 3 different genres, namely newspaper texts, fiction and scientific texts.
 The morphological and syntactic annotation of the Estonian UD treebank is created through automatic conversion of EDT data and as such, can contain errors.
