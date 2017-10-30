@@ -5513,7 +5513,7 @@
 # sent_id = ilu_vilep_400
 # text = Lõpuks ei olnudki see ju nii oluline!
 1	Lõpuks	lõpuks	ADV	D	_	7	advmod	_	_
-2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	3	aux	_	_
+2	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	7	aux	_	_
 3	olnudki	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	7	cop	_	_
 4	see	see	PRON	P	Case=Nom|Number=Sing|PronType=Dem	7	nsubj:cop	_	_
 5	ju	ju	ADV	D	_	7	advmod	_	_
@@ -6363,7 +6363,7 @@
 17	mille	mis	PRON	P	Case=Gen|Number=Sing|PronType=Int,Rel	23	obj	_	_
 18	prints	prints	NOUN	S	Case=Nom|Number=Sing	23	nsubj	_	_
 19	Charles	Charles	PROPN	S	Case=Nom|Number=Sing	18	appos	_	_
-20	omal	oma	PRON	P	Case=Ade|Number=Sing|Poss=Yes	21	det	_	_
+20	omal	oma	PRON	P	Case=Ade|Number=Sing|Poss=Yes|PronType=Prs	21	det	_	_
 21	ajal	aeg	NOUN	S	Case=Ade|Number=Sing	23	obl	_	_
 22	Dianale	Diana	PROPN	S	Case=All|Number=Sing	23	obl	_	_
 23	kinkis	kinkima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	15	acl:relcl	_	SpaceAfter=No
@@ -6599,8 +6599,8 @@
 2	meistrivõistluste	meistri_võistlus	NOUN	S	Case=Gen|Number=Plur	3	nmod	_	_
 3	soosikuks	soosik	NOUN	S	Case=Tra|Number=Sing	4	xcomp	_	_
 4	kerkis	kerkima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
-5	Jelena	Jelena	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
-6	Glebova	Glebova	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
+5	Jelena	Jelena	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
+6	Glebova	Glebova	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	puudumisel	puudumine	NOUN	S	Case=Ade|Number=Sing	4	obl	_	_
 8	mullune	mullune	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	11	amod	_	_
 9	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	10	nmod	_	_
@@ -7127,7 +7127,7 @@
 # text = Miks 1996 Kukusse läksin, sellel ei taha pikemalt peatuda.
 1	Miks	miks	ADV	D	_	4	mark	_	_
 2	1996	1996	NUM	N	Case=Add|Number=Sing|NumForm=Digit|NumType=Card	4	nummod	_	_
-3	Kukusse	Kuku	PROPN	A	Case=Ill|Degree=Pos|Number=Sing	4	obl	_	_
+3	Kukusse	Kuku	PROPN	A	Case=Ill|Number=Sing	4	obl	_	_
 4	läksin	minema	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	4	punct	_	_
 6	sellel	see	PRON	P	Case=Ade|Number=Sing|PronType=Dem	10	obl	_	_
