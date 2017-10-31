@@ -5340,7 +5340,7 @@
 4	täiesti	täiesti	ADV	D	_	5	advmod	_	_
 5	elektrisinine	elektri_sinine	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 6	ja	ja	CCONJ	J	_	9	cc	_	_
-7	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	8	det	_	_
+7	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	8	nmod	_	_
 8	valgus	valgus	NOUN	S	Case=Nom|Number=Sing	9	nsubj	_	_
 9	särab	särama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 10	kaugele	kaugele	ADV	D	_	11	advmod	_	_

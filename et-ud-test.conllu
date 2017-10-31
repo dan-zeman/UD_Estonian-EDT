@@ -5192,8 +5192,8 @@
 14	olgugi	olgugi	SCONJ	J	_	22	cc:preconj	_	_
 15	et	et	SCONJ	J	_	22	mark	_	_
 16	üldsuse	üldsus	NOUN	S	Case=Gen|Number=Sing	17	nmod	_	_
-17	silmis	silm	NOUN	S	Case=Ine|Number=Plur	22	nmod	_	ToDo=nmod
-18	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	20	aux	_	_
+17	silmis	silm	NOUN	S	Case=Ine|Number=Plur	22	obl	_	_
+18	võis	võima	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	aux	_	_
 19	ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	22	nsubj:cop	_	_
 20	olla	olema	AUX	V	VerbForm=Inf	22	cop	_	_
 21	suur	suur	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	22	amod	_	_
