@@ -5183,7 +5183,7 @@
 5	ja	ja	CCONJ	J	_	6	cc	_	_
 6	establishmendi-meeste	establishmendi-mees	NOUN	S	Case=Gen|Number=Plur	4	conj	_	_
 7	arvates	arvama	VERB	V	VerbForm=Conv	12	advcl	_	_
-8	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	9	aux	_	_
+8	ei	ei	AUX	V	Mood=Ind|Polarity=Neg|VerbForm=Fin	12	aux	_	_
 9	olnud	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	12	cop	_	_
 10	Mätas	Mätas	PROPN	S	Case=Nom|Number=Sing	12	nsubj:cop	_	_
 11	mitte	mitte	ADV	D	Polarity=Neg	12	advmod	_	_
