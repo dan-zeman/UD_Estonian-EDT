@@ -1,4 +1,8 @@
-# UD_Estonian
+# Summary
+
+UD Estonian is a conversion of a subpart of Estonian Dependency Treebank (EDT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of genres of fiction, newspaper texts and scientific texts.
+
+# Introduction
 
 The Estonian UD v2.1 treebank contains a subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
 
@@ -16,17 +20,13 @@ The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https:/
 
 The current version, Estonian UD v 2.1 has been created by semi-automatic conversion of v 1.3 annotations; some constructions were also re-annotated manually. Among the most frequent of those needing manual effort one can name determing the heads of copular constructions.
 
-## Estonian Dependency Treebank
-
-[EDT] (https://github.com/EstSyntax/EDT)
-is a dependency oriented treebank released by the University of Tartu in 2014.
-
-## Acknowledgments
+# Acknowledgments
 
 We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. Also, we wish to thank Andriela Rääbis for her great job with v 2.1 annotations.
+
 This work was financed by the National Programme for Estonian Language Technology (https://www.keeletehnoloogia.ee/en?set_language=en) and Estonian Ministery of Education and Research (grant 20-56 IUT20-56 "Computational models for Estonian").
 
-## References
+# References
 
 * Kadri Muischnek, Kaili Müürisep, Tiina Puolakainen, Eleri Aedmaa, Riin Kirt, Dage Särg.  2014.
   [Estonian Dependency Treebank and its annotation scheme](http://tlt13.sfs.uni-tuebingen.de/tlt13-proceedings.pdf).
@@ -35,7 +35,8 @@ This work was financed by the National Programme for Estonian Language Technolog
 
 * Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies. - Proceedings of LREC 2016.
 
-## Changelog
+# Changelog
+
 * UD v2.1: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
 
 * UD v2.0: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
