@@ -174,7 +174,7 @@
 # sent_id = aja_pm20000218_10
 # text = Jaak Roosi sai Tartusse maailma kõrgeima tooli ehitamise idee Kölni messil käinud itaallastelt, kes kutsusid kunstikooli kasvandikke, sh Verlinit, Itaaliasse Udine linna toolimessile.
 1	Jaak	Jaak	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Roosi	Roosi	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Roosi	Roosi	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	sai	saama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Tartusse	Tartu	PROPN	S	Case=Ill|Number=Sing	8	nmod	_	_
 5	maailma	maailm	NOUN	S	Case=Gen|Number=Sing	6	obl	_	_
@@ -230,7 +230,7 @@
 11	järgi	järgi	ADP	K	AdpType=Post	10	case	_	_
 12	pidi	pidama	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	17	aux	_	_
 13	Priit	Priit	PROPN	S	Case=Nom|Number=Sing	15	nmod	_	_
-14	Verlini	Verlin	PROPN	S	Case=Gen|Number=Sing	13	flat:name	_	_
+14	Verlini	Verlin	PROPN	S	Case=Gen|Number=Sing	13	flat	_	_
 15	tooli	tool	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
 16	hiigelkoopia	hiigel_koopia	NOUN	S	Case=Nom|Number=Sing	17	nsubj	_	_
 17	kerkima	kerkima	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	6	ccomp	_	_
@@ -682,7 +682,7 @@
 # sent_id = aja_pm20000218_33
 # text = Kaie Saare sõnul on aga soojuse ja elektri koostootmine igal juhul mõttekas, sest seda näitab muu maailma kogemus.
 1	Kaie	Kaie	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
-2	Saare	Saar	PROPN	S	Case=Gen|Number=Sing	1	flat:name	_	_
+2	Saare	Saar	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	12	obl	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
 5	aga	aga	CCONJ	J	_	12	cc	_	_
@@ -731,14 +731,14 @@
 20	)	)	PUNCT	Z	_	15	punct	_	_
 21	ning	ning	CCONJ	J	_	22	cc	_	_
 22	Kotkan	Kotkan	PROPN	S	Case=Nom|Number=Sing	12	conj	_	_
-23	Energia	Energia	PROPN	S	Case=Nom|Number=Sing	22	flat:name	_	_
+23	Energia	Energia	PROPN	S	Case=Nom|Number=Sing	22	flat	_	_
 24	Oy	Oy	PROPN	Y	Abbr=Yes	22	flat	_	SpaceAfter=No
 25	.	.	PUNCT	Z	_	8	punct	_	_
 
 # sent_id = aja_pm20000218_36
 # text = Kotkan Energia Oy teatas kuu aja eest, et soovib osta Anne Soojuse, Tartu Jõujaama ning Tartu Keskkatlamaja aktsiad ilma konkursita kokkuleppehinnaga.
 1	Kotkan	Kotkan	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
-2	Energia	Energia	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Energia	Energia	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	Oy	Oy	PROPN	Y	Abbr=Yes	1	flat	_	_
 4	teatas	teatama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	kuu	kuu	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
@@ -1003,13 +1003,13 @@
 16	Kroodo	Kroodo	PROPN	S	Case=Nom|Number=Sing	15	flat	_	SpaceAfter=No
 17	,	,	PUNCT	Z	_	18	punct	_	_
 18	Kalev	Kalev	PROPN	S	Case=Nom|Number=Sing	14	conj	_	_
-19	Kase	Kase	PROPN	S	Case=Nom|Number=Sing	18	flat:name	_	SpaceAfter=No
+19	Kase	Kase	PROPN	S	Case=Nom|Number=Sing	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	Z	_	21	punct	_	_
 21	Raul	Raul	PROPN	S	Case=Nom|Number=Sing	14	conj	_	_
-22	Rebane	Rebane	PROPN	S	Case=Nom|Number=Sing	21	flat:name	_	_
+22	Rebane	Rebane	PROPN	S	Case=Nom|Number=Sing	21	flat	_	_
 23	ja	ja	CCONJ	J	_	24	cc	_	_
 24	Martin	Martin	PROPN	S	Case=Nom|Number=Sing	14	conj	_	_
-25	Sööt	Sööt	PROPN	S	Case=Nom|Number=Sing	24	flat:name	_	SpaceAfter=No
+25	Sööt	Sööt	PROPN	S	Case=Nom|Number=Sing	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_pm20000218_51
@@ -1623,7 +1623,7 @@
 # sent_id = aja_pm20000218_83
 # text = Anu Meos ütles, et eile Riigi Teatajas ilmunud ühistranspordi seadus annab kindlust, et riigi dotatsioon linnaliinidele ei vähene.
 1	Anu	Anu	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Meos	Meos	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Meos	Meos	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	ütles	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	12	punct	_	_
 5	et	et	SCONJ	J	_	12	mark	_	_
@@ -1927,7 +1927,7 @@
 6	noorsootalituse	noor_soo_talitus	NOUN	S	Case=Gen|Number=Sing	4	conj	_	_
 7	komissari	komissar	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 8	Tarmo	Tarmo	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
-9	Stokkeby	Stokkeby	PROPN	S	Case=Gen|Number=Sing	8	flat:name	_	_
+9	Stokkeby	Stokkeby	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	kinnitusel	kinnitus	NOUN	S	Case=Ade|Number=Sing	12	obl	_	_
 11	ei	ei	AUX	V	Polarity=Neg	12	aux	_	_
 12	võtnud	võtma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -2012,7 +2012,7 @@
 7	liitrit	liiter	NOUN	S	Case=Par|Number=Sing	9	nmod	_	_
 8	brändikleepsuga	brändi_kleeps	NOUN	S	Case=Com|Number=Sing	9	nmod	_	_
 9	Belõi	Belõi	PROPN	S	Case=Nom|Number=Sing	2	nsubj:cop	_	_
-10	Aisti	Aist	PROPN	S	Case=Par|Number=Sing	9	flat:name	_	SpaceAfter=No
+10	Aisti	Aist	PROPN	S	Case=Par|Number=Sing	9	flat	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	2	punct	_	_
 12	”	”	PUNCT	Z	_	2	punct	_	_
 
@@ -2107,7 +2107,7 @@
 6	õige	õige	ADV	D	_	3	conj	_	_
 7	ka	ka	ADV	D	_	10	advmod	_	_
 8	Tarmo	Tarmo	PROPN	S	Case=Nom|Number=Sing	10	nmod	_	_
-9	Stokkeby	Stokkeby	PROPN	S	Case=Gen|Number=Sing	8	flat:name	_	_
+9	Stokkeby	Stokkeby	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	väide	väide	NOUN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	SpaceAfter=No
 11	,	,	PUNCT	Z	_	16	punct	_	_
 12	et	et	SCONJ	J	_	16	mark	_	_
@@ -2174,7 +2174,7 @@
 # sent_id = aja_pm20000218_111
 # text = Tarmo Stokkeby ütles eile, et vastavalt alkoholiseadusele tohib politsei võtta müüa keelatud alkoholi hoiule nii müügiletilt kui ka laost.
 1	Tarmo	Tarmo	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Stokkeby	Stokkeby	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Stokkeby	Stokkeby	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	ütles	ütlema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	eile	eile	ADV	D	_	3	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	9	punct	_	_
@@ -2324,7 +2324,7 @@
 # text = Kommenteerides Oleg Bulkini väidet, et ta ei pööranud tähelepanu kastides kaasas olnud brändisiltidele, vastas Stokkeby, et nii kogenud ärimees ei saa sellist juttu ajada.
 1	Kommenteerides	kommenteerima	VERB	V	VerbForm=Conv	16	advcl	_	_
 2	Oleg	Oleg	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
-3	Bulkini	Bulkin	PROPN	S	Case=Gen|Number=Sing	2	flat:name	_	_
+3	Bulkini	Bulkin	PROPN	S	Case=Gen|Number=Sing	2	flat	_	_
 4	väidet	väide	NOUN	S	Case=Par|Number=Sing	1	obj	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	9	punct	_	_
 6	et	et	SCONJ	J	_	9	mark	_	_
@@ -2422,7 +2422,7 @@
 6	tänavas	tänav	NOUN	S	Case=Ine|Number=Sing	7	nmod	_	_
 7	elav	elav	NOUN	S	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	8	acl	_	_
 8	Kristel	Kristel	PROPN	S	Case=Nom|Number=Sing	10	nsubj	_	_
-9	Köbas	Köbas	PROPN	S	Case=Nom|Number=Sing	8	flat:name	_	_
+9	Köbas	Köbas	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
 10	märkas	märkama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 11	lumikellukesi	lumi_kelluke	NOUN	S	Case=Par|Number=Plur	10	obj	_	_
 12	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	13	nmod	_	_
@@ -2717,7 +2717,7 @@
 # sent_id = aja_pm20000218_141
 # text = Kristel Köbas usub, et tema aia lumikellukesed kasvavad rõõmsasti edasi.
 1	Kristel	Kristel	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Köbas	Köbas	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Köbas	Köbas	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	usub	uskuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	Z	_	9	punct	_	_
 5	et	et	SCONJ	J	_	9	mark	_	_
@@ -2783,7 +2783,7 @@
 # sent_id = aja_pm20000218_146
 # text = Vello Vengerfeldt
 1	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Vengerfeldt	Vengerfeldt	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Vengerfeldt	Vengerfeldt	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_147
 # text = Sündinud Tartus 1952
@@ -4321,7 +4321,7 @@
 3	silma	silm	NOUN	S	Case=Gen|Number=Sing	2	obl	_	_
 4	katke	katke	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	_
 5	Terry	Terry	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
-6	Pratchett'sünge	Pratchett’sünge	PROPN	S	Case=Gen|Number=Sing	5	flat:name	_	_
+6	Pratchett'sünge	Pratchett’sünge	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	nimetusega	nimetus	NOUN	S	Case=Com|Number=Sing	11	nmod	_	_
 8	(	(	PUNCT	Z	_	9	punct	_	SpaceAfter=No
 9	Morth	Morth	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	SpaceAfter=No
@@ -4546,7 +4546,7 @@
 3	Vellavere	Vellavere	PROPN	S	Case=Gen|Number=Sing	4	nmod	_	_
 4	ilmatarga	ilma_tark	NOUN	S	Case=Gen|Number=Sing	8	obl	_	_
 5	Vadim	Vadim	PROPN	S	Case=Nom|Number=Sing	4	appos	_	_
-6	Zhelnini	Zhelnin	PROPN	S	Case=Gen|Number=Sing	5	flat:name	_	_
+6	Zhelnini	Zhelnin	PROPN	S	Case=Gen|Number=Sing	5	flat	_	_
 7	juurde	juurde	ADP	K	AdpType=Post	5	case	_	_
 8	sõites	sõitma	VERB	V	VerbForm=Conv	12	advcl	_	_
 9	peale	peale	ADP	K	AdpType=Prep	11	case	_	_
@@ -4795,7 +4795,7 @@
 11	ja	ja	CCONJ	J	_	12	cc	_	_
 12	arhitektuuriajaloolase	arhitektuuri_aja_loolane	NOUN	S	Case=Gen|Number=Sing	10	conj	_	_
 13	Wilhelm	Wilhelm	PROPN	S	Case=Nom|Number=Sing	10	appos	_	_
-14	Bockslaffi	Bockslaff	PROPN	S	Case=Gen|Number=Sing	13	flat:name	_	_
+14	Bockslaffi	Bockslaff	PROPN	S	Case=Gen|Number=Sing	13	flat	_	_
 15	juhtimisel	juhtimine	NOUN	S	Case=Ade|Number=Sing	3	obl	_	SpaceAfter=No
 16	.	.	PUNCT	Z	_	3	punct	_	_
 
@@ -4964,7 +4964,7 @@
 18	välismaalt	välis_maa	NOUN	S	Case=Abl|Number=Sing	17	nmod	_	_
 19	ja	ja	CCONJ	J	_	22	cc	_	_
 20	Ernst	Ernst	PROPN	S	Case=Nom|Number=Sing	22	nmod	_	_
-21	Tode	Tode	PROPN	S	Case=Gen|Number=Sing	20	flat:name	_	_
+21	Tode	Tode	PROPN	S	Case=Gen|Number=Sing	20	flat	_	_
 22	kunstiettevõte	kunsti_ette_võte	NOUN	S	Case=Nom|Number=Sing	17	conj	_	_
 23	Riiast	Riia	PROPN	S	Case=Ela|Number=Sing	22	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	Z	_	5	punct	_	_
@@ -5434,12 +5434,12 @@
 20	von	von	NOUN	S	Case=Nom|Number=Sing	19	flat	_	_
 21	der	der	NOUN	S	Case=Nom|Number=Sing	19	flat	_	_
 22	St.	st	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
-23	Antoni-Gilde	Antoni-Gilde	PROPN	S	Case=Gen|Number=Sing	19	flat:name	_	_
+23	Antoni-Gilde	Antoni-Gilde	PROPN	S	Case=Gen|Number=Sing	19	flat	_	_
 24	als	als	NOUN	S	Case=Nom|Number=Sing	19	flat	_	_
 25	Conpatronin	Conpatronin	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 26	der	der	NOUN	S	Case=Nom|Number=Sing	19	flat	_	_
 27	St.	st	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
-28	Johannis-Gemeinde	Johannis-Gemeinde	PROPN	S	Case=Nom|Number=Sing	19	flat:name	_	_
+28	Johannis-Gemeinde	Johannis-Gemeinde	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 29	1904	1904	NUM	N	NumForm=Digit|NumType=Card	19	nummod	_	SpaceAfter=No
 30	.	.	PUNCT	Z	_	1	punct	_	_
 
@@ -5480,7 +5480,7 @@
 6	kauaaegse	kaua_aegne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	7	amod	_	_
 7	pastori	pastor	NOUN	S	Case=Gen|Number=Sing	4	obl	_	_
 8	Wilhelm	Wilhelm	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
-9	Schwartzi	Schwartz	PROPN	S	Case=Gen|Number=Sing	8	flat:name	_	_
+9	Schwartzi	Schwartz	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	(	(	PUNCT	Z	_	11	punct	_	SpaceAfter=No
 11	1855-1892	1855-1892	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	8	nummod	_	SpaceAfter=No
 12	)	)	PUNCT	Z	_	11	punct	_	_
@@ -6002,7 +6002,7 @@
 1	Mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	2	nsubj	_	_
 2	puudutab	puudutama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Urmo	Urmo	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
-4	Rausi	Raus	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Rausi	Raus	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	kavandeid	kavand	NOUN	S	Case=Par|Number=Plur	2	obj	_	SpaceAfter=No
 6	,	,	PUNCT	Z	_	2	punct	_	_
 7	siis	siis	ADV	D	_	8	advmod	_	_
@@ -6040,7 +6040,7 @@
 # text = Ka Ernst Tode ei kasutanud oma vitraazhidel ju moodsat juugendornamenti.
 1	Ka	ka	ADV	D	_	2	advmod	_	_
 2	Ernst	Ernst	PROPN	S	Case=Nom|Number=Sing	5	nsubj	_	_
-3	Tode	Tode	PROPN	S	Case=Nom|Number=Sing	2	flat:name	_	_
+3	Tode	Tode	PROPN	S	Case=Nom|Number=Sing	2	flat	_	_
 4	ei	ei	AUX	V	Polarity=Neg	5	aux	_	_
 5	kasutanud	kasutama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
@@ -6725,7 +6725,7 @@
 # sent_id = aja_pm20000218_375
 # text = Ivo Linna ei saanud ratast käima, hoolimata poetatud vaimukusteradest.
 1	Ivo	Ivo	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
-2	Linna	Linna	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Linna	Linna	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	ei	ei	AUX	V	Polarity=Neg	4	aux	_	_
 4	saanud	saama	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	ratast	ratas	NOUN	S	Case=Par|Number=Sing	4	obj	_	_
@@ -6755,7 +6755,7 @@
 1	Nüüd	nüüd	ADV	D	_	6	advmod	_	_
 2	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	cop	_	_
 3	Emil	Emil	PROPN	S	Case=Nom|Number=Sing	6	nsubj:cop	_	_
-4	Rutiku	Rutiku	PROPN	S	Case=Nom|Number=Sing	3	flat:name	_	_
+4	Rutiku	Rutiku	PROPN	S	Case=Nom|Number=Sing	3	flat	_	_
 5	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	6	nmod	_	_
 6	sõiduvees	sõidu_vesi	NOUN	S	Case=Ine|Number=Sing	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	Z	_	6	punct	_	_
@@ -6921,7 +6921,7 @@
 11	üks	üks	DET	P	Case=Nom|Number=Sing|PronType=Ind	12	det	_	_
 12	juhtpoliitikutest	juht_poliitik	NOUN	S	Case=Ela|Number=Plur	8	conj	_	_
 13	Jüri	Jüri	PROPN	S	Case=Nom|Number=Sing	8	appos	_	_
-14	Mõis	Mõis	PROPN	S	Case=Nom|Number=Sing	13	flat:name	_	_
+14	Mõis	Mõis	PROPN	S	Case=Nom|Number=Sing	13	flat	_	_
 15	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	16	aux	_	_
 16	võtnud	võtma	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	1	ccomp	_	_
 17	seisukoha	seisu_koht	NOUN	S	Case=Gen|Number=Sing	16	obj	_	SpaceAfter=No
@@ -6952,10 +6952,10 @@
 2	,	,	PUNCT	Z	_	14	punct	_	_
 3	kuidas	kuidas	ADV	D	_	14	mark	_	_
 4	Mart	Mart	PROPN	S	Case=Nom|Number=Sing	14	nsubj	_	_
-5	Laar	Laar	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+5	Laar	Laar	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ja	ja	CCONJ	J	_	7	cc	_	_
 7	Jüri	Jüri	PROPN	S	Case=Nom|Number=Sing	4	conj	_	_
-8	Mõis	Mõis	PROPN	S	Case=Nom|Number=Sing	7	flat:name	_	_
+8	Mõis	Mõis	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
 9	enne	enne	ADP	K	AdpType=Prep	10	case	_	_
 10	valimisi	valimine	NOUN	S	Case=Par|Number=Plur	14	obl	_	_
 11	rusikaid	rusikas	NOUN	S	Case=Par|Number=Plur	14	obj	_	_
@@ -8179,7 +8179,7 @@
 # sent_id = aja_pm20000218_461
 # text = Francis Fukuyama arvates on lääneriikides moraali allakäigu põhjuste hulgas äärmuseni arenenud individualism ning perekondade ja ühiskondlike sidemete nõrgenemine.
 1	Francis	Francis	PROPN	S	Case=Nom|Number=Sing	3	obl	_	_
-2	Fukuyama	Fukuyama	PROPN	S	Case=Gen|Number=Sing	1	flat:name	_	_
+2	Fukuyama	Fukuyama	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	arvates	arvama	VERB	V	VerbForm=Conv	8	advcl	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	cop	_	_
 5	lääneriikides	lääne_riik	NOUN	S	Case=Ine|Number=Plur	8	obl	_	_
@@ -8869,7 +8869,7 @@
 11	Raju	Raju	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
 12	ja	ja	CCONJ	J	_	13	cc	_	_
 13	Janno	Janno	PROPN	S	Case=Nom|Number=Sing	10	conj	_	_
-14	Reiljan	Reiljan	PROPN	S	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
+14	Reiljan	Reiljan	PROPN	S	Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	_	_
 16	Tallinna	Tallinn	PROPN	S	Case=Gen|Number=Sing	17	nmod	_	_
 17	Tehnikaülikoolist	Tehnika_üli_kool	PROPN	S	Case=Ela|Number=Sing	18	nmod	_	_
@@ -8878,17 +8878,17 @@
 20	Mereste	Mereste	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 21	ja	ja	CCONJ	J	_	22	cc	_	_
 22	Vello	Vello	PROPN	S	Case=Nom|Number=Sing	19	conj	_	_
-23	Vensel	Vensel	PROPN	S	Case=Nom|Number=Sing	22	flat:name	_	SpaceAfter=No
+23	Vensel	Vensel	PROPN	S	Case=Nom|Number=Sing	22	flat	_	SpaceAfter=No
 24	,	,	PUNCT	Z	_	27	punct	_	_
 25	Kõrgemast	Kõrgem	PROPN	A	Case=Ela|Number=Sing	26	amod	_	_
 26	Kommertskoolist	Kommerts_kool	PROPN	S	Case=Ela|Number=Sing	27	nmod	_	_
 27	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	9	conj	_	_
-28	Made	Made	PROPN	S	Case=Nom|Number=Sing	27	flat:name	_	_
+28	Made	Made	PROPN	S	Case=Nom|Number=Sing	27	flat	_	_
 29	ja	ja	CCONJ	J	_	32	cc	_	_
 30	nüüd	nüüd	ADV	D	_	32	advmod	_	_
 31	ka	ka	ADV	D	_	32	advmod	_	_
 32	Olav	Olav	PROPN	S	Case=Nom|Number=Sing	27	conj	_	_
-33	Aarna	Aarna	PROPN	S	Case=Nom|Number=Sing	32	flat:name	_	SpaceAfter=No
+33	Aarna	Aarna	PROPN	S	Case=Nom|Number=Sing	32	flat	_	SpaceAfter=No
 34	.	.	PUNCT	Z	_	9	punct	_	_
 
 # sent_id = aja_pm20000218_493
@@ -8953,7 +8953,7 @@
 # sent_id = aja_pm20000218_496
 # text = Molodjozh Estoniis on koguni püsirubriik “ Integratsioon ”.
 1	Molodjozh	Molodjozh	PROPN	S	Case=Nom|Number=Sing	5	obl	_	_
-2	Estoniis	Estonii	PROPN	S	Case=Ine|Number=Sing	1	flat:name	_	_
+2	Estoniis	Estonii	PROPN	S	Case=Ine|Number=Sing	1	flat	_	_
 3	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	cop	_	_
 4	koguni	koguni	ADV	D	_	5	advmod	_	_
 5	püsirubriik	püsi_rubriik	NOUN	S	Case=Nom|Number=Sing	0	root	_	_
@@ -9153,7 +9153,7 @@
 24	parlamendikoha	parlamendi_koht	NOUN	S	Case=Gen|Number=Sing	25	obj	_	_
 25	saanud	saanud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	26	amod	_	_
 26	Valentina	Valentina	PROPN	S	Case=Nom|Number=Sing	16	conj	_	_
-27	Võssotskaja	Võssotskaja	PROPN	S	Case=Nom|Number=Sing	26	flat:name	_	_
+27	Võssotskaja	Võssotskaja	PROPN	S	Case=Nom|Number=Sing	26	flat	_	_
 28	(	(	PUNCT	Z	_	30	punct	_	SpaceAfter=No
 29	Ühinenud	Ühine=nud	PROPN	A	Tense=Past|VerbForm=Part|Voice=Act	30	acl	_	_
 30	Rahvapartei	Rahva_partei	PROPN	S	Case=Nom|Number=Sing	26	nmod	_	SpaceAfter=No
@@ -9368,7 +9368,7 @@
 # sent_id = aja_pm20000218_519
 # text = Anti Liiv
 1	Anti	Anti	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Liiv	Liiv	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Liiv	Liiv	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_520
 # text = Riigikogu liige, psühhiaater
@@ -9537,19 +9537,19 @@
 13	saadikurühma	saadiku_rühm	NOUN	S	Case=Par|Number=Sing	14	nmod	_	_
 14	juhid	juht	NOUN	S	Case=Nom|Number=Plur	10	nsubj	_	_
 15	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	14	appos	_	_
-16	Sinissaar	Sinissaar	PROPN	S	Case=Nom|Number=Sing	15	flat:name	_	_
+16	Sinissaar	Sinissaar	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
 17	(	(	PUNCT	Z	_	18	punct	_	SpaceAfter=No
 18	Isamaaliit	Isa_maa_liit	PROPN	S	Case=Nom|Number=Sing	15	nmod	_	SpaceAfter=No
 19	)	)	PUNCT	Z	_	18	punct	_	SpaceAfter=No
 20	,	,	PUNCT	Z	_	18	punct	_	_
 21	Marju	Marju	PROPN	S	Case=Nom|Number=Sing	15	conj	_	_
-22	Lauristin	Lauristin	PROPN	S	Case=Nom|Number=Sing	21	flat:name	_	_
+22	Lauristin	Lauristin	PROPN	S	Case=Nom|Number=Sing	21	flat	_	_
 23	(	(	PUNCT	Z	_	24	punct	_	SpaceAfter=No
 24	Mõõdukad	Mõõdukad	PROPN	S	Case=Nom|Number=Sing	21	nmod	_	SpaceAfter=No
 25	)	)	PUNCT	Z	_	24	punct	_	_
 26	ja	ja	CCONJ	J	_	27	cc	_	_
 27	Jürgen	Jürgen	PROPN	S	Case=Nom|Number=Sing	15	conj	_	_
-28	Ligi	Ligi	PROPN	S	Case=Nom|Number=Sing	27	flat:name	_	_
+28	Ligi	Ligi	PROPN	S	Case=Nom|Number=Sing	27	flat	_	_
 29	(	(	PUNCT	Z	_	30	punct	_	SpaceAfter=No
 30	Reformierakond	Reformi_erakond	PROPN	S	Case=Nom|Number=Sing	27	nmod	_	SpaceAfter=No
 31	)	)	PUNCT	Z	_	30	punct	_	_
@@ -10085,7 +10085,7 @@
 # sent_id = aja_pm20000218_553
 # text = Tiit Tammsaar, Riigikogu liige (Rahvaliit) Riigikogu ööistungil valitsuse plaanist tagastada baltisakslastele vara
 1	Tiit	Tiit	PROPN	S	Case=Nom|Number=Sing	13	nsubj	_	_
-2	Tammsaar	Tamm_saar	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	SpaceAfter=No
+2	Tammsaar	Tamm_saar	PROPN	S	Case=Nom|Number=Sing	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	Z	_	5	punct	_	_
 4	Riigikogu	Riigi_kogu	PROPN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	liige	liige	NOUN	S	Case=Nom|Number=Sing	1	appos	_	_
@@ -10125,7 +10125,7 @@
 # sent_id = aja_pm20000218_556
 # text = Märt Rask, justiitsminister (Reformierakond), nõudest tagastada maad Hiiumaal Põhjasõja-aegse omandi põhjal, mida seadus aga ei luba
 1	Märt	Märt	PROPN	S	Case=Nom|Number=Sing	10	nsubj	_	_
-2	Rask	Rask	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	SpaceAfter=No
+2	Rask	Rask	PROPN	S	Case=Nom|Number=Sing	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	Z	_	4	punct	_	_
 4	justiitsminister	justiits_minister	NOUN	S	Case=Nom|Number=Sing	1	appos	_	_
 5	(	(	PUNCT	Z	_	6	punct	_	SpaceAfter=No
@@ -10194,7 +10194,7 @@
 8	Vene	Vene	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	infokeskusele	info_keskus	NOUN	S	Case=All|Number=Sing	7	obl	_	_
 10	Russkii	Russkii	PROPN	S	Case=Nom|Number=Sing	9	appos	_	_
-11	Deadline	Deadline	PROPN	S	Case=Gen|Number=Sing	10	flat:name	_	_
+11	Deadline	Deadline	PROPN	S	Case=Gen|Number=Sing	10	flat	_	_
 12	ühe	üks	DET	P	Case=Gen|Number=Sing|PronType=Ind	13	det	_	_
 13	osa	osa	NOUN	S	Case=Gen|Number=Sing	7	obj	_	_
 14	nimekirjast	nime_kiri	NOUN	S	Case=Ela|Number=Sing	13	nmod	_	SpaceAfter=No
@@ -10246,7 +10246,7 @@
 18	,	,	PUNCT	Z	_	23	punct	_	_
 19	ning	ning	CCONJ	J	_	23	cc	_	_
 20	Russkii	Russkii	PROPN	S	Case=Nom|Number=Sing	23	nsubj	_	_
-21	Deadline	Deadline	PROPN	S	Case=Nom|Number=Sing	20	flat:name	_	_
+21	Deadline	Deadline	PROPN	S	Case=Nom|Number=Sing	20	flat	_	_
 22	ei	ei	AUX	V	Polarity=Neg	23	aux	_	_
 23	suutnud	suutma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	5	conj	_	_
 24	seetõttu	see_tõttu	ADV	D	_	23	advmod	_	_
@@ -10403,7 +10403,7 @@
 1	Rahandusministeeriumi	rahandus_ministeerium	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	nõuniku	nõunik	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	Daniel	Daniel	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
-4	Vaariku	Vaarik	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Vaariku	Vaarik	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	12	obl	_	_
 6	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
 7	aktsiisi	aktsiis	NOUN	S	Case=Par|Number=Sing	8	nsubj	_	_
@@ -10524,13 +10524,13 @@
 # sent_id = aja_pm20000218_576
 # text = Mari-Liis Sibul (vaskul) ja Kristina Tubli (keskel) tegid oma tulevikuplaane, sirvides Tartu Ülikooli sotsiaalteaduskonda ja õigusteaduskonda puudutavaid materjale.
 1	Mari-Liis	Mari-Liis	PROPN	S	Case=Nom|Number=Sing	12	nsubj	_	_
-2	Sibul	Sibul	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Sibul	Sibul	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	(	(	PUNCT	Z	_	4	punct	_	SpaceAfter=No
 4	vaskul	vaskul	NOUN	S	Case=Nom|Number=Sing	1	nmod	_	SpaceAfter=No
 5	)	)	PUNCT	Z	_	4	punct	_	_
 6	ja	ja	CCONJ	J	_	7	cc	_	_
 7	Kristina	Kristina	PROPN	S	Case=Nom|Number=Sing	1	conj	_	_
-8	Tubli	Tubli	PROPN	S	Case=Nom|Number=Sing	7	flat:name	_	_
+8	Tubli	Tubli	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
 9	(	(	PUNCT	Z	_	10	punct	_	SpaceAfter=No
 10	keskel	keskel	ADV	D	_	7	advmod	_	SpaceAfter=No
 11	)	)	PUNCT	Z	_	10	punct	_	_
@@ -11051,7 +11051,7 @@
 1	Vene	vene	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	infokeskuse	info_keskus	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 3	Russki	Russki	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
-4	Deadline	Deadline	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Deadline	Deadline	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	palvel	palve	NOUN	S	Case=Ade|Number=Sing	6	obl	_	_
 6	täpsustas	täpsustama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 7	kindral	kindral	NOUN	S	Case=Nom|Number=Sing	6	nsubj	_	_
@@ -11089,7 +11089,7 @@
 # sent_id = aja_pm20000218_603
 # text = Russki Deadline ei suutnud vigaselt edastatud aadressi tõttu Postimehe süüd tuvastada.
 1	Russki	Russki	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
-2	Deadline	Deadline	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Deadline	Deadline	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	ei	ei	AUX	V	Polarity=Neg	4	aux	_	_
 4	suutnud	suutma	VERB	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	vigaselt	vigaselt	ADV	D	_	6	advmod	_	_
@@ -11122,7 +11122,7 @@
 17	(	(	PUNCT	Z	_	19	punct	_	SpaceAfter=No
 18	tegelikult	tegelikult	ADV	D	_	19	advmod	_	_
 19	Kristina	Kristina	PROPN	S	Case=Nom|Number=Sing	25	parataxis	_	_
-20	Shmigun	Shmigun	PROPN	S	Case=Nom|Number=Sing	19	flat:name	_	_
+20	Shmigun	Shmigun	PROPN	S	Case=Nom|Number=Sing	19	flat	_	_
 21	ja	ja	CCONJ	J	_	23	cc	_	_
 22	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	23	nmod	_	_
 23	konkurendid	konkurent	NOUN	S	Case=Nom|Number=Plur	19	conj	_	SpaceAfter=No
@@ -11179,7 +11179,7 @@
 2	aastat	aasta	NOUN	S	Case=Par|Number=Sing	3	obl	_	_
 3	kestis	kestma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Helmut	Helmut	PROPN	S	Case=Nom|Number=Sing	6	nmod	_	_
-5	Kohli	Kohli	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+5	Kohli	Kohli	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ajastu	ajastu	NOUN	S	Case=Nom|Number=Sing	3	nsubj	_	_
 7	Saksamaa	Saksa_maa	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 8	Kristlik-Demokraatlikus	Kristlik-Demo_kraatlik	PROPN	S	Case=Ine|Number=Sing	9	nmod	_	_
@@ -11209,7 +11209,7 @@
 7	tema	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	8	nmod	_	_
 8	järglasele	järglane	NOUN	S	Case=All|Number=Sing	5	obl	_	_
 9	Wolfgang	Wolfgang	PROPN	S	Case=Nom|Number=Sing	8	appos	_	_
-10	Schäublele	Schäublele	PROPN	S	Case=Nom|Number=Sing	9	flat:name	_	SpaceAfter=No
+10	Schäublele	Schäublele	PROPN	S	Case=Nom|Number=Sing	9	flat	_	SpaceAfter=No
 11	,	,	PUNCT	Z	_	28	punct	_	_
 12	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	28	nsubj	_	_
 13	nüüd	nüüd	ADV	D	_	28	advmod	_	SpaceAfter=No
@@ -11323,12 +11323,12 @@
 # sent_id = aja_pm20000218_613
 # text = FINANCIAL TIMES
 1	FINANCIAL	Financial	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	TIMES	Times	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	TIMES	Times	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_614
 # text = Wolfgang Schäuble lahkumine on kogu Saksa poliitikale suur kaotus, arvab mõjukas majandusleht.
 1	Wolfgang	Wolfgang	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
-2	Schäuble	Schäuble	PROPN	S	Case=Gen|Number=Sing	1	flat:name	_	_
+2	Schäuble	Schäuble	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	lahkumine	lahkumine	NOUN	S	Case=Nom|Number=Sing	9	nsubj:cop	_	_
 4	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 5	kogu	kogu	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
@@ -11375,7 +11375,7 @@
 6	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	7	nmod	_	_
 7	mentori	mentor	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
 8	Helmut	Helmut	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
-9	Kohli	Kohl	PROPN	S	Case=Gen|Number=Sing	8	flat:name	_	_
+9	Kohli	Kohl	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	kiiluvees	kiilu_vesi	NOUN	S	Case=Ine|Number=Sing	4	obl	_	_
 11	ja	ja	CCONJ	J	_	14	cc	_	_
 12	oli	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	14	aux	_	_
@@ -11528,7 +11528,7 @@
 7	”	”	PUNCT	Z	_	6	punct	_	_
 8	(	(	PUNCT	Z	_	9	punct	_	SpaceAfter=No
 9	Helmut	Helmut	PROPN	S	Case=Nom|Number=Sing	6	appos	_	_
-10	Kohli	Kohl	PROPN	S	Case=Par|Number=Sing	9	flat:name	_	SpaceAfter=No
+10	Kohli	Kohl	PROPN	S	Case=Par|Number=Sing	9	flat	_	SpaceAfter=No
 11	)	)	PUNCT	Z	_	9	punct	_	_
 12	kroonprintsil	kroon_prints	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 13	julgust	julgus	NOUN	S	Case=Par|Number=Sing	3	nsubj	_	_
@@ -11576,7 +11576,7 @@
 # sent_id = aja_pm20000218_625
 # text = MARK SOOSAAR
 1	MARK	Mark	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	SOOSAAR	Soo_saar	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	SOOSAAR	Soo_saar	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_626
 # text = filmirezhissöör
@@ -11864,7 +11864,7 @@
 20	muuseum	muuseum	NOUN	S	Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No
 21	,	,	PUNCT	Z	_	24	punct	_	_
 22	Kirstjan	Kirstjan	PROPN	S	Case=Nom|Number=Sing	24	nmod	_	_
-23	Raua	Raud	PROPN	S	Case=Gen|Number=Sing	22	flat:name	_	_
+23	Raua	Raud	PROPN	S	Case=Gen|Number=Sing	22	flat	_	_
 24	muuseum	muuseum	NOUN	S	Case=Nom|Number=Sing	9	conj	_	SpaceAfter=No
 25	,	,	PUNCT	Z	_	27	punct	_	_
 26	Niguliste	Niguliste	PROPN	S	Case=Gen|Number=Sing	27	nmod	_	_
@@ -12024,7 +12024,7 @@
 17	(	(	PUNCT	Z	_	21	punct	_	SpaceAfter=No
 18	seoses	seoses	ADP	K	AdpType=Prep	21	case	_	_
 19	Anu	Anu	PROPN	S	Case=Nom|Number=Sing	21	nmod	_	_
-20	Raua	Raud	PROPN	S	Case=Gen|Number=Sing	19	flat:name	_	_
+20	Raua	Raud	PROPN	S	Case=Gen|Number=Sing	19	flat	_	_
 21	tegevusega	tegevus	NOUN	S	Case=Com|Number=Sing	10	parataxis	_	_
 22	lähikonnas	lähikond	NOUN	S	Case=Ine|Number=Sing	21	nmod	_	SpaceAfter=No
 23	)	)	PUNCT	Z	_	21	punct	_	SpaceAfter=No
@@ -12980,7 +12980,7 @@
 4	kontserdisaalis	kontserdi_saal	NOUN	S	Case=Ine|Number=Sing	5	obl	_	_
 5	annab	andma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 6	Sonia	Sonia	PROPN	S	Case=Nom|Number=Sing	5	nsubj	_	_
-7	Sabri	Sabri	PROPN	S	Case=Gen|Number=Sing	6	flat:name	_	_
+7	Sabri	Sabri	PROPN	S	Case=Gen|Number=Sing	6	flat	_	_
 8	kõigile	kõik	DET	P	Case=All|Number=Plur|PronType=Tot	9	det	_	_
 9	tantsuhuvilistele	tantsu_huviline	NOUN	S	Case=All|Number=Plur	5	obl	_	_
 10	kaks	kaks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	12	nummod	_	_
@@ -12991,7 +12991,7 @@
 15	õhtul	õhtu	NOUN	S	Case=Ade|Number=Sing	16	obl	_	_
 16	toimub	toimuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
 17	Von	Von	PROPN	S	Case=Nom|Number=Sing	19	nmod	_	_
-18	Krahli	Krahl	PROPN	S	Case=Gen|Number=Sing	17	flat:name	_	_
+18	Krahli	Krahl	PROPN	S	Case=Gen|Number=Sing	17	flat	_	_
 19	teatris	teater	NOUN	S	Case=Ine|Number=Sing	16	obl	_	_
 20	kohalike	kohalik	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
 21	india	india	ADJ	G	_	22	amod	_	_
@@ -13090,7 +13090,7 @@
 1	Eile	eile	ADV	D	_	2	advmod	_	_
 2	linastus	linastuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Norman	Norman	PROPN	S	Case=Nom|Number=Sing	5	nmod	_	_
-4	Jewisoni	Jewison	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Jewisoni	Jewison	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	Oscari-kandidaat	Oscari-kandidaat	NOUN	S	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	Z	_	10	punct	_	_
 7	tõe	tõde	NOUN	S	Case=Gen|Number=Sing	10	nmod	_	_
@@ -13192,7 +13192,7 @@
 6	”	”	PUNCT	Z	_	5	punct	_	SpaceAfter=No
 7	,	,	PUNCT	Z	_	10	punct	_	_
 8	Milos	Milos	PROPN	S	Case=Nom|Number=Sing	10	nmod	_	_
-9	Formani	Forman	PROPN	S	Case=Gen|Number=Sing	8	flat:name	_	_
+9	Formani	Forman	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 10	portreteering	portreteering	NOUN	S	Case=Nom|Number=Sing	4	appos	_	_
 11	meelelahutustööstuse	meele_lahutus_tööstus	NOUN	S	Case=Gen|Number=Sing	13	nmod	_	_
 12	omaaegsest	oma_aegne	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	13	amod	_	_
@@ -13202,7 +13202,7 @@
 16	aastate	aasta	NOUN	S	Case=Gen|Number=Plur	17	nmod	_	_
 17	menukoomikust	menu_koomik	NOUN	S	Case=Ela|Number=Sing	13	appos	_	_
 18	Andy	Andy	PROPN	S	Case=Nom|Number=Sing	17	appos	_	_
-19	Kaufmanist	Kaufman	PROPN	S	Case=Ela|Number=Sing	18	flat:name	_	SpaceAfter=No
+19	Kaufmanist	Kaufman	PROPN	S	Case=Ela|Number=Sing	18	flat	_	SpaceAfter=No
 20	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_pm20000218_710
@@ -13286,7 +13286,7 @@
 12	Kompanii	Kompanii	PROPN	S	Case=Gen|Number=Sing	13	nmod	_	_
 13	õuerezhissööri	õue_rezhissöör	NOUN	S	Case=Gen|Number=Sing	21	nmod	_	_
 14	Kenneth	Kenneth	PROPN	S	Case=Nom|Number=Sing	13	appos	_	_
-15	Branagh'	Branagh	PROPN	S	Case=Gen|Number=Sing	14	flat:name	_	_
+15	Branagh'	Branagh	PROPN	S	Case=Gen|Number=Sing	14	flat	_	_
 16	teisipäeval	teisi_päev	NOUN	S	Case=Ade|Number=Sing	18	obl	_	_
 17	konkursiväliselt	konkursi_välise=lt	ADV	D	_	18	advmod	_	_
 18	näidatud	näitama	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	21	acl	_	_
@@ -13369,7 +13369,7 @@
 7	kuningas	kuningas	NOUN	S	Case=Nom|Number=Sing	12	nsubj	_	_
 8	(	(	PUNCT	Z	_	9	punct	_	SpaceAfter=No
 9	Alessandro	Alessandro	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
-10	Nivola	Nivola	PROPN	S	Case=Nom|Number=Sing	9	flat:name	_	SpaceAfter=No
+10	Nivola	Nivola	PROPN	S	Case=Nom|Number=Sing	9	flat	_	SpaceAfter=No
 11	)	)	PUNCT	Z	_	9	punct	_	_
 12	kutsub	kutsuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	_
 13	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	14	nmod	_	_
@@ -13472,13 +13472,13 @@
 39	lisaks	lisa	NOUN	S	Case=Tra|Number=Sing	41	nmod	_	_
 40	nimetatuile	nimetatud	ADJ	A	Case=All|Degree=Pos|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	39	amod	_	_
 41	Alicia	Alicia	PROPN	S	Case=Nom|Number=Sing	34	parataxis	_	_
-42	Silverstone	Silverstone	PROPN	S	Case=Nom|Number=Sing	41	flat:name	_	SpaceAfter=No
+42	Silverstone	Silverstone	PROPN	S	Case=Nom|Number=Sing	41	flat	_	SpaceAfter=No
 43	,	,	PUNCT	Z	_	44	punct	_	_
 44	Natascha	Natascha	PROPN	S	Case=Nom|Number=Sing	41	conj	_	_
-45	McElhone	McElhone	PROPN	S	Case=Nom|Number=Sing	44	flat:name	_	SpaceAfter=No
+45	McElhone	McElhone	PROPN	S	Case=Nom|Number=Sing	44	flat	_	SpaceAfter=No
 46	,	,	PUNCT	Z	_	47	punct	_	_
 47	Adrian	Adrian	PROPN	S	Case=Nom|Number=Sing	41	conj	_	_
-48	Lester	Lester	PROPN	S	Case=Nom|Number=Sing	47	flat:name	_	_
+48	Lester	Lester	PROPN	S	Case=Nom|Number=Sing	47	flat	_	_
 49	jt	jt	ADV	Y	Abbr=Yes	41	conj	_	SpaceAfter=No
 50	)	)	PUNCT	Z	_	41	punct	_	_
 51	laulma	laulma	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	34	xcomp	_	_
@@ -13524,7 +13524,7 @@
 3	rezhissöör	rezhissöör	NOUN	S	Case=Nom|Number=Sing	25	nsubj	_	_
 4	Paul	Paul	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
 5	Thomas	Thomas	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
-6	Anderson	Anderson	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+6	Anderson	Anderson	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 7	(	(	PUNCT	Z	_	13	punct	_	SpaceAfter=No
 8	Eesti	Eesti	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
 9	kinodest	kino	NOUN	S	Case=Ela|Number=Plur	13	obl	_	_
@@ -13540,7 +13540,7 @@
 19	töö	töö	NOUN	S	Case=Nom|Number=Sing	13	nsubj:cop	_	_
 20	“	“	PUNCT	Z	_	21	punct	_	_
 21	Boogie	Boogie	PROPN	S	Case=Nom|Number=Sing	19	appos	_	_
-22	Nights	Nights	PROPN	S	Case=Nom|Number=Sing	21	flat:name	_	_
+22	Nights	Nights	PROPN	S	Case=Nom|Number=Sing	21	flat	_	_
 23	”	”	PUNCT	Z	_	21	punct	_	SpaceAfter=No
 24	)	)	PUNCT	Z	_	21	punct	_	_
 25	pani	panema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
@@ -13554,10 +13554,10 @@
 33	bulvari	bulvar	NOUN	S	Case=Gen|Number=Sing	25	obl	_	_
 34	järgi	järgi	ADP	K	AdpType=Post	33	case	_	_
 35	San	San	PROPN	S	Case=Nom|Number=Sing	37	nmod	_	_
-36	Fernando	Fernando	PROPN	S	Case=Gen|Number=Sing	35	flat:name	_	_
+36	Fernando	Fernando	PROPN	S	Case=Gen|Number=Sing	35	flat	_	_
 37	orus	org	NOUN	S	Case=Ine|Number=Sing	33	nmod	_	_
 38	Los	Los	PROPN	S	Case=Ine|Number=Sing	37	nmod	_	_
-39	Angeleses	Angeles	PROPN	S	Case=Ine|Number=Sing	38	flat:name	_	SpaceAfter=No
+39	Angeleses	Angeles	PROPN	S	Case=Ine|Number=Sing	38	flat	_	SpaceAfter=No
 40	.	.	PUNCT	Z	_	25	punct	_	_
 
 # sent_id = aja_pm20000218_723
@@ -13694,7 +13694,7 @@
 39	uhkelt	uhkelt	ADV	D	_	37	conj	_	_
 40	mängiv	mängiv	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	41	acl	_	_
 41	Tom	Tom	PROPN	S	Case=Nom|Number=Sing	34	nmod	_	_
-42	Cruise	Cruise	PROPN	S	Case=Nom|Number=Sing	41	flat:name	_	SpaceAfter=No
+42	Cruise	Cruise	PROPN	S	Case=Nom|Number=Sing	41	flat	_	SpaceAfter=No
 43	)	)	PUNCT	Z	_	41	punct	_	_
 44	hinge	hing	NOUN	S	Case=Add|Number=Sing	45	obl	_	_
 45	proovib	proovima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	26	acl:relcl	_	_
@@ -13766,7 +13766,7 @@
 25	hästi	hästi	ADV	D	_	20	advmod	_	_
 26	meeles	meel	NOUN	S	Case=Ine|Number=Sing	20	obl	_	_
 27	Robert	Robert	PROPN	S	Case=Nom|Number=Sing	30	nmod	_	_
-28	Altmani	Altman	PROPN	S	Case=Gen|Number=Sing	27	flat:name	_	_
+28	Altmani	Altman	PROPN	S	Case=Gen|Number=Sing	27	flat	_	_
 29	kuulsat	kuulus	ADJ	A	Case=Par|Degree=Pos|Number=Sing	30	amod	_	_
 30	LA-päevakroonikat	LA-päeva_kroonika	NOUN	S	Case=Par|Number=Sing	20	obj	_	_
 31	“	“	PUNCT	Z	_	32	punct	_	_
@@ -13786,7 +13786,7 @@
 7	lihtsalt	lihtsalt	ADV	D	_	9	advmod	_	_
 8	“	“	PUNCT	Z	_	9	punct	_	_
 9	Short	Short	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-10	Cuts	Cuts	PROPN	S	Case=Nom|Number=Sing	9	flat:name	_	_
+10	Cuts	Cuts	PROPN	S	Case=Nom|Number=Sing	9	flat	_	_
 11	2	2	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	9	nummod	_	_
 12	”	”	PUNCT	Z	_	9	punct	_	SpaceAfter=No
 13	.	.	PUNCT	Z	_	9	punct	_	_
@@ -13901,7 +13901,7 @@
 1	Saksa	Saksa	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	kinoklassiku	kino_klassik	NOUN	S	Case=Gen|Number=Sing	16	nmod	_	_
 3	Volker	Volker	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
-4	Schlöndorffi	Schlöndorff	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Schlöndorffi	Schlöndorff	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	(	(	PUNCT	Z	_	8	punct	_	SpaceAfter=No
 6	kes	kes	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	8	nsubj	_	_
 7	ei	ei	AUX	V	Polarity=Neg	8	aux	_	_
@@ -14029,7 +14029,7 @@
 21	võistlejaks	võistleja	NOUN	S	Case=Tra|Number=Sing	18	xcomp	_	_
 22	näiteks	näide	NOUN	S	Case=Tra|Number=Sing	18	xcomp	_	_
 23	Wim	Wim	PROPN	S	Case=Nom|Number=Sing	28	nmod	_	_
-24	Wendersi	Wenders	PROPN	S	Case=Gen|Number=Sing	23	flat:name	_	_
+24	Wendersi	Wenders	PROPN	S	Case=Gen|Number=Sing	23	flat	_	_
 25	“	“	PUNCT	Z	_	28	punct	_	_
 26	Miljoni	miljon	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	27	nummod	_	_
 27	dollari	dollar	NOUN	S	Case=Gen|Number=Sing	28	nmod	_	_
@@ -14105,7 +14105,7 @@
 7	brasiilia	brasiilia	ADJ	G	_	8	amod	_	_
 8	rezhissöörilt	rezhissöör	NOUN	S	Case=Abl|Number=Sing	0	root	_	_
 9	Bruno	Bruno	PROPN	S	Case=Nom|Number=Sing	8	appos	_	_
-10	Barrettolt	Barretto	PROPN	S	Case=Abl|Number=Sing	9	flat:name	_	SpaceAfter=No
+10	Barrettolt	Barretto	PROPN	S	Case=Abl|Number=Sing	9	flat	_	SpaceAfter=No
 11	.	.	PUNCT	Z	_	8	punct	_	_
 
 # sent_id = aja_pm20000218_746
@@ -14119,7 +14119,7 @@
 3	üks	üks	DET	P	Case=Nom|Number=Sing|PronType=Ind	4	det	_	_
 4	esikujusid	esi_kuju	NOUN	S	Case=Par|Number=Plur	9	nsubj:cop	_	_
 5	Claude	Claude	PROPN	S	Case=Nom|Number=Sing	4	appos	_	_
-6	Delangle	Delangle	PROPN	S	Case=Nom|Number=Sing	5	flat:name	_	_
+6	Delangle	Delangle	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 7	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	_
 8	nõutud	nõu=tud	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	9	amod	_	_
 9	muusik	muusik	NOUN	S	Case=Nom|Number=Sing	0	root	_	SpaceAfter=No
@@ -14131,7 +14131,7 @@
 2	aastal	aasta	NOUN	S	Case=Ade|Number=Sing	3	obl	_	_
 3	kutsus	kutsuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 4	Pierre	Pierre	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-5	Boulez	Boulez	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+5	Boulez	Boulez	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ta	tema	PRON	P	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
 7	ansambli	ansambel	NOUN	S	Case=Gen|Number=Sing	9	nmod	_	_
 8	InterContemporain	InterContemporain	PROPN	S	Case=Nom|Number=Sing	7	appos	_	_
@@ -14151,13 +14151,13 @@
 22	teinud	tegema	VERB	V	Tense=Past|VerbForm=Part|Voice=Act	18	parataxis	_	_
 23	koostööd	koos_töö	NOUN	S	Case=Nom|Number=Plur	22	obj	_	_
 24	Luciano	Luciano	PROPN	S	Case=Nom|Number=Sing	22	obl	_	_
-25	Berioga	Berio	PROPN	S	Case=Com|Number=Sing	24	flat:name	_	SpaceAfter=No
+25	Berioga	Berio	PROPN	S	Case=Com|Number=Sing	24	flat	_	SpaceAfter=No
 26	,	,	PUNCT	Z	_	27	punct	_	_
 27	Edison	Edison	PROPN	S	Case=Nom|Number=Sing	24	conj	_	_
-28	Denissovi	Denissov	PROPN	S	Case=Gen|Number=Sing	27	flat:name	_	_
+28	Denissovi	Denissov	PROPN	S	Case=Gen|Number=Sing	27	flat	_	_
 29	ja	ja	CCONJ	J	_	30	cc	_	_
 30	Karlheinz	Karlheinz	PROPN	S	Case=Nom|Number=Sing	24	conj	_	_
-31	Stockhauseniga	Stockhausen	PROPN	S	Case=Gen|Number=Sing	30	flat:name	_	SpaceAfter=No
+31	Stockhauseniga	Stockhausen	PROPN	S	Case=Gen|Number=Sing	30	flat	_	SpaceAfter=No
 32	,	,	PUNCT	Z	_	35	punct	_	_
 33	mitmete	mitu	PRON	P	Case=Gen|Number=Plur|PronType=Ind	35	nmod	_	_
 34	nimekate	nimekas	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	35	amod	_	_
@@ -14287,7 +14287,7 @@
 11	töötluse	töötlus	NOUN	S	Case=Gen|Number=Sing	3	obl	_	SpaceAfter=No
 12	,	,	PUNCT	Z	_	16	punct	_	_
 13	Luciano	Luciano	PROPN	S	Case=Nom|Number=Sing	16	nmod	_	_
-14	Berio	Berio	PROPN	S	Case=Gen|Number=Sing	13	flat:name	_	_
+14	Berio	Berio	PROPN	S	Case=Gen|Number=Sing	13	flat	_	_
 15	avangardsete	avangardne	ADJ	A	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
 16	keerukuste	keerukus	NOUN	S	Case=Gen|Number=Plur	11	conj	_	_
 17	ja	ja	CCONJ	J	_	20	cc	_	_
@@ -14358,7 +14358,7 @@
 # sent_id = aja_pm20000218_760
 # text = Luciano Berio nurgelise meloodikaga ja hüpliku mõttega teose “ Sequenza IXb ” (1980) mängis Delangle'i soolosaksofon eriti tihedaks.
 1	Luciano	Luciano	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
-2	Berio	Berio	PROPN	S	Case=Gen|Number=Sing	1	flat:name	_	_
+2	Berio	Berio	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	nurgelise	nurgeline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	4	amod	_	_
 4	meloodikaga	meloodika	NOUN	S	Case=Com|Number=Sing	8	nmod	_	_
 5	ja	ja	CCONJ	J	_	7	cc	_	_
@@ -14367,7 +14367,7 @@
 8	teose	teos	NOUN	S	Case=Gen|Number=Sing	16	obj	_	_
 9	“	“	PUNCT	Z	_	10	punct	_	_
 10	Sequenza	Sequenza	PROPN	S	Case=Nom|Number=Sing	8	appos	_	_
-11	IXb	IXb	PROPN	S	Case=Nom|Number=Sing	10	flat:name	_	_
+11	IXb	IXb	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
 12	”	”	PUNCT	Z	_	10	punct	_	_
 13	(	(	PUNCT	Z	_	14	punct	_	SpaceAfter=No
 14	1980	1980	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	10	nummod	_	SpaceAfter=No
@@ -14939,10 +14939,10 @@
 4	Ühispanka	Ühis_pank	PROPN	S	Case=Add|Number=Sing	3	obl	_	_
 5	tööle	töö	NOUN	S	Case=All|Number=Sing	3	obl	_	_
 6	Johan	Johan	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-7	Lindh	Lindh	PROPN	S	Case=Nom|Number=Sing	6	flat:name	_	SpaceAfter=No
+7	Lindh	Lindh	PROPN	S	Case=Nom|Number=Sing	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	Z	_	13	punct	_	_
 9	New	New	PROPN	S	Case=Ine|Number=Sing	11	nmod	_	_
-10	Yorgis	York	PROPN	S	Case=Ine|Number=Sing	9	flat:name	_	_
+10	Yorgis	York	PROPN	S	Case=Ine|Number=Sing	9	flat	_	_
 11	töötamise	töötamine	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
 12	kogemusega	kogemus	NOUN	S	Case=Com|Number=Sing	13	nmod	_	_
 13	rootslane	rootslane	NOUN	S	Case=Nom|Number=Sing	6	appos	_	SpaceAfter=No
@@ -15200,11 +15200,11 @@
 8	Eestile	Eesti	PROPN	S	Case=All|Number=Sing	3	obl	_	_
 9	-	-	PUNCT	Z	_	13	punct	_	_
 10	Saules	Saules	PROPN	S	Case=Nom|Number=Sing	13	obj	_	_
-11	Banka	Bank	PROPN	S	Case=Gen|Number=Sing	10	flat:name	_	_
+11	Banka	Bank	PROPN	S	Case=Gen|Number=Sing	10	flat	_	_
 12	Lätis	Läti	PROPN	S	Case=Ine|Number=Sing	13	obl	_	_
 13	müüsime	müüma	VERB	V	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 14	Ernesto	Ernesto	PROPN	S	Case=Nom|Number=Sing	13	obl	_	_
-15	Preatonile	Preatoni	PROPN	S	Case=All|Number=Sing	14	flat:name	_	SpaceAfter=No
+15	Preatonile	Preatoni	PROPN	S	Case=All|Number=Sing	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	Z	_	20	punct	_	_
 17	teiste	teine	DET	P	Case=Gen|Number=Plur|PronType=Dem	18	det	_	_
 18	tütarfirmade	tütar_firma	NOUN	S	Case=Gen|Number=Plur	19	nmod	_	_
@@ -15707,7 +15707,7 @@
 11	,	,	PUNCT	Z	_	13	punct	_	_
 12	nagu	nagu	SCONJ	J	_	13	mark	_	_
 13	Landesbank	Landesbank	PROPN	S	Case=Nom|Number=Sing	10	advcl	_	_
-14	Kiel	Kiel	PROPN	S	Case=Nom|Number=Sing	13	flat:name	_	SpaceAfter=No
+14	Kiel	Kiel	PROPN	S	Case=Nom|Number=Sing	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	Z	_	17	punct	_	_
 16	Põhjamaade	Põhja_maa	PROPN	S	Case=Gen|Number=Plur	17	nmod	_	_
 17	Investeerimispank	Investeerimis_pank	PROPN	S	Case=Nom|Number=Sing	13	conj	_	SpaceAfter=No
@@ -15766,7 +15766,7 @@
 1	Nagu	nagu	ADV	D	_	2	advmod	_	_
 2	kinnitas	kinnitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	Kurt	Kurt	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
-4	Ritter	Ritter	PROPN	S	Case=Nom|Number=Sing	3	flat:name	_	SpaceAfter=No
+4	Ritter	Ritter	PROPN	S	Case=Nom|Number=Sing	3	flat	_	SpaceAfter=No
 5	,	,	PUNCT	Z	_	8	punct	_	_
 6	SAS	SAS	PROPN	Y	Abbr=Yes	8	nmod	_	_
 7	Radissoni	Radisson	PROPN	S	Case=Gen|Number=Sing	6	flat	_	_
@@ -15791,10 +15791,10 @@
 2	Eestis	Eesti	PROPN	S	Case=Ine|Number=Sing	3	obl	_	_
 3	esindavad	esindav	ADJ	A	Case=Nom|Degree=Pos|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	4	acl	_	_
 4	Indrek	Indrek	PROPN	S	Case=Nom|Number=Sing	13	nsubj	_	_
-5	Toome	Toome	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+5	Toome	Toome	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	ja	ja	CCONJ	J	_	7	cc	_	_
 7	Aivar	Aivar	PROPN	S	Case=Nom|Number=Sing	4	conj	_	_
-8	Ild	Ild	PROPN	S	Case=Nom|Number=Sing	7	flat:name	_	_
+8	Ild	Ild	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
 9	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	13	aux	_	_
 10	uue	uus	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	11	amod	_	_
 11	hotelli	hotell	NOUN	S	Case=Gen|Number=Sing	12	nmod	_	_
@@ -15859,7 +15859,7 @@
 13	hotelliketti	hotelli_kett	NOUN	S	Case=Add|Number=Sing	14	obl	_	_
 14	kuuluv	kuuluv	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	15	acl	_	_
 15	Santa	Santa	PROPN	S	Case=Nom|Number=Sing	4	nsubj:cop	_	_
-16	Barbara	Barbara	PROPN	S	Case=Nom|Number=Sing	15	flat:name	_	_
+16	Barbara	Barbara	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
 17	Tallinnas	Tallinn	PROPN	S	Case=Ine|Number=Sing	15	nmod	_	_
 18	(	(	PUNCT	Z	_	20	punct	_	SpaceAfter=No
 19	84	84	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	20	nummod	_	_
@@ -15877,8 +15877,8 @@
 31	)	)	PUNCT	Z	_	30	punct	_	SpaceAfter=No
 32	,	,	PUNCT	Z	_	30	punct	_	_
 33	Consul	Consul	PROPN	S	Case=Nom|Number=Sing	15	conj	_	_
-34	Schlössle	Schlössle	PROPN	S	Case=Nom|Number=Sing	33	flat:name	_	_
-35	Hotell	Hotell	PROPN	S	Case=Nom|Number=Sing	33	flat:name	_	_
+34	Schlössle	Schlössle	PROPN	S	Case=Nom|Number=Sing	33	flat	_	_
+35	Hotell	Hotell	PROPN	S	Case=Nom|Number=Sing	33	flat	_	_
 36	(	(	PUNCT	Z	_	37	punct	_	SpaceAfter=No
 37	65	65	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	33	nummod	_	SpaceAfter=No
 38	)	)	PUNCT	Z	_	37	punct	_	SpaceAfter=No
@@ -16034,7 +16034,7 @@
 1	Rahandusministeeriumi	rahandus_ministeerium	NOUN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	nõuniku	nõunik	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 3	Daniel	Daniel	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
-4	Vaariku	Vaarik	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Vaariku	Vaarik	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	12	obl	_	_
 6	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	cop	_	_
 7	aktsiisi	aktsiis	NOUN	S	Case=Par|Number=Sing	8	obl	_	_
@@ -16103,7 +16103,7 @@
 2	Statoili	Stat_oil	PROPN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	peadirektori	pea_direktor	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 4	Epp	Epp	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
-5	Kiviaia	Kivi_aed	PROPN	S	Case=Gen|Number=Sing	4	flat:name	_	_
+5	Kiviaia	Kivi_aed	PROPN	S	Case=Gen|Number=Sing	4	flat	_	_
 6	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	7	obl	_	_
 7	mõjub	mõjuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 8	selle	see	DET	P	Case=Gen|Number=Sing|PronType=Dem	9	det	_	_
@@ -17006,13 +17006,13 @@
 # sent_id = aja_pm20000218_912
 # text = San Antonio Spursiga NBA meistriks kroonitud Sean Elliott püüab neerusiirdamise kiuste taas tippkorvpallis kaasa lüüa.
 1	San	San	PROPN	S	Case=Nom|Number=Sing	6	obl	_	_
-2	Antonio	Antonio	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
-3	Spursiga	Spurs	PROPN	S	Case=Com|Number=Sing	1	flat:name	_	_
+2	Antonio	Antonio	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
+3	Spursiga	Spurs	PROPN	S	Case=Com|Number=Sing	1	flat	_	_
 4	NBA	NBA	PROPN	Y	Abbr=Yes	5	nmod	_	_
 5	meistriks	meister	NOUN	S	Case=Tra|Number=Sing	6	nmod	_	_
 6	kroonitud	krooni=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	_
 7	Sean	Sean	PROPN	S	Case=Nom|Number=Sing	9	nsubj	_	_
-8	Elliott	Elliott	PROPN	S	Case=Nom|Number=Sing	7	flat:name	_	_
+8	Elliott	Elliott	PROPN	S	Case=Nom|Number=Sing	7	flat	_	_
 9	püüab	püüdma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 10	neerusiirdamise	neeru_siirdamine	NOUN	S	Case=Gen|Number=Sing	9	obl	_	_
 11	kiuste	kiuste	ADP	K	AdpType=Post	10	case	_	_
@@ -17026,7 +17026,7 @@
 # text = Kui San Antonio meeskonna peatreener Gregg Popovich viis kuud pärast operatsiooni Elliotti NBA meistritiitli kaitsjatega üks ühe vastu mängimas nägi, andis ta korralduse Elliott platsi äärde kutsuda.
 1	Kui	kui	SCONJ	J	_	20	mark	_	_
 2	San	San	PROPN	S	Case=Nom|Number=Sing	4	nmod	_	_
-3	Antonio	Antonio	PROPN	S	Case=Gen|Number=Sing	2	flat:name	_	_
+3	Antonio	Antonio	PROPN	S	Case=Gen|Number=Sing	2	flat	_	_
 4	meeskonna	meeskond	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 5	peatreener	pea_treener	NOUN	S	Case=Nom|Number=Sing	20	nsubj	_	_
 6	Gregg	Gregg	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
@@ -17240,10 +17240,10 @@
 3	talvel	talv	NOUN	S	Case=Ade|Number=Sing	4	obl	_	_
 4	müüs	müüma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 5	Detroit	Detroit	PROPN	S	Case=Nom|Number=Sing	4	nsubj	_	_
-6	Pistons	Pistons	PROPN	S	Case=Nom|Number=Sing	5	flat:name	_	_
+6	Pistons	Pistons	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 7	Elliotti	Elliotti	PROPN	S	Case=Gen|Number=Sing	4	obj	_	_
 8	Houston	Houston	PROPN	S	Case=Nom|Number=Sing	4	obl	_	_
-9	Rocketsile	Roc_kets	PROPN	S	Case=All|Number=Sing	8	flat:name	_	SpaceAfter=No
+9	Rocketsile	Roc_kets	PROPN	S	Case=All|Number=Sing	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	Z	_	15	punct	_	_
 11	kuid	kuid	CCONJ	J	_	15	cc	_	_
 12	haige	haige	ADJ	A	Case=Nom|Degree=Pos|Number=Sing	13	amod	_	_
@@ -17263,7 +17263,7 @@
 5	värbas	värbama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 6	Seani	Sean	PROPN	S	Case=Gen|Number=Sing	5	obj	_	_
 7	San	San	PROPN	S	Case=Nom|Number=Sing	5	obl	_	_
-8	Antoniosse	Antonio	PROPN	S	Case=Ill|Number=Sing	7	flat:name	_	_
+8	Antoniosse	Antonio	PROPN	S	Case=Ill|Number=Sing	7	flat	_	_
 9	tagasi	tagasi	ADV	D	_	5	advmod	_	_
 10	-	-	PUNCT	Z	_	18	punct	_	_
 11	seal	seal	ADV	D	_	18	advmod	_	_
@@ -17305,8 +17305,8 @@
 8	finaalis	finaal	NOUN	S	Case=Ine|Number=Sing	4	obl	_	_
 9	seeriavõidu	seeria_võit	NOUN	S	Case=Gen|Number=Sing	4	obj	_	_
 10	Portland	Portland	PROPN	S	Case=Nom|Number=Sing	4	obl	_	_
-11	Trail	Trail	PROPN	S	Case=Nom|Number=Sing	10	flat:name	_	_
-12	Blazersi	Blazers	PROPN	S	Case=Gen|Number=Sing	10	flat:name	_	_
+11	Trail	Trail	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
+12	Blazersi	Blazers	PROPN	S	Case=Gen|Number=Sing	10	flat	_	_
 13	üle	üle	ADP	K	AdpType=Post	10	case	_	SpaceAfter=No
 14	.	.	PUNCT	Z	_	4	punct	_	_
 
@@ -17402,7 +17402,7 @@
 2	teadis	teadma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	üksnes	üksnes	ADV	D	_	2	advmod	_	_
 4	Steve	Steve	PROPN	S	Case=Nom|Number=Sing	2	nsubj	_	_
-5	Kerr	Kerr	PROPN	S	Case=Nom|Number=Sing	4	flat:name	_	_
+5	Kerr	Kerr	PROPN	S	Case=Nom|Number=Sing	4	flat	_	_
 6	Elliotti	Elliott	PROPN	S	Case=Gen|Number=Sing	7	nmod	_	_
 7	haigusest	haigus	NOUN	S	Case=Ela|Number=Sing	2	obl	_	SpaceAfter=No
 8	.	.	PUNCT	Z	_	2	punct	_	_
@@ -17430,7 +17430,7 @@
 6	viimast	viimane	ADJ	A	Case=Par|Degree=Pos|Number=Sing	7	amod	_	_
 7	finaalmängu	finaal_mäng	NOUN	S	Case=Par|Number=Sing	5	obj	_	_
 8	New	New	PROPN	S	Case=Nom|Number=Sing	7	nmod	_	_
-9	York	York	PROPN	S	Case=Nom|Number=Sing	8	flat:name	_	_
+9	York	York	PROPN	S	Case=Nom|Number=Sing	8	flat	_	_
 10	Knicksi	Knicks	PROPN	S	Case=Gen|Number=Sing	8	flat	_	_
 11	vastu	vastu	ADP	K	AdpType=Post	8	case	_	_
 12	Elliotti	Elliott	PROPN	S	Case=Gen|Number=Sing	13	obl	_	_
@@ -17454,10 +17454,10 @@
 13	”	”	PUNCT	Z	_	3	punct	_	_
 14	rääkis	rääkima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	3	parataxis	_	_
 15	Noel	Noel	PROPN	S	Case=Nom|Number=Sing	14	nsubj	_	_
-16	Elliott	Elliott	PROPN	S	Case=Nom|Number=Sing	15	flat:name	_	_
+16	Elliott	Elliott	PROPN	S	Case=Nom|Number=Sing	15	flat	_	_
 17	ajakirjale	aja_kiri	NOUN	S	Case=All|Number=Sing	14	obl	_	_
 18	Sports	Sports	PROPN	S	Case=Nom|Number=Sing	17	appos	_	_
-19	Illustrated	Illustrated	PROPN	S	Case=Nom|Number=Sing	18	flat:name	_	SpaceAfter=No
+19	Illustrated	Illustrated	PROPN	S	Case=Nom|Number=Sing	18	flat	_	SpaceAfter=No
 20	.	.	PUNCT	Z	_	3	punct	_	_
 
 # sent_id = aja_pm20000218_939
@@ -17616,16 +17616,16 @@
 5	üles	üles	ADV	D	_	6	compound:prt	_	_
 6	antud	andma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
 7	Indrek	Indrek	PROPN	S	Case=Nom|Number=Sing	6	obj	_	_
-8	Tobreluts	Tobreluts	PROPN	S	Case=Nom|Number=Sing	7	flat:name	_	SpaceAfter=No
+8	Tobreluts	Tobreluts	PROPN	S	Case=Nom|Number=Sing	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	Z	_	10	punct	_	_
 10	Dimitri	Dimitri	PROPN	S	Case=Nom|Number=Sing	7	conj	_	_
-11	Borovik	Borovik	PROPN	S	Case=Nom|Number=Sing	10	flat:name	_	SpaceAfter=No
+11	Borovik	Borovik	PROPN	S	Case=Nom|Number=Sing	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	Z	_	13	punct	_	_
 13	Janno	Janno	PROPN	S	Case=Nom|Number=Sing	7	conj	_	_
-14	Prants	Prants	PROPN	S	Case=Nom|Number=Sing	13	flat:name	_	_
+14	Prants	Prants	PROPN	S	Case=Nom|Number=Sing	13	flat	_	_
 15	ja	ja	CCONJ	J	_	16	cc	_	_
 16	Roland	Roland	PROPN	S	Case=Nom|Number=Sing	7	conj	_	_
-17	Lessing	Lessing	PROPN	S	Case=Nom|Number=Sing	16	flat:name	_	SpaceAfter=No
+17	Lessing	Lessing	PROPN	S	Case=Nom|Number=Sing	16	flat	_	SpaceAfter=No
 18	,	,	PUNCT	Z	_	21	punct	_	_
 19	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	20	nmod	_	_
 20	võimalust	võimalus	NOUN	S	Case=Par|Number=Sing	21	obj	_	_
@@ -17633,7 +17633,7 @@
 22	esialgu	esi_algu	ADV	D	_	21	advmod	_	_
 23	ootama	ootama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	21	xcomp	_	_
 24	Margus	Margus	PROPN	S	Case=Nom|Number=Sing	21	nsubj	_	_
-25	Ader	Ader	PROPN	S	Case=Nom|Number=Sing	24	flat:name	_	SpaceAfter=No
+25	Ader	Ader	PROPN	S	Case=Nom|Number=Sing	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	Z	_	6	punct	_	_
 
 # sent_id = aja_pm20000218_948
@@ -17864,10 +17864,10 @@
 4	kerkinud	kerki=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
 5	judomaadlejad	judo_maadleja	NOUN	S	Case=Nom|Number=Plur	11	nsubj	_	_
 6	Indrek	Indrek	PROPN	S	Case=Nom|Number=Sing	5	appos	_	_
-7	Pertelson	Pertelson	PROPN	S	Case=Nom|Number=Sing	6	flat:name	_	_
+7	Pertelson	Pertelson	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
 8	ja	ja	CCONJ	J	_	9	cc	_	_
 9	Aleksei	Aleksei	PROPN	S	Case=Nom|Number=Sing	6	conj	_	_
-10	Budõlin	Budõlin	PROPN	S	Case=Nom|Number=Sing	9	flat:name	_	_
+10	Budõlin	Budõlin	PROPN	S	Case=Nom|Number=Sing	9	flat	_	_
 11	pidasid	pidama	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 12	järgnenud	järgne=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	13	acl	_	_
 13	treeningulaagrit	treeningu_laager	NOUN	S	Case=Par|Number=Sing	11	obj	_	_
@@ -18579,7 +18579,7 @@
 3	turniiri	turniir	NOUN	S	Case=Gen|Number=Sing	4	obj	_	_
 4	võitnud	võit=nud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	5	acl	_	_
 5	Indrek	Indrek	PROPN	S	Case=Nom|Number=Sing	7	obl	_	_
-6	Pertelsoni	Pertelson	PROPN	S	Case=Add|Number=Sing	5	flat:name	_	_
+6	Pertelsoni	Pertelson	PROPN	S	Case=Add|Number=Sing	5	flat	_	_
 7	suhtusid	suhtuma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 8	pealtvaatajad	pealt_vaataja	NOUN	S	Case=Nom|Number=Plur	7	nsubj	_	_
 9	ilmse	ilmne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	10	amod	_	_
@@ -18675,7 +18675,7 @@
 # sent_id = aja_pm20000218_1009
 # text = Lester Brown kinnitab: majanduse ja keskkonna huvid on äärmiselt vastuolulised
 1	Lester	Lester	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	kinnitab	kinnitama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
 4	:	:	PUNCT	Z	_	11	punct	_	_
 5	majanduse	majandus	NOUN	S	Case=Gen|Number=Sing	8	nmod	_	_
@@ -18689,7 +18689,7 @@
 # sent_id = aja_pm20000218_1010
 # text = Worldwatch Institute'i asutaja ja direktor Lester Brown viibis eile Tallinnas eesti keeles välja antud maailma keskkonnaülevaate esitlusel.
 1	Worldwatch	Worldwatch	PROPN	S	Case=Nom|Number=Sing	3	nmod	_	_
-2	Institute'i	Institute	PROPN	S	Case=Gen|Number=Sing	1	flat:name	_	_
+2	Institute'i	Institute	PROPN	S	Case=Gen|Number=Sing	1	flat	_	_
 3	asutaja	asutaja	NOUN	S	Case=Nom|Number=Sing	8	nsubj	_	_
 4	ja	ja	CCONJ	J	_	5	cc	_	_
 5	direktor	direktor	NOUN	S	Case=Nom|Number=Sing	3	conj	_	_
@@ -18710,7 +18710,7 @@
 # sent_id = aja_pm20000218_1011
 # text = Peeter Sirge
 1	Peeter	Peeter	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Sirge	Sirge	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Sirge	Sirge	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_1012
 # text = Worldwatchi instituudi direktor Lester Brown manitseb Eestit keskkonna säästmiseks hoolega kaaluma poliitilisi otsuseid, mis teevad siia tulevate Lääne investeeringute seast valiku.
@@ -18960,7 +18960,7 @@
 1	Rääkisin	rääkima	VERB	V	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 2	peaminister	pea_minister	NOUN	S	Case=Nom|Number=Sing	1	obl	_	_
 3	Mart	Mart	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
-4	Laariga	Laar	PROPN	S	Case=Com|Number=Sing	3	flat:name	_	_
+4	Laariga	Laar	PROPN	S	Case=Com|Number=Sing	3	flat	_	_
 5	näiteks	näiteks	ADV	D	_	1	advmod	_	_
 6	tuulejõu	tuule_jõud	NOUN	S	Case=Gen|Number=Sing	7	nmod	_	_
 7	võimalustest	võimalus	NOUN	S	Case=Ela|Number=Plur	1	obl	_	SpaceAfter=No
@@ -19740,12 +19740,12 @@
 # sent_id = aja_pm20000218_1083
 # text = Einar Tammur
 1	Einar	Einar	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Tammur	Tammur	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Tammur	Tammur	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_1084
 # text = Einar Tammur
 1	Einar	Einar	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Tammur	Tammur	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Tammur	Tammur	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_1085
 # text = looduskaitseühingu Kotkas juhataja
@@ -19882,7 +19882,7 @@
 # sent_id = aja_pm20000218_1091
 # text = Heiki Kranich
 1	Heiki	Heiki	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Kranich	Kranich	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Kranich	Kranich	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_1092
 # text = keskkonnaminister
@@ -19970,7 +19970,7 @@
 # sent_id = aja_pm20000218_1098
 # text = Aadu Luukas
 1	Aadu	Aadu	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-2	Luukas	Luukas	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Luukas	Luukas	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 
 # sent_id = aja_pm20000218_1099
 # text = Eesti suurettevõtjate assotsiatsiooni esimees
@@ -19982,7 +19982,7 @@
 # sent_id = aja_pm20000218_1100
 # text = Lester Brown otsib tasakaalu majandus- ja keskkonnahuvide vahel.
 1	Lester	Lester	PROPN	S	Case=Nom|Number=Sing	3	nsubj	_	_
-2	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	1	flat:name	_	_
+2	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	1	flat	_	_
 3	otsib	otsima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 4	tasakaalu	tasa_kaal	NOUN	S	Case=Gen|Number=Sing	3	obj	_	_
 5	majandus-	majandus	NOUN	S	Case=Nom|Hyph=Yes|Number=Sing	3	obl	_	_
@@ -20078,7 +20078,7 @@
 3	peale	peale	ADP	K	AdpType=Post	2	case	_	_
 4	direktoriks	direktor	NOUN	S	Case=Tra|Number=Sing	5	xcomp	_	_
 5	Lester	Lester	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-6	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	5	flat:name	_	_
+6	Brown	Brown	PROPN	S	Case=Nom|Number=Sing	5	flat	_	_
 7	ja	ja	CCONJ	J	_	9	cc	_	_
 8	asukohaks	asu_koht	NOUN	S	Case=Tra|Number=Sing	9	xcomp	_	_
 9	Washington	Washington	PROPN	S	Case=Nom|Number=Sing	5	conj	_	_
@@ -20173,7 +20173,7 @@
 25	mõjukaima	mõjuka=im	ADJ	A	Case=Gen|Degree=Sup|Number=Sing	26	amod	_	_
 26	keskkonnainstituudi	keskkonna_instituut	NOUN	S	Case=Gen|Number=Sing	29	nmod	_	_
 27	Worldwatch	Worldwatch	PROPN	S	Case=Nom|Number=Sing	26	appos	_	_
-28	Institute	Institute	PROPN	S	Case=Gen|Number=Sing	27	flat:name	_	_
+28	Institute	Institute	PROPN	S	Case=Gen|Number=Sing	27	flat	_	_
 29	väljaannet	välja_anne	NOUN	S	Case=Par|Number=Sing	18	appos	_	SpaceAfter=No
 30	.	.	PUNCT	Z	_	2	punct	_	_
 
@@ -20440,7 +20440,7 @@
 9	vaatama	vaatama	VERB	V	Case=Ill|VerbForm=Sup|Voice=Act	10	xcomp	_	_
 10	läinud	läinud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act	11	acl	_	_
 11	Raivo	Raivo	PROPN	S	Case=Nom|Number=Sing	0	root	_	_
-12	Riisil	Riis	PROPN	S	Case=Ade|Number=Sing	11	flat:name	_	_
+12	Riisil	Riis	PROPN	S	Case=Ade|Number=Sing	11	flat	_	_
 13	ei	ei	AUX	V	Polarity=Neg	11	aux	_	_
 14	olnud	olema	AUX	V	Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
 15	sel	see	DET	P	Case=Ade|Number=Sing|PronType=Dem	16	det	_	_
@@ -20873,7 +20873,7 @@
 4	ilma	ilma	ADV	D	_	5	advmod	_	_
 5	jäänud	jäänu	NOUN	S	Case=Nom|Number=Plur	6	amod	_	_
 6	Raivo	Raivo	PROPN	S	Case=Nom|Number=Sing	8	nsubj	_	_
-7	Riis	Riis	PROPN	S	Case=Nom|Number=Sing	6	flat:name	_	_
+7	Riis	Riis	PROPN	S	Case=Nom|Number=Sing	6	flat	_	_
 8	hindab	hindama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 9	talle	tema	PRON	P	Case=All|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
 10	tekitatud	tekita=tud	ADJ	A	Degree=Pos|Tense=Past|VerbForm=Part|Voice=Pass	11	acl	_	_
@@ -21292,7 +21292,7 @@
 8	)	)	PUNCT	Z	_	7	punct	_	_
 9	ja	ja	CCONJ	J	_	10	cc	_	_
 10	Liliana	Liliana	PROPN	S	Case=Nom|Number=Sing	4	conj	_	_
-11	Vorobjova	Vorobjova	PROPN	S	Case=Nom|Number=Sing	10	flat:name	_	_
+11	Vorobjova	Vorobjova	PROPN	S	Case=Nom|Number=Sing	10	flat	_	_
 12	(	(	PUNCT	Z	_	13	punct	_	SpaceAfter=No
 13	17	17	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	10	nummod	_	SpaceAfter=No
 14	)	)	PUNCT	Z	_	13	punct	_	_
@@ -21473,7 +21473,7 @@
 11	Gümnaasiumis	Gümnaasium	PROPN	S	Case=Ine|Number=Sing	12	obl	_	_
 12	õppiv	õppiv	ADJ	A	Case=Nom|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	_
 13	Birgit	Birgit	PROPN	S	Case=Nom|Number=Sing	18	nsubj	_	_
-14	Punison	Punison	PROPN	S	Case=Nom|Number=Sing	13	flat:name	_	_
+14	Punison	Punison	PROPN	S	Case=Nom|Number=Sing	13	flat	_	_
 15	(	(	PUNCT	Z	_	16	punct	_	SpaceAfter=No
 16	16	16	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	13	nummod	_	SpaceAfter=No
 17	)	)	PUNCT	Z	_	16	punct	_	_
@@ -21659,7 +21659,7 @@
 2	narko-grupi	narko-grupp	NOUN	S	Case=Gen|Number=Sing	3	nmod	_	_
 3	komissari	komissar	NOUN	S	Case=Gen|Number=Sing	6	nmod	_	_
 4	Märt	Märt	PROPN	S	Case=Nom|Number=Sing	3	appos	_	_
-5	Palo	Palo	PROPN	S	Case=Gen|Number=Sing	4	flat:name	_	_
+5	Palo	Palo	PROPN	S	Case=Gen|Number=Sing	4	flat	_	_
 6	andmetel	andmed	NOUN	S	Case=Ade|Number=Plur	22	obl	_	_
 7	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	22	cop	_	_
 8	Raplamaa	Rapla_maa	PROPN	S	Case=Gen|Number=Sing	9	nmod	_	_
@@ -22216,7 +22216,7 @@
 1	Pärsti	Pärsti	PROPN	S	Case=Gen|Number=Sing	2	nmod	_	_
 2	jahimehe	jahi_mees	NOUN	S	Case=Gen|Number=Sing	5	nmod	_	_
 3	Heino	Heino	PROPN	S	Case=Nom|Number=Sing	2	appos	_	_
-4	Mängli	Mängli	PROPN	S	Case=Gen|Number=Sing	3	flat:name	_	_
+4	Mängli	Mängli	PROPN	S	Case=Gen|Number=Sing	3	flat	_	_
 5	sõnul	sõna	NOUN	S	Case=Ade|Number=Plur	11	obl	_	_
 6	olid	olema	AUX	V	Mood=Ind|Number=Sing|Person=2|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
 7	väiksemad	väiksem	ADJ	A	Case=Nom|Degree=Cmp|Number=Plur	8	amod	_	_
