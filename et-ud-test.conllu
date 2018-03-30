@@ -2907,8 +2907,8 @@
 
 # sent_id = aja_pm20000218_159
 # text = Üks neistki, keda tudengieas Vengerfeldt veerand sajandit tagasi ajalehetoimetusest objektidele sõidutas, ilmus direktori kabinetti küsimustega.
-1	Üks	üks	DET	P	Case=Nom|Number=Sing|PronType=Ind	14	det	_	_
-2	neistki	see	DET	P	Case=Ela|Number=Plur|PronType=Dem	1	det	_	SpaceAfter=No
+1	Üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Ind	14	nsubj	_	_
+2	neistki	see	PRON	P	Case=Ela|Number=Plur|PronType=Dem	1	nmod	_	SpaceAfter=No
 3	,	,	PUNCT	Z	_	12	punct	_	_
 4	keda	kes	PRON	P	Case=Par|Number=Sing|PronType=Int,Rel	12	obj	_	_
 5	tudengieas	tudengi_iga	NOUN	S	Case=Ine|Number=Sing	6	nmod	_	_
@@ -6423,7 +6423,7 @@
 12	tõsta	tõstma	VERB	V	VerbForm=Inf	7	parataxis	_	_
 13	bensiini	bensiin	NOUN	S	Case=Gen|Number=Sing	14	nmod	_	_
 14	aktsiisimaksu	aktsiisi_maks	NOUN	S	Case=Par|Number=Sing	12	obj	_	_
-15	selliselt	selline	DET	P	Case=Abl|Number=Sing|PronType=Dem	12	det	_	SpaceAfter=No
+15	selliselt	selline	PRON	P	Case=Abl|Number=Sing|PronType=Dem	12	obl	_	SpaceAfter=No
 16	,	,	PUNCT	Z	_	20	punct	_	_
 17	et	et	SCONJ	J	_	20	mark	_	_
 18	autokütuse	auto_kütus	NOUN	S	Case=Gen|Number=Sing	19	nmod	_	_
@@ -14494,7 +14494,7 @@
 12	kahel	kaks	NUM	N	Case=Ade|Number=Sing|NumForm=Letter|NumType=Card	13	nummod	_	_
 13	viisil	viis	NOUN	S	Case=Ade|Number=Sing	10	obl	_	SpaceAfter=No
 14	:	:	PUNCT	Z	_	15	punct	_	_
-15	ühed	üks	DET	P	Case=Nom|Number=Plur|PronType=Ind	10	det	_	_
+15	ühed	üks	PRON	P	Case=Nom|Number=Plur|PronType=Ind	10	conj	_	_
 16	tagasihoidliku	tagasi_hoidlik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	17	amod	_	_
 17	nimetuse	nimetus	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
 18	“	“	PUNCT	Z	_	19	punct	_	_
@@ -17038,9 +17038,9 @@
 12	Elliotti	Elliotti	PROPN	S	Case=Nom|Number=Sing	20	obj	_	_
 13	NBA	NBA	PROPN	Y	Abbr=Yes	14	nmod	_	_
 14	meistritiitli	meistri_tiitel	NOUN	S	Case=Gen|Number=Sing	15	nmod	_	_
-15	kaitsjatega	kaitsja	NOUN	S	Case=Com|Number=Plur	20	obl	_	_
-16	üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	19	nummod	_	_
-17	ühe	üks	DET	P	Case=Gen|Number=Sing|PronType=Ind	19	det	_	_
+15	kaitsjatega	kaitsja	NOUN	S	Case=Com|Number=Plur	19	obl	_	_
+16	üks	üks	NUM	N	Case=Nom|Number=Sing|NumForm=Letter|NumType=Card	19	obl	_	_
+17	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	19	obl	_	_
 18	vastu	vastu	ADP	K	AdpType=Post	17	case	_	_
 19	mängimas	mängima	VERB	V	Case=Ine|VerbForm=Sup|Voice=Act	20	xcomp	_	_
 20	nägi	nägema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	22	advcl	_	SpaceAfter=No
@@ -17970,7 +17970,7 @@
 
 # sent_id = aja_pm20000218_968
 # text = Üks kallab vedelikku sisse, teine teibib kätt või jalga.
-1	Üks	üks	DET	P	Case=Nom|Number=Sing|PronType=Ind	2	det	_	_
+1	Üks	üks	PRON	P	Case=Nom|Number=Sing|PronType=Ind	2	nsubj	_	_
 2	kallab	kallama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
 3	vedelikku	vedelik	NOUN	S	Case=Par|Number=Sing	2	obj	_	_
 4	sisse	sisse	ADV	D	_	2	compound:prt	_	SpaceAfter=No
@@ -19530,7 +19530,7 @@
 9	liikuva	liikuv	ADJ	A	Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	10	acl	_	_
 10	raha	raha	NOUN	S	Case=Gen|Number=Sing	11	nmod	_	_
 11	hulga	hulk	NOUN	S	Case=Gen|Number=Sing	7	obj	_	_
-12	samaks	sama	DET	P	Case=Tra|Number=Sing|PronType=Dem	7	det	_	SpaceAfter=No
+12	samaks	sama	PRON	P	Case=Tra|Number=Sing|PronType=Dem	7	obl	_	SpaceAfter=No
 13	.	.	PUNCT	Z	_	2	punct	_	_
 
 # sent_id = aja_pm20000218_1069
@@ -20904,7 +20904,7 @@
 6	sest	sest	SCONJ	J	_	8	mark	_	_
 7	mul	mina	PRON	P	Case=Ade|Number=Sing|Person=1|PronType=Prs	8	obl	_	_
 8	jääb	jääma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	advcl	_	_
-9	kogu	kogu	DET	A	PronType=Tot	12	det	_	_
+9	kogu	kogu	DET	A	PronType=Tot	13	det	_	_
 10	selleks	see	DET	P	Case=Tra|Number=Sing|PronType=Dem	11	det	_	_
 11	aastaks	aasta	NOUN	S	Case=Tra|Number=Sing	12	obl	_	_
 12	planeeritud	planeerima	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	13	acl	_	_
@@ -40822,7 +40822,7 @@
 23	,	,	PUNCT	Z	_	25	punct	_	_
 24	seejuures	see_juures	ADV	D	_	25	advmod	_	_
 25	osutuvad	osutuma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	5	conj	_	_
-26	mõlemad	mõlema	DET	P	Case=Nom|Number=Plur|PronType=Tot	25	det	_	_
+26	mõlemad	mõlema	PRON	P	Case=Nom|Number=Plur|PronType=Tot	25	nsubj	_	_
 27	sissetulekute	sisse_tulek	NOUN	S	Case=Gen|Number=Plur	28	nmod	_	_
 28	ebavõrdsuse	eba_võrdsus	NOUN	S	Case=Gen|Number=Sing	29	nmod	_	_
 29	mõjuritena	mõjur	NOUN	S	Case=Ess|Number=Plur	25	obl	_	_
