@@ -1,30 +1,30 @@
 # Summary
 
 UD Estonian is a conversion of a subpart of Estonian Dependency Treebank (EDT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of genres of fiction, newspaper texts and scientific texts.
+The treebank consists of 26,197 trees, 366,351 tokens.
 
 # Introduction
 
-The Estonian UD v2.1 treebank contains a subpart of UD v1.3 treebank which has been automatically converted and then manually reviewed and reannotated.
+The Estonian UD v2.2 treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
 
-The original texts belong to the following text genres:
+The treebank covers 3 different genres, namely newspaper texts, fiction and scientific texts:
 
-* fiction (58504 tokens, 48175 tokens without punctuation, 5148 sentences): ilu_indrikson_ud2.conllu, ilu_kanep_ud2.conllu, ilu_kivirahk_ud2.conllu, ilu_maailm_ud2.conllu, ilu_orlau_ud2.conllu, ilu_remsu_ud2.conllu, ilu_ruben_ud2.conllu, ilu_valton_ud2.conllu, ilu_vilep_ud2.conllu; 
+* fiction (67,741 tokens, 5,522 sentences)
 
-* newspapers (18179 tokens, 15089 tokens without punctuation, 1198 sentences): aja_epl20070812_ud2.conllu, aja_sloleht20071217_ud2.conllu; 
+* newspapers (205,177 tokens, 14,470 sentences)
 
-* scientific text (20362 tokens, 17683 tokens without punctuation, 1127 sentences): tea_toohoive_ud2.conllu.
+* scientific text (84,233 tokens, 4,928 sentences)
 
-* Also, the subpart of Estonian part of HamleDT 3.0 treebank has been reannotated and included in the treebank; it contains 9200 tokens.
+* Also, the subpart of Estonian part of HamleDT 3.0 treebank has been reannotated and included in the treebank; it contains 9,200 tokens.
 
-The Estonian UD treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank consists of ca 430 000 tokens (punctuation included) in ca 30 000 sentences and covers 3 different genres, namely newspaper texts, fiction and scientific texts.
-
-The current version, Estonian UD v 2.1 has been created by semi-automatic conversion of v 1.3 annotations; some constructions were also re-annotated manually. Among the most frequent of those needing manual effort one can name determing the heads of copular constructions.
 
 # Acknowledgments
 
-We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. Also, we wish to thank Andriela Rääbis for her great job with v 2.1 annotations.
+We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg.
 
-This work was financed by the National Programme for Estonian Language Technology (https://www.keeletehnoloogia.ee/en?set_language=en) and Estonian Ministery of Education and Research (grant 20-56 IUT20-56 "Computational models for Estonian").
+We also thank developers of [udapi](http://udapi.github.io/) and [ud annotatrix](https://github.com/jonorthwash/ud-annotatrix) tools.
+
+This work was financed by the [National Programme for Estonian Language Technology](https://www.keeletehnoloogia.ee/en?set_language=en) and Estonian Ministery of Education and Research (grant 20-56 IUT20-56 "Computational models for Estonian").
 
 # References
 
@@ -35,7 +35,11 @@ This work was financed by the National Programme for Estonian Language Technolog
 
 * Kadri Muischnek, Kaili Müürisep and Tiina Puolakainen 2016. Estonian Dependency Treebank: from Constraint Grammar tagset to Universal Dependencies. - Proceedings of LREC 2016.
 
+* Kadri Muischnek and Kaili Müürisep. 2017. Estonian copular and existential constructions as an UD annotation problem. In Proceedings of the NoDaLiDa 2017 Workshop on Universal Dependencies (UDW 2017), pp. 79-85. 2017.
+
 # Changelog
+
+* UD v2.2: more data added to v2.1; fixed errors in v2.1 files; repository renamed from UD_Estonian to UD_Estonian-EDT.
 
 * UD v2.1: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
 
@@ -56,6 +60,6 @@ XPOS: converted from manual
 Features: converted from manual
 Relations: converted from manual
 Contributing: here
-Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina
+Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina; Rääbis, Andriela
 Contact: kadri.muischnek@ut.ee, kaili.muurisep@ut.ee
 ===============================================================================
