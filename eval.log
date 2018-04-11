@@ -1,17 +1,13 @@
-Sun Feb 11 20:38:41 CET 2018
-perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Estonian
 Running the following version of tools/evaluate_treebank.pl:
-commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+commit 87d374bbd458d29331d76014d05c52eaac32518d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Feb 11 20:27:50 2018 +0100
-Switched to branch 'master'
-Your branch is up-to-date with 'origin/master'.
-Evaluating the following revision of UD_Estonian:
-commit 884465728e070564dd3a9192f69dcbd88eada8e5
+Date:   Wed Apr 11 09:21:53 2018 +0200
+Evaluating the following revision of UD_Estonian-EDT:
+commit 72ff7e0a820a3dbc9caeb45ac9f19fa0e0a1f118
+Merge: 942355a 8e02c44
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 11 13:55:02 2017 +0100
-Size: counted 106829 of 106829 words (nodes).
-Size: min(0, log((N/1000)**2)) = 9.34245885049501.
+Size: counted 366351 of 366351 words (nodes).
+Size: min(0, log((N/1000)**2)) = 11.8071837804648.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -19,23 +15,28 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 69908 out of 106829 total words have one or more features.
+Features: 250099 out of 366351 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 30 out of 37 found in the corpus.
+Universal relations: 32 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 526 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 106829 words.
+Udapi: found 0 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 366351 words.
 Genres: found 3 out of 14 known.
+validate.py --lang et --max-err=10 UD_Estonian-EDT/et_edt-ud-dev.conllu
+*** PASSED ***
+validate.py --lang et --max-err=10 UD_Estonian-EDT/et_edt-ud-test.conllu
+*** PASSED ***
+validate.py --lang et --max-err=10 UD_Estonian-EDT/et_edt-ud-train.conllu
+*** PASSED ***
+Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.214285714285714) = 0.0164835164835165
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.676229721029697) = 0.173392236161461
+(weight=0.256410256410256) * (score{size}=0.854632460445571) = 0.219136528319377
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
-(weight=0.307692307692308) * (score{udapi}=0.950762433421636) = 0.292542287206657
-(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.764591616142858) * (availability=1) * (validity=1) = 0.764591616142858
+(weight=0.307692307692308) * (score{udapi}=1) = 0.307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.691891891891892) = 0.0532224532224532
+(TOTAL score=0.828812332112828) * (availability=1) * (validity=1) = 0.828812332112828
 STARS = 4
-UD_Estonian	0.764591616142858	4
-Switched to branch 'dev'
-Your branch is up-to-date with 'origin/dev'.
+UD_Estonian-EDT	0.828812332112828	4
