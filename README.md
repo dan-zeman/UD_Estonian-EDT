@@ -20,7 +20,7 @@ The treebank covers 3 different genres, namely newspaper texts, fiction and scie
 
 # Acknowledgments
 
-We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg. 
+We wish to thank all of the contributors to the original EDT annotation effort, especially Eleri Aedmaa, Riin Kirt and Dage Särg.
 
 We also thank developers of [udapi](http://udapi.github.io/) and [ud annotatrix](https://github.com/jonorthwash/ud-annotatrix) tools.
 
@@ -39,7 +39,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 # Changelog
 
-* UD v2.2: more data added to v2.1; fixed errors in v2.1 files
+* UD v2.2: more data added to v2.1; fixed errors in v2.1 files; repository renamed from UD_Estonian to UD_Estonian-EDT.
 
 * UD v2.1: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
 
