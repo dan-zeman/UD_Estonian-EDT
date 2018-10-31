@@ -49,6 +49,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 * UD v1.2 contained Arborest, a much smaller and older VISL-style treebank. It has been re-annotated and added to EDT for UD v1.3.
 
+
 === Machine-readable metadata =================================================
 Documentation status: stub
 Data source: semi-automatic
