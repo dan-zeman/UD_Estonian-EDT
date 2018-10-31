@@ -38,7 +38,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 * UD v2.0: manual reannotation of copula sentences, names and appositions; semiautomatic reannotation of pronouns and determiners and coordinated structures; automatic reannotation of nmod and obl functions.
 * UD v1.2 contained Arborest, a much smaller and older VISL-style treebank. It has been re-annotated and added to EDT for UD v1.3.
 
-
+<pre>
 === Machine-readable metadata =================================================
 Documentation status: stub
 Data source: semi-automatic
@@ -54,5 +54,5 @@ Relations: converted from manual
 Contributing: here
 Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina; Rääbis, Andriela
 Contact: kadri.muischnek@ut.ee, kaili.muurisep@ut.ee
-
 ===============================================================================
+</pre>
