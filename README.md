@@ -54,4 +54,5 @@ Relations: converted from manual
 Contributing: here
 Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina; Rääbis, Andriela
 Contact: kadri.muischnek@ut.ee, kaili.muurisep@ut.ee
+
 ===============================================================================
