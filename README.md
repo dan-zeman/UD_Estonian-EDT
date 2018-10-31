@@ -5,7 +5,7 @@ UD Estonian is a converted version of the Estonian Dependency Treebank (EDT), or
 
 # Introduction
 
-The Estonian UD v2.3 treebank is based on the [Estonian Dependency Treebank] (https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
+The Estonian UD v2.3 treebank is based on the [Estonian Dependency Treebank](https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
 
 The treebank covers 3 different genres, namely newspaper texts, fiction and scientific texts:
 
