@@ -39354,7 +39354,7 @@
 # sent_id = ilu_orlau_163
 # text = Ta nägi välja nii ... ebainimlik, kahvatu, peaaegu läbipaistev.
 1	Ta	tema	PRON	P	Case=Nom|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	nägi	nägema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+2	nägi	nägema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
 3	välja	välja	ADV	D	_	2	compound:prt	_	_
 4	nii	nii	ADV	D	_	2	advmod	_	_
 5	...	...	PUNCT	Z	_	2	punct	_	_
