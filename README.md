@@ -53,7 +53,7 @@ XPOS: converted from manual
 Features: converted from manual
 Relations: converted from manual
 Contributing: here
-Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina; Rääbis, Andriela
+Contributors: Muischnek, Kadri; Müürisep, Kaili; Puolakainen, Tiina; Rääbis, Andriela; Torga, Liisi
 Contact: kadri.muischnek@ut.ee, kaili.muurisep@ut.ee
 ===============================================================================
 </pre>
