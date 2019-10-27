@@ -1,16 +1,16 @@
 # Summary
 
-UD Estonian is a converted version of the Estonian Dependency Treebank (EDT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of genres of fiction, newspaper texts and scientific texts. The treebank contains 30,723 trees, 434,245 tokens.
+UD Estonian is a converted version of the Estonian Dependency Treebank (EDT), originally annotated in the Constraint Grammar (CG) annotation scheme, and consisting of genres of fiction, newspaper texts and scientific texts. The treebank contains 30,972 trees, 437,769 tokens.
 
 
 # Introduction
 
-The Estonian UD v2.4 treebank is based on the [Estonian Dependency Treebank](https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
+The Estonian UD v2.5 treebank is based on the [Estonian Dependency Treebank](https://github.com/EstSyntax/) (EDT), created at the University of Tartu. The treebank has been automatically converted and then manually reviewed and reannotated.
 
 The treebank covers 3 different genres, namely newspaper texts, fiction and scientific texts:
 
 * fiction (67,744 tokens, 5,522 sentences)
-* newspapers (263,279 tokens, 18,411 sentences)
+* newspapers (266,806 tokens, 18,690 sentences)
 * scientific texts (94,022 tokens, 5,483 sentences)
 * Also, the subpart of Estonian part of HamleDT 3.0 treebank has been reannotated and included in the treebank; it contains 9,200 tokens in 1277 sentences.
 
@@ -32,6 +32,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 # Changelog
 
+* UD v2.5: Various individual annotation errors and inconsistencies solved. 3527 tokens added to training data.
 * UD v2.4: xcomp function rechecked, some fixed constructions added. Various individual annotatation errors and inconsistencies solved.
 * UD v2.3: more data added to v2.2. Now the whole original EDT is included in Estonian UD. Annotation of elliptical constructions (label 'orphan') is more systematic. Various individual annotation errors and inconsistencies solved.
 * UD v2.2: more data added to v2.1; fixed errors in v2.1 files; repository renamed from UD_Estonian to UD_Estonian-EDT.
