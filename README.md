@@ -32,7 +32,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 # Changelog
 
-* IWPT 2020 shared task: enhanced case and xsubj.
+* IWPT 2020 shared task: enhanced case.
 * UD v2.5: Various individual annotation errors and inconsistencies solved. 3527 tokens added to training data.
 * UD v2.4: xcomp function rechecked, some fixed constructions added. Various individual annotatation errors and inconsistencies solved.
 * UD v2.3: more data added to v2.2. Now the whole original EDT is included in Estonian UD. Annotation of elliptical constructions (label 'orphan') is more systematic. Various individual annotation errors and inconsistencies solved.
