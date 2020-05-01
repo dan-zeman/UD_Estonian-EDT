@@ -48,7 +48,7 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 4.0
 Includes text: yes
-Genre: fiction news nonfiction
+Genre: fiction news nonfiction academic
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: converted from manual
