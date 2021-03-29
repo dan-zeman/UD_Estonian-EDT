@@ -32,6 +32,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 # Changelog
 
+* UD v2.6: In the enhanced representation, 0-nodes are added in clauses in which a predicate is elided, and the relative pronoun is attached to its antecedent with the relation 'ref'.
 * UD v2.5: Various individual annotation errors and inconsistencies solved. 3527 tokens added to training data.
 * UD v2.4: xcomp function rechecked, some fixed constructions added. Various individual annotatation errors and inconsistencies solved.
 * UD v2.3: more data added to v2.2. Now the whole original EDT is included in Estonian UD. Annotation of elliptical constructions (label 'orphan') is more systematic. Various individual annotation errors and inconsistencies solved.
@@ -47,7 +48,7 @@ Data source: semi-automatic
 Data available since: UD v1.2
 License: CC BY-NC-SA 4.0
 Includes text: yes
-Genre: fiction news nonfiction
+Genre: fiction news nonfiction academic
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: converted from manual
