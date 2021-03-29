@@ -32,6 +32,7 @@ This work was financed by the [National Programme for Estonian Language Technolo
 
 # Changelog
 
+* IWPT 2021 shared task data: Added case information to deprels.
 * UD v2.6: In the enhanced representation, 0-nodes are added in clauses in which a predicate is elided, and the relative pronoun is attached to its antecedent with the relation 'ref'.
 * UD v2.5: Various individual annotation errors and inconsistencies solved. 3527 tokens added to training data.
 * UD v2.4: xcomp function rechecked, some fixed constructions added. Various individual annotatation errors and inconsistencies solved.
