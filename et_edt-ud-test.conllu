@@ -2738,7 +2738,7 @@
 31.1	võrreldagu	võrdlema	VERB	V	Mood=Imp|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	1:conj	Empty=31.1|Place=32
 32	omakorda	oma_korda	ADV	D	_	31	orphan	31.1:advmod	_
 33	lauljataride	lauljatar	NOUN	S	Case=Gen|Number=Plur	34	nmod	34:nmod:gen	_
-34	häälega	hääl	NOUN	S	Case=Com|Number=Sing	31	orphan	31.1:obl	SpaceAfter=No
+34	häälega	hääl	NOUN	S	Case=Com|Number=Sing	31	orphan	31.1:obl:com	SpaceAfter=No
 35	:	:	PUNCT	Z	_	1	punct	1:punct	_
 
 # sent_id = aja_ee199920_2143
@@ -5023,7 +5023,7 @@
 11	,	,	PUNCT	Z	_	14	punct	14:punct	_
 12	nagu	nagu	SCONJ	J	_	14	mark	14:mark	_
 13	70ndatel	70=s	ADJ	N	Case=Ade|Number=Plur|NumType=Ord	14	obl	14:obl:ade	_
-14	kujutletud	kujutlema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	9.1:advcl	SpaceAfter=No
+14	kujutletud	kujutlema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	10	advcl	9.1:advcl:nagu	SpaceAfter=No
 15	.	.	PUNCT	Z	_	6	punct	6:punct	_
 
 # sent_id = aja_ee199920_2256
@@ -5485,7 +5485,7 @@
 6	sama	sama	DET	P	Case=Gen|Number=Sing|PronType=Dem	7	det	7:det	_
 7	palju	palju	ADV	D	_	3	advmod	3:advmod	_
 8	kui	kui	SCONJ	J	_	10	mark	9.1:mark	_
-9	Tallinnas	Tallinn	PROPN	S	Case=Ine|Number=Sing	10	orphan	9.1:obl	_
+9	Tallinnas	Tallinn	PROPN	S	Case=Ine|Number=Sing	10	orphan	9.1:obl:ine	_
 9.1	elab	elama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	7:advcl	_
 10	eestlasi	eestlane	NOUN	S	Case=Par|Number=Plur	7	advcl	9.1:nsubj	SpaceAfter=No
 11	,	,	PUNCT	Z	_	15	punct	15.1:punct	_
@@ -6264,7 +6264,7 @@
 14	muusikat	muusika	NOUN	S	Case=Par|Number=Sing	12	orphan	12.1:obj	_
 15	kuskil	kuskil	ADV	D	_	17	advmod	17:advmod	_
 16	jazz-festivali	jazz-festival	NOUN	S	Case=Gen|Number=Sing	17	nmod	17:nmod:gen	_
-17	avakontserdil	ava_kontsert	NOUN	S	Case=Ade|Number=Sing	12	orphan	12.1:obl	_
+17	avakontserdil	ava_kontsert	NOUN	S	Case=Ade|Number=Sing	12	orphan	12.1:obl:ade	_
 18	veel	veel	ADV	D	_	19	advmod	19:advmod	_
 19	enne	enne	ADV	D	_	12	advmod	12.1:advmod	SpaceAfter=No
 20	,	,	PUNCT	Z	_	26	punct	26:punct	_
@@ -17789,7 +17789,7 @@
 56	kirikunõukogu	kiriku_nõu_kogu	NOUN	S	Case=Nom|Number=Sing	52	conj	52:conj	_
 57	ning	ning	CCONJ	J	_	62	cc	60.1:cc	_
 58	ühe	üks	NUM	N	Case=Gen|Number=Sing|NumForm=Letter|NumType=Card	59	nummod	59:nummod	_
-59	akna	aken	NOUN	S	Case=Gen|Number=Sing	62	orphan	60.1:obl	_
+59	akna	aken	NOUN	S	Case=Gen|Number=Sing	62	orphan	60.1:obl:jaoks:gen	_
 60	jaoks	jaoks	ADP	K	AdpType=Post	59	case	59:case	_
 60.1	annetas	annetama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	51:conj	Empty=60.1|Place=61
 61	kirikunõukogu	kiriku_nõu_kogu	NOUN	S	Case=Gen|Number=Sing	62	nmod	62:nmod:gen	_
@@ -19361,7 +19361,7 @@
 15	”	”	PUNCT	Z	_	14	punct	14:punct	SpaceAfter=No
 16	,	,	PUNCT	Z	_	18	punct	18.2:punct	_
 17	meie	mina	PRON	P	Case=Gen|Number=Plur|Person=1|PronType=Prs	18	nmod	18:nmod:gen	_
-18	kanalitelt	kanal	NOUN	S	Case=Abl|Number=Plur	3	conj	18.1:obl	_
+18	kanalitelt	kanal	NOUN	S	Case=Abl|Number=Plur	3	conj	18.1:obl:abl	_
 18.1	meeldib	meeldima	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	2:conj	Empty=18.1|Place=19
 18.2	jälgida	jälgima	VERB	V	VerbForm=Inf	_	_	18.1:csubj	Empty=18.2
 19	“	“	PUNCT	Z	_	20	punct	20:punct	_
@@ -19847,7 +19847,7 @@
 18.1	jäi	jääma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	12:conj	_
 19	ilma	ilma	ADV	D	_	18	orphan	18.1:compound:prt	Empty=18.1|Place=19
 20	kopsakast	kopsakas	ADJ	A	Case=Ela|Degree=Pos|Number=Sing	21	amod	21:amod	_
-21	rahasummast	raha_summa	NOUN	S	Case=Ela|Number=Sing	18	orphan	18.1:obl	SpaceAfter=No
+21	rahasummast	raha_summa	NOUN	S	Case=Ela|Number=Sing	18	orphan	18.1:obl:ela	SpaceAfter=No
 22	.	.	PUNCT	Z	_	8	punct	8:punct	_
 
 # sent_id = aja_pm20000218_401
@@ -27221,7 +27221,7 @@
 15	ühed	üks	PRON	P	Case=Nom|Number=Plur|PronType=Ind	10	conj	15.1:nsubj	_
 15.1	jõuavad	jõudma	VERB	V	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	10:conj	Empty=15.1|Place=16
 16	tagasihoidliku	tagasi_hoidlik	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	17	amod	17:amod	_
-17	nimetuse	nimetus	NOUN	S	Case=Gen|Number=Sing	15	orphan	15.1:obl	_
+17	nimetuse	nimetus	NOUN	S	Case=Gen|Number=Sing	15	orphan	15.1:obl:all:gen	_
 18	“	“	PUNCT	Z	_	19	punct	19:punct	_
 19	kam-mermuusika	kam-mer_muusika	NOUN	S	Case=Gen|Number=Sing	17	appos	17:appos	_
 20	”	”	PUNCT	Z	_	19	punct	19:punct	_
@@ -29176,7 +29176,7 @@
 8.1	kaalub	kaaluma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	3:conj	Empty=8.1|Place=9
 9	keskmiselt	keskmiselt	ADV	D	_	8	orphan	8.1:advmod	_
 10	150	150	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	11	nummod	11:nummod	_
-11	grammi	gramm	NOUN	S	Case=Par|Number=Sing	8	orphan	8.1:obl	SpaceAfter=No
+11	grammi	gramm	NOUN	S	Case=Par|Number=Sing	8	orphan	8.1:obl:par	SpaceAfter=No
 12	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = aja_pm20000218_874
@@ -30561,11 +30561,11 @@
 5	km	km	NOUN	Y	Abbr=Yes	3	obj	3:obj	SpaceAfter=No
 6	,	,	PUNCT	Z	_	10	punct	8.1:punct	_
 7	26.	26.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	8	amod	8:amod	_
-8	veebruaril	veebruar	NOUN	S	Case=Ade|Number=Sing	10	orphan	8.1:obl	_
+8	veebruaril	veebruar	NOUN	S	Case=Ade|Number=Sing	10	orphan	8.1:obl:ade	_
 8.1	sõidetakse	sõitma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	3:conj	Empty=8.1|Place=9
 9	15	15	NUM	N	NumForm=Digit|NumType=Card	10	nummod	10:nummod	_
 10	km	km	NOUN	Y	Abbr=Yes	3	conj	8.1:obj	_
-11	ühisstardist	ühis_start	NOUN	S	Case=Ela|Number=Sing	10	orphan	8.1:obl	_
+11	ühisstardist	ühis_start	NOUN	S	Case=Ela|Number=Sing	10	orphan	8.1:obl:ela	_
 12	ning	ning	CCONJ	J	_	15	cc	15:cc	_
 13	27.	27.	ADJ	N	Case=Ade|Number=Sing|NumForm=Digit|NumType=Ord	14	amod	14:amod	_
 14	veebruaril	veebruar	NOUN	S	Case=Ade|Number=Sing	15	obl	15:obl:ade	_
@@ -34110,11 +34110,11 @@
 9	või	või	CCONJ	J	_	10	cc	10:cc	_
 10	Õigusinstituudis	Õigus_instituut	PROPN	S	Case=Ine|Number=Sing	8	conj	8:conj	_
 11	ning	ning	CCONJ	J	_	12	cc	12.1:cc	_
-12	Liliana	Lilia	PROPN	S	Case=Ess|Number=Sing	2	conj	12.1:obl	_
+12	Liliana	Lilia	PROPN	S	Case=Ess|Number=Sing	2	conj	12.1:obl:ess	_
 12.1	loodab	lootma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	2:conj	Empty=12.1|Place=13
 12.2	välja	välja	ADV	D	_	_	_	12.3:compound	_
 12.3	võidelda	võitlema	VERB	V	VerbForm=Inf	_	_	12.1:xcomp	_
-13	TPÜs	TPÜ	PROPN	Y	Abbr=Yes|Case=Ine|Number=Sing	12	orphan	12.3:obl	_
+13	TPÜs	TPÜ	PROPN	Y	Abbr=Yes|Case=Ine|Number=Sing	12	orphan	12.3:obl:ine	_
 14	või	või	CCONJ	J	_	15	cc	15:cc	_
 15	Õigusinstituudis	Õigus_instituut	PROPN	S	Case=Ine|Number=Sing	13	conj	13:conj	SpaceAfter=No
 16	.	.	PUNCT	Z	_	2	punct	2:punct	_
@@ -37451,7 +37451,7 @@
 7	nagu	nagu	SCONJ	J	_	8	mark	8.1:mark	_
 8	pull	pull	NOUN	S	Case=Nom|Number=Sing	2	advcl	8.1:nsubj	_
 8.1	haukab	haukama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	2:advcl	_
-9	aasal	aas	NOUN	S	Case=Ade|Number=Sing	8	orphan	8.1:obl	_
+9	aasal	aas	NOUN	S	Case=Ade|Number=Sing	8	orphan	8.1:obl:ade	_
 10	lilleõisi	lille_õis	NOUN	S	Case=Par|Number=Plur	8	orphan	8.1:obj	SpaceAfter=No
 11	.	.	PUNCT	Z	_	2	punct	2:punct	_
 
@@ -37731,7 +37731,7 @@
 8	eesti	eesti	ADJ	G	_	9	amod	9:amod	_
 9	kirjandusest	kirjandus	NOUN	S	Case=Ela|Number=Sing	7	nmod	7:nmod:ela	_
 10	on	olema	AUX	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	orphan	11.1:aux	_
-11	neegrite	neeger	NOUN	S	Case=Gen|Number=Plur	3	ccomp	11.1:obl	_
+11	neegrite	neeger	NOUN	S	Case=Gen|Number=Plur	3	ccomp	11.1:obl:et:gen	_
 11.1	tehtud	tegema	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	_	_	3:ccomp	Empty=11.1|Place=12
 12	ja	ja	CCONJ	J	_	15	cc	15:cc	_
 13	milline	milline	ADJ	P	Case=Nom|Number=Sing|PronType=Int,Rel	15	obj	15:obj	_
@@ -40605,7 +40605,7 @@
 26	naine	naine	NOUN	S	Case=Nom|Number=Sing	23	conj	26.1:nsubj	_
 26.1	tahab	tahtma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	23:conj	Empty=26.1|Place=27
 27	riiet	riie	NOUN	S	Case=Par|Number=Sing	26	orphan	26.1:obj	_
-28	selga	selg	NOUN	S	Case=Add|Number=Sing	26	orphan	26.1:obl	SpaceAfter=No
+28	selga	selg	NOUN	S	Case=Add|Number=Sing	26	orphan	26.1:obl:add	SpaceAfter=No
 29	.	.	PUNCT	Z	_	5	punct	5:punct	_
 
 # sent_id = ilu_sauter_287
@@ -43373,16 +43373,16 @@
 # sent_id = ilu_sauter_447
 # text = Kodanlikus Eestis 15 aastat ja Nõukogude Liidus 5 aastat ja elas 88 aastaseks.
 1	Kodanlikus	kodanlik	ADJ	A	Case=Ine|Degree=Pos|Number=Sing	2	amod	2:amod	_
-2	Eestis	Eesti	PROPN	S	Case=Ine|Number=Sing	0	root	2.1:obl	_
+2	Eestis	Eesti	PROPN	S	Case=Ine|Number=Sing	0	root	2.1:obl:ine	_
 2.1	istus	istuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	0:root	Empty=2.1|Place=3
 3	15	15	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	4	nummod	4:nummod	_
-4	aastat	aasta	NOUN	S	Case=Par|Number=Sing	2	orphan	2.1:obl	_
+4	aastat	aasta	NOUN	S	Case=Par|Number=Sing	2	orphan	2.1:obl:par	_
 5	ja	ja	CCONJ	J	_	7	cc	7.1:cc	_
 6	Nõukogude	Nõu_kogu	PROPN	S	Case=Gen|Number=Plur	7	nmod	7:nmod:gen	_
-7	Liidus	Liit	PROPN	S	Case=Ine|Number=Sing	2	conj	7.1:obl	_
+7	Liidus	Liit	PROPN	S	Case=Ine|Number=Sing	2	conj	7.1:obl:ine	_
 7.1	istus	istuma	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	_	_	2.1:conj	_
 8	5	5	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	9	nummod	9:nummod	_
-9	aastat	aasta	NOUN	S	Case=Par|Number=Sing	7	obl	7.1:obl	_
+9	aastat	aasta	NOUN	S	Case=Par|Number=Sing	7	obl	7.1:obl:par	_
 10	ja	ja	CCONJ	J	_	11	cc	11:cc	_
 11	elas	elama	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	2	conj	2.1:conj	_
 12	88	88	NUM	N	Case=Tra|Number=Sing|NumForm=Digit|NumType=Card	13	obl	13:obl:tra	_
@@ -46408,7 +46408,7 @@
 8	siis	siis	ADV	D	_	10	advmod	10:advmod	_
 9	sa	sina	PRON	P	Case=Nom|Number=Sing|Person=2|PronType=Prs	10	nsubj	10:nsubj	_
 10	teed	tegema	VERB	V	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	0:root	_
-11	sedasama	see_sama	ADJ	P	Case=Par|Number=Sing|PronType=Dem	10	obj	10:obj	_
+11	sedasama	see_sama	ADJ	P	Case=Par|Number=Sing|PronType=Dem	10	obj	10:obj|12.1:obj	_
 12	mis	mis	PRON	P	Case=Nom|Number=Sing|PronType=Int,Rel	14	obj	11:ref	_
 12.1	teeb	tegema	VERB	V	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	11:acl	_
 13	saksa	saksa	ADJ	G	_	14	amod	14:amod	_
@@ -50927,7 +50927,7 @@
 26.1	seotud	siduma	VERB	V	Tense=Past|VerbForm=Part|Voice=Pass	_	_	18:conj	Empty=26.1|Place=27
 27	absoluutse	absoluutne	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	29	amod	29:amod	_
 28	heaolu	hea_olu	NOUN	S	Case=Gen|Number=Sing	29	nmod	29:nmod:gen	_
-29	tasemega	tase	NOUN	S	Case=Com|Number=Sing	18	conj	26.1:obl	SpaceAfter=No
+29	tasemega	tase	NOUN	S	Case=Com|Number=Sing	18	conj	26.1:obl:com	SpaceAfter=No
 30	.	.	PUNCT	Z	_	3	punct	3:punct	_
 
 # sent_id = tea_dr8020_163
@@ -53965,7 +53965,7 @@
 13	selle	see	PRON	P	Case=Gen|Number=Sing|PronType=Dem	16	nmod	16:nmod:gen	_
 14	ühe	üks	DET	P	Case=Gen|Number=Sing|PronType=Ind	16	det	16:det	_
 15	olulise	oluline	ADJ	A	Case=Gen|Degree=Pos|Number=Sing	16	amod	16:amod	_
-16	osana	osa	NOUN	S	Case=Ess|Number=Sing	18	orphan	16.1:obl	_
+16	osana	osa	NOUN	S	Case=Ess|Number=Sing	18	orphan	16.1:obl:ess	_
 16.1	tuuakse	tooma	VERB	V	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Pass	_	_	5:conj	Empty=16.1|Place=17
 16.2	välja	välja	ADV	D	_	_	_	16.1:compound:prt	Empty=16.2|Place=18
 17	infotehnoloogia	info_tehnoloogia	NOUN	S	Case=Gen|Number=Sing	18	nmod	18:nmod:gen	_
@@ -56547,11 +56547,11 @@
 32	1978	1978	NUM	N	Case=Nom|Number=Sing|NumForm=Digit|NumType=Card	30	parataxis	30:parataxis	SpaceAfter=No
 33	)	)	PUNCT	Z	_	32	punct	32:punct	_
 34	oma	oma	PRON	P	Case=Gen|Number=Sing|Poss=Yes|PronType=Prs	35	nmod	35:nmod:gen	_
-35	uurimuses	uurimus	NOUN	S	Case=Ine|Number=Sing	30	orphan	29.1:obl	_
+35	uurimuses	uurimus	NOUN	S	Case=Ine|Number=Sing	30	orphan	29.1:obl:ine	_
 36	32	32	NUM	N	Case=Gen|Number=Sing|NumForm=Digit|NumType=Card	37	nummod	37:nummod	_
 37	riigi	riik	NOUN	S	Case=Gen|Number=Sing	39	nmod	39:nmod:gen	_
 38	1960-ndate	1960=s	ADJ	N	Case=Gen|Number=Plur|NumType=Ord	39	amod	39:amod	_
-39	ristandmetel	rist_andmed	NOUN	S	Case=Ade|Number=Plur	30	orphan	29.1:obl	SpaceAfter=No
+39	ristandmetel	rist_andmed	NOUN	S	Case=Ade|Number=Plur	30	orphan	29.1:obl:ade	SpaceAfter=No
 40	.	.	PUNCT	Z	_	9	punct	9:punct	_
 
 # sent_id = tea_dr8020_384
